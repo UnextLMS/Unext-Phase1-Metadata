@@ -1,0 +1,11 @@
+{
+    "name": "Retrieve Liveclassroom data for mobile push",
+    "key": "c51dd76e-0360-471e-92ce-3a8c1ea0c3e3",
+    "description": "",
+    "targetKey": "EAD922BB-1A01-4808-8BAE-08348DCA53D5",
+    "createdDate": "2022-07-19T09:11:39.13",
+    "modifiedDate": "2022-07-19T09:11:39.13",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

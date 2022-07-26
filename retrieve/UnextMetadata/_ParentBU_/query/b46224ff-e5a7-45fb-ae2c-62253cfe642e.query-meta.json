@@ -1,0 +1,11 @@
+{
+    "name": "LearnerLiveClassroomRemTime",
+    "key": "b46224ff-e5a7-45fb-ae2c-62253cfe642e",
+    "description": "",
+    "targetKey": "602E81CA-4BB5-4659-AAD9-ABB5FA803A46",
+    "createdDate": "2022-04-13T02:35:00.1",
+    "modifiedDate": "2022-04-14T03:24:35.113",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

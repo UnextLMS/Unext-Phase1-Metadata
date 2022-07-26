@@ -1,0 +1,11 @@
+{
+    "name": "Track Newly Added Students",
+    "key": "f79055f4-faf9-4745-81fc-716d58d1ec0c",
+    "description": "",
+    "targetKey": "E298FEAD-BD19-4996-8B38-D1D2694ED983",
+    "createdDate": "2022-06-15T23:27:43.223",
+    "modifiedDate": "2022-06-27T03:12:19.713",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Discussion Forum"
+}

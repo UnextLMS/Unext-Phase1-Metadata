@@ -1,0 +1,62 @@
+{
+    "name": "Delete Data Extension Data ",
+    "description": "",
+    "key": "97b01d9c-1b1c-8d35-f479-2d2127827d6d",
+    "type": "scheduled",
+    "status": "Scheduled",
+    "schedule": {
+        "typeId": 3,
+        "startDate": "2022-07-22T23:30:00",
+        "endDate": "2079-06-06T00:00:00",
+        "icalRecur": "FREQ=DAILY;UNTIL=20790606T113000;INTERVAL=1",
+        "timezoneName": "India Standard Time"
+    },
+    "steps": [
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Remove LMS Api Event Data Which is Completed",
+                    "r__type": "script"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Remove Discussion Forum Data When It is Completed",
+                    "r__type": "script"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Remove Quiz Data When It is Completed",
+                    "r__type": "script"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Remove Live Classroom Data When It is Completed",
+                    "r__type": "script"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Remove Assignment Data When It is Completed",
+                    "r__type": "script"
+                }
+            ]
+        }
+    ],
+    "r__folder_Path": "my automations"
+}

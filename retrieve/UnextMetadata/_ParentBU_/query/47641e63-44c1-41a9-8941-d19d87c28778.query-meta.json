@@ -1,0 +1,11 @@
+{
+    "name": "Update latest records for quiz to false",
+    "key": "47641e63-44c1-41a9-8941-d19d87c28778",
+    "description": "",
+    "targetKey": "B3771E2E-6EF8-468E-8F12-BCC0AF40ECA3",
+    "createdDate": "2022-06-27T05:07:02.37",
+    "modifiedDate": "2022-06-27T07:48:27.03",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Quiz"
+}

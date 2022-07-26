@@ -1,0 +1,86 @@
+{
+    "CustomerKey": "lumen__unUser_Group_Member__c_Salesforce",
+    "Name": "lumen__unUser_Group_Member__c_Salesforce",
+    "Description": "",
+    "IsSendable": false,
+    "IsTestable": false,
+    "DataRetentionPeriodUnitOfMeasure": 0,
+    "RowBasedRetention": false,
+    "ResetRetentionPeriodOnImport": false,
+    "DeleteAtEndOfRetentionPeriod": false,
+    "RetainUntil": "",
+    "Fields": [
+        {
+            "Name": "CreatedById",
+            "DefaultValue": "",
+            "MaxLength": 18,
+            "IsRequired": false,
+            "IsPrimaryKey": false,
+            "FieldType": "Text"
+        },
+        {
+            "Name": "CreatedDate",
+            "DefaultValue": "",
+            "IsRequired": false,
+            "IsPrimaryKey": false,
+            "FieldType": "Date"
+        },
+        {
+            "Name": "Id",
+            "DefaultValue": "",
+            "MaxLength": 18,
+            "IsRequired": true,
+            "IsPrimaryKey": true,
+            "FieldType": "Text"
+        },
+        {
+            "Name": "LastModifiedById",
+            "DefaultValue": "",
+            "MaxLength": 18,
+            "IsRequired": false,
+            "IsPrimaryKey": false,
+            "FieldType": "Text"
+        },
+        {
+            "Name": "LastModifiedDate",
+            "DefaultValue": "",
+            "IsRequired": false,
+            "IsPrimaryKey": false,
+            "FieldType": "Date"
+        },
+        {
+            "Name": "lumen__unContact__c",
+            "DefaultValue": "",
+            "MaxLength": 18,
+            "IsRequired": false,
+            "IsPrimaryKey": false,
+            "FieldType": "Text"
+        },
+        {
+            "Name": "lumen__unGroup__c",
+            "DefaultValue": "",
+            "MaxLength": 18,
+            "IsRequired": false,
+            "IsPrimaryKey": false,
+            "FieldType": "Text"
+        },
+        {
+            "Name": "lumen__User__c",
+            "DefaultValue": "",
+            "MaxLength": 18,
+            "IsRequired": false,
+            "IsPrimaryKey": false,
+            "FieldType": "Text"
+        },
+        {
+            "Name": "Name",
+            "DefaultValue": "",
+            "MaxLength": 80,
+            "IsRequired": false,
+            "IsPrimaryKey": false,
+            "FieldType": "Text"
+        }
+    ],
+    "r__folder_ContentType": "synchronizeddataextension",
+    "r__folder_Path": "Synchronized Data Extensions"
+}

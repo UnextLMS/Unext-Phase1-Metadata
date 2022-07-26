@@ -1,0 +1,39 @@
+{
+    "name": "Whatsapp Test",
+    "key": "68126752-264B-4DED-991B-04C0C72438B5",
+    "fileSpec": "Whatsapp sent report",
+    "createdDate": "2022-06-01T00:27:04.463",
+    "modifiedDate": "2022-06-01T00:27:04.463",
+    "createdBy": 735132980,
+    "modifiedBy": 735132980,
+    "intervalType": 1,
+    "description": "",
+    "dataFields": [
+        {
+            "name": "ChannelId",
+            "type": "string",
+            "value": "UNext Student Support"
+        },
+        {
+            "name": "ChannelType",
+            "type": "string",
+            "value": "WHATSAPP"
+        },
+        {
+            "name": "ContactTrackingDetail",
+            "type": "bool",
+            "value": "True"
+        },
+        {
+            "name": "InboundMessageLogs",
+            "type": "bool",
+            "value": "True"
+        },
+        {
+            "name": "PotentialChannelUnsubscribes",
+            "type": "bool",
+            "value": "False"
+        }
+    ],
+    "r__dataExtractType_name": "ChatMessagingDetailExtract"
+}

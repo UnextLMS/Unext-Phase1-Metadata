@@ -1,0 +1,11 @@
+{
+    "name": "Mentor Allotment - 2022-06-30T052015330",
+    "key": "63f0eb9b-7b4d-44d0-9922-7fa5431cd1b4",
+    "description": "",
+    "targetKey": "3A4B8C32-2148-416B-8A55-049610362B28",
+    "createdDate": "2022-07-05T23:57:07.05",
+    "modifiedDate": "2022-07-06T07:53:20.857",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

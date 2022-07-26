@@ -1,0 +1,11 @@
+{
+    "name": "SMS SendLog",
+    "key": "c0e8028c-af29-4d96-a72b-8c7355f4d508",
+    "description": "",
+    "targetKey": "2818146F-FE81-4BA6-83A0-39D7A179F1A2",
+    "createdDate": "2022-06-20T00:52:49.497",
+    "modifiedDate": "2022-06-23T00:57:26.463",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

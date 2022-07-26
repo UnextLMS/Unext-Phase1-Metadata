@@ -1,0 +1,11 @@
+{
+    "name": "LearnerQuizInvalidGroupOfContacts",
+    "key": "bb0abbf1-e148-4d4d-830e-a87bd2827946",
+    "description": "",
+    "targetKey": "171BCC0D-B00D-4506-AAB0-A100AA12E272",
+    "createdDate": "2022-05-11T05:48:15.293",
+    "modifiedDate": "2022-05-17T08:14:39.847",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

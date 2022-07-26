@@ -1,0 +1,11 @@
+{
+    "name": "Retrieve New Student Added into a group",
+    "key": "e092081b-035f-45e7-9f73-64224cedc803",
+    "description": "",
+    "targetKey": "277E2226-1D8C-4962-B7A5-9D99A13E803A",
+    "createdDate": "2022-05-30T00:33:20.273",
+    "modifiedDate": "2022-07-15T06:43:31.033",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

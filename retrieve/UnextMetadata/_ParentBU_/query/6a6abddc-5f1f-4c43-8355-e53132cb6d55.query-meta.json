@@ -1,0 +1,11 @@
+{
+    "name": "Update SMS SendLog",
+    "key": "6a6abddc-5f1f-4c43-8355-e53132cb6d55",
+    "description": "",
+    "targetKey": "2818146F-FE81-4BA6-83A0-39D7A179F1A2",
+    "createdDate": "2022-07-03T10:09:42.477",
+    "modifiedDate": "2022-07-03T10:09:42.477",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

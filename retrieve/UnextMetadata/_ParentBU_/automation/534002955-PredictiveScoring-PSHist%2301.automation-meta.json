@@ -1,0 +1,129 @@
+{
+    "name": "UNext Learning Private Limited (Part o-12166-534002955-PSHist#01",
+    "description": "This automation sends HISTORICAL data to the Data Scientists for scoring and is an important componentof the Einstein Engagement Scoring application.",
+    "key": "534002955-PredictiveScoring-PSHist#01",
+    "type": "scheduled",
+    "status": "Ready",
+    "schedule": {},
+    "steps": [
+        {
+            "name": "Predictive Scoring historical #01 extract-upload task",
+            "description": "Auto generated step task",
+            "activities": [
+                {
+                    "name": "Extract-Upload C534002955.VPS_stats_Click_H#01 into S3",
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Upload C534002955.VPS_stats_Open_H#01 into S3",
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Upload C534002955.VPS_stats_Send_H#01 into S3",
+                    "r__type": "dataFactoryUtility"
+                }
+            ]
+        },
+        {
+            "name": "Predictive Scoring historical #02 extract-upload task",
+            "description": "Auto generated step task",
+            "activities": [
+                {
+                    "name": "Extract-Upload C534002955.VPS_stats_Click_H#02 into S3",
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Upload C534002955.VPS_stats_Open_H#02 into S3",
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Upload C534002955.VPS_stats_Send_H#02 into S3",
+                    "r__type": "dataFactoryUtility"
+                }
+            ]
+        },
+        {
+            "name": "Predictive Scoring historical #03 extract-upload task",
+            "description": "Auto generated step task",
+            "activities": [
+                {
+                    "name": "Extract-Upload C534002955.VPS_stats_Click_H#03 into S3",
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Upload C534002955.VPS_stats_Open_H#03 into S3",
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Upload C534002955.VPS_stats_Send_H#03 into S3",
+                    "r__type": "dataFactoryUtility"
+                }
+            ]
+        },
+        {
+            "name": "Predictive Scoring historical #04 extract-upload task",
+            "description": "Auto generated step task",
+            "activities": [
+                {
+                    "name": "Extract-Upload C534002955.VPS_stats_Click_H#04 into S3",
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Upload C534002955.VPS_stats_Open_H#04 into S3",
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Upload C534002955.VPS_stats_Send_H#04 into S3",
+                    "r__type": "dataFactoryUtility"
+                }
+            ]
+        },
+        {
+            "name": "Predictive Scoring historical #05 extract-upload task",
+            "description": "Auto generated step task",
+            "activities": [
+                {
+                    "name": "Extract-Upload C534002955.VPS_stats_Click_H#05 into S3",
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Upload C534002955.VPS_stats_Open_H#05 into S3",
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Upload C534002955.VPS_stats_Send_H#05 into S3",
+                    "r__type": "dataFactoryUtility"
+                }
+            ]
+        },
+        {
+            "name": "Predictive Scoring historical #06 extract-upload task",
+            "description": "Auto generated step task",
+            "activities": [
+                {
+                    "name": "Extract-Upload C534002955.VPS_stats_Click_H#06 into S3",
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Upload C534002955.VPS_stats_Open_H#06 into S3",
+                    "r__type": "dataFactoryUtility"
+                },
+                {
+                    "name": "Extract-Upload C534002955.VPS_stats_Send_H#06 into S3",
+                    "r__type": "dataFactoryUtility"
+                }
+            ]
+        },
+        {
+            "name": "Predictive Scoring historical #S_ExportDo extract-upload task",
+            "description": "Auto generated step task",
+            "activities": [
+                {
+                    "name": "Extract-Upload C534002955.VPS_ExportDone_Hist_Email into S3",
+                    "r__type": "dataFactoryUtility"
+                }
+            ]
+        }
+    ],
+    "r__folder_Path": "my automations/Data Factory Utility Automations"
+}

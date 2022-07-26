@@ -1,0 +1,54 @@
+{
+    "customerKey": "55819118-9563-41f5-818a-61fdf8c0f7d1",
+    "contentType": "text/html",
+    "assetType": {
+        "name": "webpage",
+        "displayName": "Web Page"
+    },
+    "version": 1,
+    "name": "test",
+    "owner": {
+        "email": "ashwini.surwase@aethereus.com",
+        "name": "Ashwini Surwase"
+    },
+    "createdDate": "2022-07-13T03:09:01.857-06:00",
+    "createdBy": {
+        "email": "ashwini.surwase@aethereus.com",
+        "name": "Ashwini Surwase"
+    },
+    "modifiedDate": "2022-07-13T03:09:01.857-06:00",
+    "modifiedBy": {
+        "email": "ashwini.surwase@aethereus.com",
+        "name": "Ashwini Surwase"
+    },
+    "memberId": 534002955,
+    "status": {
+        "name": "Draft"
+    },
+    "meta": {
+        "globalStyles": {
+            "isLocked": false,
+            "body": {
+                "max-width": "1280px"
+            }
+        }
+    },
+    "views": {
+        "html": {
+            "thumbnail": {},
+            "meta": {},
+            "slots": {
+                "col1": {
+                    "design": "<p style=\"font-family:arial;color:#ccc;font-size:11px;text-align:center;vertical-align:middle;font-weight:bold;padding:10px;margin:0;border:#ccc dashed 1px;\">Drop blocks or content here</p>",
+                    "modelVersion": 2
+                }
+            },
+            "modelVersion": 2
+        }
+    },
+    "availableViews": [
+        "html"
+    ],
+    "modelVersion": 2,
+    "r__folder_Path": "Content Builder"
+}

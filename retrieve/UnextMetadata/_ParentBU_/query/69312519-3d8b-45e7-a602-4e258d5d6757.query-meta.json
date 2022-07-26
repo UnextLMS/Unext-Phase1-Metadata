@@ -1,0 +1,11 @@
+{
+    "name": "Update Query To true for New Student Enrollment",
+    "key": "69312519-3d8b-45e7-a602-4e258d5d6757",
+    "description": "",
+    "targetKey": "277E2226-1D8C-4962-B7A5-9D99A13E803A",
+    "createdDate": "2022-07-12T00:19:10.177",
+    "modifiedDate": "2022-07-12T00:19:10.177",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

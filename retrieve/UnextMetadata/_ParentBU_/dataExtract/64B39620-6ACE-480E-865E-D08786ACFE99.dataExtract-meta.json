@@ -1,0 +1,44 @@
+{
+    "name": "pushDataExtractAct",
+    "key": "64B39620-6ACE-480E-865E-D08786ACFE99",
+    "fileSpec": "mobilepushextr.csv",
+    "createdDate": "2022-04-06T03:29:55.617",
+    "modifiedDate": "2022-06-13T07:02:30.117",
+    "createdBy": 735133311,
+    "modifiedBy": 735133311,
+    "intervalType": 2,
+    "description": "",
+    "dataFields": [
+        {
+            "name": "ApplyTimeZone",
+            "type": "bool",
+            "value": "False"
+        },
+        {
+            "name": "AppName",
+            "type": "string",
+            "value": "UNEXT"
+        },
+        {
+            "name": "Campaign",
+            "type": "string",
+            "value": ""
+        },
+        {
+            "name": "MessageName",
+            "type": "string",
+            "value": "MP Testing"
+        },
+        {
+            "name": "Platform",
+            "type": "string",
+            "value": "Android OS"
+        },
+        {
+            "name": "Timezone",
+            "type": "integer",
+            "value": "34"
+        }
+    ],
+    "r__dataExtractType_name": "Mobile Push Detail Extract Report"
+}

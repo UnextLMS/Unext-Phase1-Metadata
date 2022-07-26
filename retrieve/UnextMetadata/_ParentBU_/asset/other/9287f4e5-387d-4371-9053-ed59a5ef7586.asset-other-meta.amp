@@ -1,0 +1,14 @@
+%%[
+set @lookup = LookupRows("Discussion Forum Sendable 1","ContactId", _subscriberkey)
+set @rowCount = rowcount(@lookup)
+if  @rowCount ==1 then
+set @row = row(@lookup, 1) /* get row based on counter */
+    set @startdate = field(@row,"StartDate")
+    set @newstartdate = field(@row,"NewStartDate")
+    if @newstartdate!='' then
+    set @varstartdate = @newstartdate
+    else
+    set @varstartdate = @startdate
+    endif
+endif
+]%%

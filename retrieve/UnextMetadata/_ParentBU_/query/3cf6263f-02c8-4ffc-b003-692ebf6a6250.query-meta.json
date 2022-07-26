@@ -1,0 +1,11 @@
+{
+    "name": "Asg Rem Target All for char Limit",
+    "key": "3cf6263f-02c8-4ffc-b003-692ebf6a6250",
+    "description": "",
+    "targetKey": "EA3E43F8-2BFC-43C4-A9C2-C0B5B6FE3227",
+    "createdDate": "2022-07-04T00:54:06.42",
+    "modifiedDate": "2022-07-04T00:54:06.42",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Assignment"
+}

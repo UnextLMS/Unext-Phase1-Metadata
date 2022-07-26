@@ -1,0 +1,11 @@
+{
+    "name": "Update Program Name to Students Under a Group for Quiz Remainder",
+    "key": "73bfb756-f681-4676-a2b1-c1523ee58116",
+    "description": "",
+    "targetKey": "8E470639-B197-418E-A9C8-B00E8435C8FF",
+    "createdDate": "2022-06-14T08:08:36.51",
+    "modifiedDate": "2022-07-07T00:11:48.127",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

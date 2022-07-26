@@ -1,0 +1,11 @@
+{
+    "name": "Retrieve Quiz Data for mobile push",
+    "key": "6b289c03-1025-4668-8140-13ed00627a97",
+    "description": "",
+    "targetKey": "A700C883-4FCE-4245-82E6-010648383548",
+    "createdDate": "2022-07-19T09:32:18.95",
+    "modifiedDate": "2022-07-19T09:32:18.95",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

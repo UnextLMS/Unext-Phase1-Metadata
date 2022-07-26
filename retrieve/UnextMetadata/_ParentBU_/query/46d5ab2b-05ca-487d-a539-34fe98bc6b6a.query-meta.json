@@ -1,0 +1,11 @@
+{
+    "name": "Assignment Create Event for New Student Enrolled Into a Group",
+    "key": "46d5ab2b-05ca-487d-a539-34fe98bc6b6a",
+    "description": "",
+    "targetKey": "67CB7BA3-C943-4DCC-BB1E-2C361BCEBCA3",
+    "createdDate": "2022-06-13T01:19:31.09",
+    "modifiedDate": "2022-07-15T05:23:29.12",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Assignment"
+}

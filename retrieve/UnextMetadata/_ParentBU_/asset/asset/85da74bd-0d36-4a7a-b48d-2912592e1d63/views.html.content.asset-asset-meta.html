@@ -1,0 +1,7 @@
+%%[
+
+var @getRequest
+set @getRequest = TreatAsContent(HTTPGet("https://www.google.com"))
+
+]%%
+%%=v(@getRequest)=%%

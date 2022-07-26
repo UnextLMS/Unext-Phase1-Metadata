@@ -1,0 +1,11 @@
+{
+    "name": "Add calender events to individual students",
+    "key": "3e6020fa-1f24-4881-8553-2686f3b4c406",
+    "description": "",
+    "targetKey": "A457502D-AFB0-46B5-A704-0B902B033CBA",
+    "createdDate": "2022-05-21T08:39:47.36",
+    "modifiedDate": "2022-06-27T03:13:49.963",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Discussion Forum"
+}

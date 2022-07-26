@@ -1,0 +1,11 @@
+{
+    "name": "LC Get Faculty Details From SF",
+    "key": "c4348333-876e-4518-bb29-c3f0865451ae",
+    "description": "",
+    "targetKey": "4D9E720C-840D-4C62-8A59-484C3D6F6DF5",
+    "createdDate": "2022-06-02T01:49:11.313",
+    "modifiedDate": "2022-07-20T01:00:24.97",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

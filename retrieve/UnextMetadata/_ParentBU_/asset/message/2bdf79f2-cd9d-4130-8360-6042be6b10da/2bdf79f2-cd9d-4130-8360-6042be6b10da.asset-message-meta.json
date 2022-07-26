@@ -1,0 +1,209 @@
+{
+    "customerKey": "2bdf79f2-cd9d-4130-8360-6042be6b10da",
+    "contentType": "application/vnd.etmc.email.Message; kind=template",
+    "assetType": {
+        "name": "templatebasedemail",
+        "displayName": "Template-Based Email"
+    },
+    "name": "RaiseError POC",
+    "description": "",
+    "owner": {
+        "email": "mohamed.askar@aethereus.com",
+        "name": "Mohamed Askar"
+    },
+    "createdDate": "2022-04-04T04:09:58.013-06:00",
+    "createdBy": {
+        "email": "mohamed.askar@aethereus.com",
+        "name": "Mohamed Askar"
+    },
+    "modifiedDate": "2022-04-04T04:09:58.013-06:00",
+    "modifiedBy": {
+        "email": "mohamed.askar@aethereus.com",
+        "name": "Mohamed Askar"
+    },
+    "memberId": 534002955,
+    "status": {
+        "name": "Draft"
+    },
+    "meta": {
+        "globalStyles": {
+            "isLocked": false,
+            "template": {
+                "background-color": "#FFFFFF",
+                "border-color": "",
+                "border-width": "0px",
+                "border-style": "solid"
+            },
+            "body": {
+                "background-color": "#FFFFFF",
+                "font-family": "Arial,helvetica,sans-serif",
+                "font-size": "16px",
+                "color": "#000000",
+                "line-height": 1,
+                "margin": "0px",
+                "padding": "0px",
+                "content-padding-top": "0px",
+                "content-padding-right": "0px",
+                "content-padding-bottom": "0px",
+                "content-padding-left": "0px"
+            },
+            "h1": {
+                "font-family": "Arial,helvetica,sans-serif",
+                "font-size": "28px",
+                "color": "#808080",
+                "line-height": 1,
+                "font-weight": "bold",
+                "font-style": "normal"
+            },
+            "h2": {
+                "font-family": "Arial,helvetica,sans-serif",
+                "font-size": "22px",
+                "color": "#808080",
+                "line-height": 1,
+                "font-weight": "bold",
+                "font-style": "normal"
+            },
+            "h3": {
+                "font-family": "Arial,helvetica,sans-serif",
+                "font-size": "20px",
+                "color": "#808080",
+                "line-height": 1,
+                "font-weight": "bold",
+                "font-style": "normal"
+            },
+            "links": {
+                "font-weight": "normal",
+                "color": "#808080",
+                "text-decoration": "none"
+            },
+            "buttons": {
+                "font-family": "Arial,helvetica,sans-serif",
+                "font-size": "16px",
+                "color": "#FFFFFF",
+                "background-color": "#5D5D5D",
+                "border-radius": "3px",
+                "padding": "10px",
+                "border-color": "#5D5D5D",
+                "border-width": "1px",
+                "border-style": "solid"
+            },
+            "mobile": {
+                "body": {
+                    "padding": "0px",
+                    "font-size": "16px",
+                    "line-height": 1.5
+                },
+                "h1": {
+                    "font-size": "22px",
+                    "line-height": 1
+                },
+                "h2": {
+                    "font-size": "20px",
+                    "line-height": 1
+                },
+                "h3": {
+                    "font-size": "18px",
+                    "line-height": 1
+                },
+                "buttons": {
+                    "font-family": "Arial,helvetica,sans-serif",
+                    "font-size": "16px",
+                    "color": "#FFFFFF",
+                    "padding": "10px"
+                }
+            }
+        }
+    },
+    "views": {
+        "subjectline": {
+            "thumbnail": {},
+            "modelVersion": 2
+        },
+        "preheader": {
+            "thumbnail": {},
+            "modelVersion": 2
+        },
+        "html": {
+            "thumbnail": {},
+            "slots": {
+                "banner": {
+                    "design": "<p style=\"font-family:Arial;color:#ccc;font-size:12px;text-align:center;vertical-align:middle;font-weight:bold;height:150px;display:flex;flex-direction:column;justify-content:center;padding:10px;margin:0;border: #cccccc dashed 1px;\">Drop blocks or content here</p>",
+                    "blocks": {},
+                    "slots": {},
+                    "modelVersion": 2
+                }
+            },
+            "template": {
+                "id": 0,
+                "assetType": {
+                    "id": 214,
+                    "name": "defaulttemplate"
+                },
+                "name": "CONTENTTEMPLATES_BLANK_PAGE",
+                "content": "",
+                "meta": {
+                    "contentHash": -765177524
+                },
+                "slots": {
+                    "banner": {
+                        "locked": false,
+                        "modelVersion": 2
+                    }
+                },
+                "modelVersion": 2
+            },
+            "modelVersion": 2
+        },
+        "text": {
+            "thumbnail": {},
+            "data": {
+                "email": {
+                    "options": {
+                        "generateFrom": "html"
+                    }
+                }
+            },
+            "generateFrom": "html",
+            "modelVersion": 2
+        },
+        "viewAsAWebPage": {
+            "thumbnail": {},
+            "modelVersion": 2
+        },
+        "subscriptioncenter": {
+            "thumbnail": {},
+            "modelVersion": 2
+        },
+        "forwardHTML": {
+            "thumbnail": {},
+            "modelVersion": 2
+        },
+        "forwardText": {
+            "thumbnail": {},
+            "modelVersion": 2
+        }
+    },
+    "availableViews": [
+        "subjectline",
+        "preheader",
+        "html",
+        "text",
+        "viewAsAWebPage",
+        "subscriptioncenter",
+        "forwardHTML",
+        "forwardText"
+    ],
+    "data": {
+        "email": {
+            "options": {
+                "characterEncoding": "utf-8"
+            }
+        },
+        "approvals": {
+            "approvalStatus": null
+        },
+        "campaigns": {}
+    },
+    "modelVersion": 2,
+    "r__folder_Path": "Content Builder"
+}

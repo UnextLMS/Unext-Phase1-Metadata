@@ -1,0 +1,11 @@
+{
+    "name": "Add Quiz Remainder Data to sendable",
+    "key": "895c4cef-f84b-4732-b111-387107779ab3",
+    "description": "",
+    "targetKey": "8E470639-B197-418E-A9C8-B00E8435C8FF",
+    "createdDate": "2022-06-13T09:49:20.66",
+    "modifiedDate": "2022-07-23T09:20:37.957",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

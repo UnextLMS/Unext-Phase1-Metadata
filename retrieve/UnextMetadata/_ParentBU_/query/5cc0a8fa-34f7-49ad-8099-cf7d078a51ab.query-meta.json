@@ -1,0 +1,11 @@
+{
+    "name": "Retrieve User Details who didn't login for more than 8 days",
+    "key": "5cc0a8fa-34f7-49ad-8099-cf7d078a51ab",
+    "description": "",
+    "targetKey": "EB92C8B0-914F-4E22-89BA-0531CE9B2779",
+    "createdDate": "2022-04-25T02:43:51.91",
+    "modifiedDate": "2022-04-26T02:16:40.52",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

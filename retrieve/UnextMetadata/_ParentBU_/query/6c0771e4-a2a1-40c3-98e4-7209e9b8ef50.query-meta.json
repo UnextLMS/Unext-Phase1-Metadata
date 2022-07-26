@@ -1,0 +1,11 @@
+{
+    "name": "Retrieve Assignment data from sendable to mobile push",
+    "key": "6c0771e4-a2a1-40c3-98e4-7209e9b8ef50",
+    "description": "",
+    "targetKey": "3AA6BDF5-1872-4305-B7DE-C325DA36B4CD",
+    "createdDate": "2022-07-19T02:50:29.257",
+    "modifiedDate": "2022-07-19T03:01:19.293",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

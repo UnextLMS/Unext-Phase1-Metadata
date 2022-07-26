@@ -1,0 +1,11 @@
+{
+    "name": "Discussion Forum Remainder for Group of Students",
+    "key": "ff097d24-af96-4e1f-acd2-364781dbd159",
+    "description": "",
+    "targetKey": "9D4EE744-3973-481C-A3C8-C6ED94B581A0",
+    "createdDate": "2022-05-21T09:41:08.42",
+    "modifiedDate": "2022-07-06T00:30:02.47",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

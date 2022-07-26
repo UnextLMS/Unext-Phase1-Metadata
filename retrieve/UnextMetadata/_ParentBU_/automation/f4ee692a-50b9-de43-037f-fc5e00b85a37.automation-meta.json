@@ -1,0 +1,20 @@
+{
+    "name": "SendLog Report",
+    "description": "",
+    "key": "f4ee692a-50b9-de43-037f-fc5e00b85a37",
+    "type": "scheduled",
+    "status": "Ready",
+    "schedule": {},
+    "steps": [
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "SMS SendLog",
+                    "r__type": "query"
+                }
+            ]
+        }
+    ],
+    "r__folder_Path": "my automations"
+}

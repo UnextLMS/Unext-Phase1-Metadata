@@ -1,0 +1,11 @@
+{
+    "name": "Quiz Get Individual Student Details From SF",
+    "key": "f4051826-d96c-4d9e-9d7e-6b7fa6d77536",
+    "description": "",
+    "targetKey": "8E470639-B197-418E-A9C8-B00E8435C8FF",
+    "createdDate": "2022-04-14T07:27:11.053",
+    "modifiedDate": "2022-07-15T09:10:06.86",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Quiz"
+}

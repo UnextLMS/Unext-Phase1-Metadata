@@ -1,0 +1,11 @@
+{
+    "name": "Add Remainder Data To Sendable",
+    "key": "37d16178-03e3-4b67-bbb4-219746ee1897",
+    "description": "",
+    "targetKey": "A457502D-AFB0-46B5-A704-0B902B033CBA",
+    "createdDate": "2022-06-13T04:16:21.61",
+    "modifiedDate": "2022-06-14T08:11:39.9",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

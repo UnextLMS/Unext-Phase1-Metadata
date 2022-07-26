@@ -1,0 +1,11 @@
+{
+    "name": "endTermExamSlotBooking",
+    "key": "151fcb40-a4bb-4a07-be14-c2b355fa34c0",
+    "description": "",
+    "targetKey": "2059CE81-DFED-4FEB-80E8-6304E5E6F518",
+    "createdDate": "2022-04-26T05:20:20.04",
+    "modifiedDate": "2022-04-26T05:20:20.04",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

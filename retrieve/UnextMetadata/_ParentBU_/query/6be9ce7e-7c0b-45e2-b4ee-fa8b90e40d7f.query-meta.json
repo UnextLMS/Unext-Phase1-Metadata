@@ -1,0 +1,11 @@
+{
+    "name": "test df for target all",
+    "key": "6be9ce7e-7c0b-45e2-b4ee-fa8b90e40d7f",
+    "description": "",
+    "targetKey": "A457502D-AFB0-46B5-A704-0B902B033CBA",
+    "createdDate": "2022-06-09T01:30:56.433",
+    "modifiedDate": "2022-06-09T02:18:27.187",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

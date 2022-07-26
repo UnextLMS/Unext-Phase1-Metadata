@@ -1,0 +1,11 @@
+{
+    "name": "Get the latest students records for remainder",
+    "key": "99c39b37-7cbb-4a22-aedc-dc9f80f04edd",
+    "description": "",
+    "targetKey": "C24E4AA0-8743-4CE1-A7E1-EB7D9CFA9263",
+    "createdDate": "2022-05-13T03:56:06.86",
+    "modifiedDate": "2022-05-13T03:56:06.86",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

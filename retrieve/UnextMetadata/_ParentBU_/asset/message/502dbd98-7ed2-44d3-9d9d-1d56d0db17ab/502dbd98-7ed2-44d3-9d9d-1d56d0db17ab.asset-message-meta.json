@@ -1,0 +1,315 @@
+{
+    "customerKey": "502dbd98-7ed2-44d3-9d9d-1d56d0db17ab",
+    "contentType": "application/vnd.etmc.email.Message; kind=template",
+    "assetType": {
+        "name": "templatebasedemail",
+        "displayName": "Template-Based Email"
+    },
+    "name": "New Case Creation Email",
+    "description": "",
+    "owner": {
+        "email": "mohamed.askar@aethereus.com",
+        "name": "mohamed"
+    },
+    "createdDate": "2022-03-12T07:40:55.47-06:00",
+    "createdBy": {
+        "email": "mohamed.askar@aethereus.com",
+        "name": "mohamed"
+    },
+    "modifiedDate": "2022-03-14T23:29:28.96-06:00",
+    "modifiedBy": {
+        "email": "mohamed.askar@aethereus.com",
+        "name": "Mohamed Askar"
+    },
+    "memberId": 534002955,
+    "status": {
+        "name": "Draft"
+    },
+    "meta": {
+        "globalStyles": {
+            "isLocked": false,
+            "template": {
+                "background-color": "#FFFFFF",
+                "border-color": "",
+                "border-width": "0px",
+                "border-style": "solid"
+            },
+            "body": {
+                "background-color": "#FFFFFF",
+                "font-family": "Arial,helvetica,sans-serif",
+                "font-size": "16px",
+                "color": "#000000",
+                "line-height": 1,
+                "margin": "0px",
+                "padding": "0px",
+                "content-padding-top": "0px",
+                "content-padding-right": "0px",
+                "content-padding-bottom": "0px",
+                "content-padding-left": "0px"
+            },
+            "h1": {
+                "font-family": "Arial,helvetica,sans-serif",
+                "font-size": "28px",
+                "color": "#808080",
+                "line-height": 1,
+                "font-weight": "bold",
+                "font-style": "normal"
+            },
+            "h2": {
+                "font-family": "Arial,helvetica,sans-serif",
+                "font-size": "22px",
+                "color": "#808080",
+                "line-height": 1,
+                "font-weight": "bold",
+                "font-style": "normal"
+            },
+            "h3": {
+                "font-family": "Arial,helvetica,sans-serif",
+                "font-size": "20px",
+                "color": "#808080",
+                "line-height": 1,
+                "font-weight": "bold",
+                "font-style": "normal"
+            },
+            "links": {
+                "font-weight": "normal",
+                "color": "#808080",
+                "text-decoration": "none"
+            },
+            "buttons": {
+                "font-family": "Arial,helvetica,sans-serif",
+                "font-size": "16px",
+                "color": "#FFFFFF",
+                "background-color": "#5D5D5D",
+                "border-radius": "3px",
+                "padding": "10px",
+                "border-color": "#5D5D5D",
+                "border-width": "1px",
+                "border-style": "solid"
+            },
+            "mobile": {
+                "body": {
+                    "padding": "0px",
+                    "font-size": "16px",
+                    "line-height": 1.5
+                },
+                "h1": {
+                    "font-size": "22px",
+                    "line-height": 1
+                },
+                "h2": {
+                    "font-size": "20px",
+                    "line-height": 1
+                },
+                "h3": {
+                    "font-size": "18px",
+                    "line-height": 1
+                },
+                "buttons": {
+                    "font-family": "Arial,helvetica,sans-serif",
+                    "font-size": "16px",
+                    "color": "#FFFFFF",
+                    "padding": "10px"
+                }
+            }
+        }
+    },
+    "views": {
+        "subjectline": {
+            "contentType": "application/vnd.etmc.email.View; kind=subjectline",
+            "thumbnail": {},
+            "content": "New Service Requested",
+            "meta": {},
+            "availableViews": [],
+            "data": {
+                "email": {
+                    "options": {
+                        "generateFrom": ""
+                    }
+                }
+            },
+            "modelVersion": 2
+        },
+        "preheader": {
+            "thumbnail": {},
+            "availableViews": [],
+            "data": {
+                "email": {
+                    "options": {
+                        "generateFrom": ""
+                    }
+                }
+            },
+            "modelVersion": 2
+        },
+        "html": {
+            "thumbnail": {},
+            "availableViews": [],
+            "slots": {
+                "banner": {
+                    "content": "<div data-type=\"block\" data-key=\"6u4aagdhenp\"></div>",
+                    "design": "<p style=\"font-family:Arial;color:#ccc;font-size:12px;text-align:center;vertical-align:middle;font-weight:bold;height:150px;display:flex;flex-direction:column;justify-content:center;padding:10px;margin:0;border: #cccccc dashed 1px;\">Drop blocks or content here</p>",
+                    "availableViews": [],
+                    "blocks": {
+                        "6u4aagdhenp": {
+                            "assetType": {
+                                "id": 196,
+                                "name": "textblock"
+                            },
+                            "design": "<table cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" role=\"presentation\" style=\"min-width: 100%; \" class=\"stylingblock-content-wrapper\"><tr><td class=\"stylingblock-content-wrapper camarker-inner\"><div class=\"default-design\" style=\"height:150px; overflow:hidden;\"><p class=\"textblock\" style=\"margin:0; padding:0; overflow:hidden; display:block;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vestibulum nunc feugiat porta consectetur. Sed vehicula vel ante suscipit sagittis. Ut metus metus, feugiat ut laoreet blandit, viverra non mi. Phasellus convallis, mauris ac vehicula posuere, ligula magna mattis ipsum, in sollicitudin nibh lacus eget sapien. Mauris ultricies laoreet ex, a viverra leo ornare eu. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris commodo scelerisque arcu, id semper sem pharetra vel. Sed ut erat auctor lectus pretium blandit gravida vitae enim. Nullam eget ex et enim molestie porttitor. Duis vitae est fringilla, placerat nisi condimentum, tristique purus. Fusce lobortis mauris quis iaculis ultrices. In tempor ligula ac ex tempor rutrum. Pellentesque quis convallis mi.<br><br>Duis mattis, ex a hendrerit ullamcorper, eros massa consectetur elit, vel lobortis justo arcu ac mi magna, blandit sit amet eros id, dapibus cursus justo. Suspendisse mauris odio, aliquet ut ligula in, porta mollis risus. Ut ultrices lectus dolor, sed euismod nulla ultrices ac. Phasellus laoreet ultricies facilisis. Fusce imperdiet maximus ipsum vitae rutrum. Maecenas faucibus vestibulum lorem sit amet varius. Vivamus et ultricies ligula. Mauris semper scelerisque ante id fermentum. Curabitur non odio pellentesque, consectetur odio eu, commodo risus. Mauris egestas elit vel ipsum sagittis fermentum. Cras varius quam ac enim eleifend, eu porttitor odio finibus. Aenean quis finibus dolor. Nunc bibendum aliquam auctor.</p></div></td></tr></table>",
+                            "meta": {
+                                "wrapperStyles": {
+                                    "mobile": {
+                                        "visible": true
+                                    },
+                                    "styling": {}
+                                }
+                            },
+                            "availableViews": [],
+                            "data": {
+                                "email": {
+                                    "options": {
+                                        "generateFrom": ""
+                                    }
+                                }
+                            },
+                            "modelVersion": 2
+                        }
+                    },
+                    "slots": {},
+                    "data": {
+                        "email": {
+                            "options": {
+                                "generateFrom": ""
+                            }
+                        }
+                    },
+                    "modelVersion": 2
+                }
+            },
+            "template": {
+                "id": 0,
+                "assetType": {
+                    "id": 214,
+                    "name": "defaulttemplate"
+                },
+                "name": "CONTENTTEMPLATES_BLANK_PAGE",
+                "content": "",
+                "meta": {
+                    "contentHash": -765177524
+                },
+                "availableViews": [],
+                "slots": {
+                    "banner": {
+                        "locked": false,
+                        "availableViews": [],
+                        "data": {
+                            "email": {
+                                "options": {
+                                    "generateFrom": null
+                                }
+                            }
+                        },
+                        "modelVersion": 2
+                    }
+                },
+                "data": {
+                    "email": {
+                        "options": {
+                            "generateFrom": null
+                        }
+                    }
+                },
+                "modelVersion": 2
+            },
+            "data": {
+                "email": {
+                    "options": {
+                        "generateFrom": ""
+                    }
+                }
+            },
+            "modelVersion": 2
+        },
+        "text": {
+            "thumbnail": {},
+            "availableViews": [],
+            "data": {
+                "email": {
+                    "options": {
+                        "generateFrom": "html"
+                    }
+                }
+            },
+            "generateFrom": "html",
+            "modelVersion": 2
+        },
+        "viewAsAWebPage": {
+            "thumbnail": {},
+            "availableViews": [],
+            "data": {
+                "email": {
+                    "options": {
+                        "generateFrom": ""
+                    }
+                }
+            },
+            "modelVersion": 2
+        },
+        "subscriptioncenter": {
+            "thumbnail": {},
+            "availableViews": [],
+            "data": {
+                "email": {
+                    "options": {
+                        "generateFrom": ""
+                    }
+                }
+            },
+            "modelVersion": 2
+        },
+        "forwardHTML": {
+            "thumbnail": {},
+            "availableViews": [],
+            "data": {
+                "email": {
+                    "options": {
+                        "generateFrom": ""
+                    }
+                }
+            },
+            "modelVersion": 2
+        },
+        "forwardText": {
+            "thumbnail": {},
+            "availableViews": [],
+            "data": {
+                "email": {
+                    "options": {
+                        "generateFrom": ""
+                    }
+                }
+            },
+            "modelVersion": 2
+        }
+    },
+    "availableViews": [
+        "subjectline",
+        "preheader",
+        "html",
+        "text",
+        "viewAsAWebPage",
+        "subscriptioncenter",
+        "forwardHTML",
+        "forwardText"
+    ],
+    "data": {
+        "email": {
+            "options": {
+                "characterEncoding": "utf-8"
+            }
+        }
+    },
+    "modelVersion": 2,
+    "r__folder_Path": "Content Builder"
+}

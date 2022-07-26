@@ -1,0 +1,11 @@
+{
+    "name": "Update query to true for edited",
+    "key": "738a74c6-5e3e-43d8-a023-6b019c99317e",
+    "description": "",
+    "targetKey": "B3771E2E-6EF8-468E-8F12-BCC0AF40ECA3",
+    "createdDate": "2022-06-22T09:25:35.527",
+    "modifiedDate": "2022-07-08T03:17:50.857",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Discussion Forum"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Assignment Update Program Name to Students Under a Group",
+    "key": "f94133d3-cf6d-4d95-bf8c-29356f935dd5",
+    "description": "",
+    "targetKey": "67CB7BA3-C943-4DCC-BB1E-2C361BCEBCA3",
+    "createdDate": "2022-05-30T07:56:04.403",
+    "modifiedDate": "2022-07-11T05:49:43.237",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Assignment"
+}

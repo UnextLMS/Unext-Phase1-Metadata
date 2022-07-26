@@ -1,0 +1,116 @@
+{
+    "CustomerKey": "F61CB958-0D75-4E18-84C2-BBD6B80488BC",
+    "Name": "SF Awaiting Student Input - 2022-07-18T000512536",
+    "Description": "",
+    "IsSendable": true,
+    "IsTestable": false,
+    "SendableDataExtensionField": {
+        "Name": "Case:Contact:Id"
+    },
+    "SendableSubscriberField": {
+        "Name": "Subscriber Key"
+    },
+    "RowBasedRetention": false,
+    "ResetRetentionPeriodOnImport": false,
+    "DeleteAtEndOfRetentionPeriod": false,
+    "RetainUntil": "",
+    "Fields": [
+        {
+            "Name": "Case:Id",
+            "DefaultValue": "",
+            "MaxLength": 18,
+            "IsRequired": true,
+            "IsPrimaryKey": false,
+            "FieldType": "Text"
+        },
+        {
+            "Name": "Case:CaseNumber",
+            "DefaultValue": "",
+            "MaxLength": 30,
+            "IsRequired": false,
+            "IsPrimaryKey": false,
+            "FieldType": "Text"
+        },
+        {
+            "Name": "Case:Origin",
+            "DefaultValue": "",
+            "MaxLength": 255,
+            "IsRequired": false,
+            "IsPrimaryKey": false,
+            "FieldType": "Text"
+        },
+        {
+            "Name": "Case:Contact:Id",
+            "DefaultValue": "",
+            "MaxLength": 18,
+            "IsRequired": true,
+            "IsPrimaryKey": false,
+            "FieldType": "Text"
+        },
+        {
+            "Name": "Case:Contact:Email",
+            "DefaultValue": "",
+            "MaxLength": 80,
+            "IsRequired": false,
+            "IsPrimaryKey": false,
+            "FieldType": "EmailAddress"
+        },
+        {
+            "Name": "Case:Contact:HasOptedOutOfEmail",
+            "DefaultValue": false,
+            "IsRequired": false,
+            "IsPrimaryKey": false,
+            "FieldType": "Boolean"
+        },
+        {
+            "Name": "Case:Contact:MobilePhone",
+            "DefaultValue": "",
+            "MaxLength": 50,
+            "IsRequired": false,
+            "IsPrimaryKey": false,
+            "FieldType": "Phone"
+        },
+        {
+            "Name": "Case:Contact:hed__PreferredPhone__c",
+            "DefaultValue": "",
+            "MaxLength": 255,
+            "IsRequired": false,
+            "IsPrimaryKey": false,
+            "FieldType": "Text"
+        },
+        {
+            "Name": "Case:Contact:lumen__User__c",
+            "DefaultValue": "",
+            "MaxLength": 18,
+            "IsRequired": false,
+            "IsPrimaryKey": false,
+            "FieldType": "Text"
+        },
+        {
+            "Name": "Case:Contact:lumen__unContact_Name__c",
+            "DefaultValue": "",
+            "MaxLength": 1300,
+            "IsRequired": false,
+            "IsPrimaryKey": false,
+            "FieldType": "Text"
+        },
+        {
+            "Name": "Case:Contact:Name",
+            "DefaultValue": "",
+            "MaxLength": 121,
+            "IsRequired": false,
+            "IsPrimaryKey": false,
+            "FieldType": "Text"
+        },
+        {
+            "Name": "Link",
+            "DefaultValue": "https://lumen-u-next.force.com/StudentPortal/s/case/",
+            "MaxLength": 150,
+            "IsRequired": false,
+            "IsPrimaryKey": false,
+            "FieldType": "Text"
+        }
+    ],
+    "r__folder_ContentType": "dataextension",
+    "r__folder_Path": "Data Extensions/Test"
+}

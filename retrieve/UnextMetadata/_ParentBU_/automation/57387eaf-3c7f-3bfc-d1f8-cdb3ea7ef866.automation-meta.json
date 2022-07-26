@@ -1,0 +1,179 @@
+{
+    "name": "New Students Enrollment",
+    "description": "",
+    "key": "57387eaf-3c7f-3bfc-d1f8-cdb3ea7ef866",
+    "type": "scheduled",
+    "status": "Scheduled",
+    "schedule": {
+        "typeId": 2,
+        "startDate": "2022-07-15T18:16:00",
+        "endDate": "2079-06-06T00:00:00",
+        "icalRecur": "FREQ=HOURLY;UNTIL=20790606T113000;INTERVAL=1",
+        "timezoneName": "India Standard Time"
+    },
+    "steps": [
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Retrieve new students enrolled",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Retrieve New Student Added into a group",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "15 Minutes",
+                    "r__type": "wait"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Update New Student Query to true",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Retrieve new students enrolled",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Retrieve New Student Added into a group",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "15 Minutes",
+                    "r__type": "wait"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Update New Student Query to true",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Retrieve new students enrolled",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Retrieve New Student Added into a group",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "15 Minutes",
+                    "r__type": "wait"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Update New Student Query to true",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Retrieve new students enrolled",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Retrieve New Student Added into a group",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "15 Minutes",
+                    "r__type": "wait"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Update New Student Query to true",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Retrieve new students enrolled",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Retrieve New Student Added into a group",
+                    "r__type": "query"
+                }
+            ]
+        }
+    ],
+    "r__folder_Path": "my automations"
+}

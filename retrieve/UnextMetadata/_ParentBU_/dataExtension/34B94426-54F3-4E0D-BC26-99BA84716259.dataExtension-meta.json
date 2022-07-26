@@ -1,0 +1,29 @@
+{
+    "CustomerKey": "34B94426-54F3-4E0D-BC26-99BA84716259",
+    "Name": "Contact Deletion",
+    "Description": "",
+    "IsSendable": true,
+    "IsTestable": false,
+    "SendableDataExtensionField": {
+        "Name": "SubscriberKey"
+    },
+    "SendableSubscriberField": {
+        "Name": "Subscriber Key"
+    },
+    "RowBasedRetention": false,
+    "ResetRetentionPeriodOnImport": false,
+    "DeleteAtEndOfRetentionPeriod": false,
+    "RetainUntil": "",
+    "Fields": [
+        {
+            "Name": "SubscriberKey",
+            "DefaultValue": "",
+            "MaxLength": 50,
+            "IsRequired": true,
+            "IsPrimaryKey": false,
+            "FieldType": "Text"
+        }
+    ],
+    "r__folder_ContentType": "dataextension",
+    "r__folder_Path": "Data Extensions/All Records"
+}

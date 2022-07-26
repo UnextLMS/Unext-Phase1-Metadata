@@ -1,0 +1,31 @@
+{
+    "name": "UNext Learning Private Limited (Part o-12166-534002955-PSHist#02",
+    "description": "This automation sends HISTORICAL data to the Data Scientists for scoring and is an important componentof the Einstein Engagement Scoring application.",
+    "key": "534002955-PredictiveScoring-PSHist#02",
+    "type": "scheduled",
+    "status": "Ready",
+    "schedule": {},
+    "steps": [
+        {
+            "name": "Predictive Scoring historical #06 extract-upload task",
+            "description": "Auto generated step task",
+            "activities": [
+                {
+                    "name": "Extract-Upload C534002955.VPS_C534002955__PushMessageTracking_H#",
+                    "r__type": "dataFactoryUtility"
+                }
+            ]
+        },
+        {
+            "name": "Predictive Scoring historical #S_ExportDo extract-upload task",
+            "description": "Auto generated step task",
+            "activities": [
+                {
+                    "name": "Extract-Upload C534002955.VPS_ExportDone_Hist_MobilePush into S3",
+                    "r__type": "dataFactoryUtility"
+                }
+            ]
+        }
+    ],
+    "r__folder_Path": "my automations/Data Factory Utility Automations"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Update Program Name to Quiz Faculty",
+    "key": "5293243c-7ca9-4e85-ae0a-ec32995630be",
+    "description": "",
+    "targetKey": "4E4D9BAA-AC8A-45C1-A2CE-835B91A4AE9C",
+    "createdDate": "2022-06-14T09:04:50.81",
+    "modifiedDate": "2022-07-05T00:45:51.007",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Quiz"
+}

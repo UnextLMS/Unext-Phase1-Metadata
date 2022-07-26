@@ -1,0 +1,11 @@
+{
+    "name": "LC Add Calender Event To Group Of Students",
+    "key": "c119be74-dbe1-403a-ad43-98643603030f",
+    "description": "",
+    "targetKey": "B060B082-CA20-4D50-AC04-FD5C09D920A4",
+    "createdDate": "2022-05-25T04:12:18.64",
+    "modifiedDate": "2022-07-15T09:38:58.507",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Live Classroom"
+}

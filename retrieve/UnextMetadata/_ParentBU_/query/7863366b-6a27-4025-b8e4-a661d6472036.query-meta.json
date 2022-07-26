@@ -1,0 +1,11 @@
+{
+    "name": "LearnerCalenderQueryToUpdate",
+    "key": "7863366b-6a27-4025-b8e4-a661d6472036",
+    "description": "",
+    "targetKey": "CF612F86-DF02-43FD-B60B-0FF7EB586762",
+    "createdDate": "2022-04-19T00:01:52.73",
+    "modifiedDate": "2022-04-19T00:01:52.73",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

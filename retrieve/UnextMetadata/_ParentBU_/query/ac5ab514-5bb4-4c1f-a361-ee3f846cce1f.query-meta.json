@@ -1,0 +1,11 @@
+{
+    "name": "Update Program Name Into New User Enrollment",
+    "key": "ac5ab514-5bb4-4c1f-a361-ee3f846cce1f",
+    "description": "",
+    "targetKey": "1C9C544D-B9E7-4DB4-B661-4FCAE0283852",
+    "createdDate": "2022-06-16T22:19:39.973",
+    "modifiedDate": "2022-07-05T23:47:36.457",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

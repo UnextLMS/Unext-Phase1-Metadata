@@ -1,0 +1,16 @@
+{
+    "name": "Whatsapp File Transfer",
+    "customerKey": "6b6509dc-62d9-4a7f-b63a-ad8b99dcb329",
+    "createdDate": "2022-06-10T03:46:12.213",
+    "modifiedDate": "2022-06-10T03:57:43.85",
+    "fileSpec": "Whatsapp Report Extract %%Year%%, %%Month%%, %%Day%%.zip",
+    "isEncrypted": false,
+    "isCompressed": false,
+    "maxFileAge": 0,
+    "maxFileAgeScheduleOffset": 0,
+    "maxImportFrequency": 0,
+    "isUpload": true,
+    "isPgp": false,
+    "isFileSpecLocalized": false,
+    "r__ftpLocation_name": "ExactTarget Enhanced FTP"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "LearnerClassroomInvalidTargetAllMembers",
+    "key": "28f461ce-dd39-45ba-9958-83ebaf83109e",
+    "description": "",
+    "targetKey": "602E81CA-4BB5-4659-AAD9-ABB5FA803A46",
+    "createdDate": "2022-05-18T04:13:16.363",
+    "modifiedDate": "2022-05-18T04:13:16.363",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

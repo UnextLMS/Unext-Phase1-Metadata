@@ -1,0 +1,11 @@
+{
+    "name": "Task Creation to update status",
+    "key": "f9b5ddac-c568-45c9-970f-7f3fa86c9af2",
+    "description": "",
+    "targetKey": "C03D571A-666A-4E1B-8E5B-21C4E345D379",
+    "createdDate": "2022-06-14T06:44:07.807",
+    "modifiedDate": "2022-06-27T09:07:15.31",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Retrieve all the data to send mobile push",
+    "key": "7cafd6be-aafa-4ed7-bf4a-a34741d8ffb5",
+    "description": "",
+    "targetKey": "71BC94BE-C087-4AC7-A1D0-F9F0D03FB90F",
+    "createdDate": "2022-07-19T00:26:55.223",
+    "modifiedDate": "2022-07-19T00:26:55.223",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

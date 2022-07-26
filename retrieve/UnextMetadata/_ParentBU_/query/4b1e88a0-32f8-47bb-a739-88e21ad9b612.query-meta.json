@@ -1,0 +1,11 @@
+{
+    "name": "Retrieve All Mobile Push Contacts",
+    "key": "4b1e88a0-32f8-47bb-a739-88e21ad9b612",
+    "description": "",
+    "targetKey": "6076CF7E-8B16-44D4-A394-6918129394BB",
+    "createdDate": "2022-06-30T02:18:19.557",
+    "modifiedDate": "2022-06-30T02:18:19.557",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Assignment Reminder For Group Of Students",
+    "key": "97fd3edf-8a80-4058-9177-475f2e1cefe1",
+    "description": "",
+    "targetKey": "EA3E43F8-2BFC-43C4-A9C2-C0B5B6FE3227",
+    "createdDate": "2022-05-24T00:56:30.057",
+    "modifiedDate": "2022-07-18T23:47:00.1",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

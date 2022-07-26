@@ -1,0 +1,11 @@
+{
+    "name": "QAndANewReply",
+    "key": "7e496172-376e-4a28-8517-d4ec6e480e58",
+    "description": "",
+    "targetKey": "5CEB6302-E020-4BB2-AC6B-9B125CB227BF",
+    "createdDate": "2022-05-23T09:18:57.74",
+    "modifiedDate": "2022-06-20T06:27:20.657",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

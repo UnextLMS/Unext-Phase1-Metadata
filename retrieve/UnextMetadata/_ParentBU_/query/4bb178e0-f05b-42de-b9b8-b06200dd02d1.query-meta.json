@@ -1,0 +1,11 @@
+{
+    "name": "Last Login",
+    "key": "4bb178e0-f05b-42de-b9b8-b06200dd02d1",
+    "description": "",
+    "targetKey": "4AA186BA-C2CC-488B-8DBB-DA01D14C7D22",
+    "createdDate": "2022-04-29T05:28:49.51",
+    "modifiedDate": "2022-05-23T00:38:51.81",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

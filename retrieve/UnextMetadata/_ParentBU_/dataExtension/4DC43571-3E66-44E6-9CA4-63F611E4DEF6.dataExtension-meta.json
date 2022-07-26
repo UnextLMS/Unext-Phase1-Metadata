@@ -1,0 +1,121 @@
+{
+    "CustomerKey": "4DC43571-3E66-44E6-9CA4-63F611E4DEF6",
+    "Name": "Z-QA-BUILD-TV",
+    "Description": "",
+    "IsSendable": true,
+    "IsTestable": false,
+    "SendableDataExtensionField": {
+        "Name": "SubscriberKey"
+    },
+    "SendableSubscriberField": {
+        "Name": "Subscriber Key"
+    },
+    "RowBasedRetention": false,
+    "ResetRetentionPeriodOnImport": false,
+    "DeleteAtEndOfRetentionPeriod": true,
+    "RetainUntil": "",
+    "Fields": [
+        {
+            "Name": "SubscriberKey",
+            "DefaultValue": "",
+            "MaxLength": 254,
+            "IsRequired": true,
+            "IsPrimaryKey": true,
+            "FieldType": "Text"
+        },
+        {
+            "Name": "CustomerKey",
+            "DefaultValue": "",
+            "MaxLength": 256,
+            "IsRequired": true,
+            "IsPrimaryKey": false,
+            "FieldType": "Text"
+        },
+        {
+            "Name": "AudienceId",
+            "DefaultValue": "",
+            "IsRequired": true,
+            "IsPrimaryKey": false,
+            "FieldType": "Text"
+        },
+        {
+            "Name": "TrackingCode",
+            "DefaultValue": "",
+            "MaxLength": 256,
+            "IsRequired": true,
+            "IsPrimaryKey": false,
+            "FieldType": "Text"
+        },
+        {
+            "Name": "AudienceCode",
+            "DefaultValue": "",
+            "MaxLength": 64,
+            "IsRequired": true,
+            "IsPrimaryKey": false,
+            "FieldType": "Text"
+        },
+        {
+            "Name": "SegmentCode",
+            "DefaultValue": "EmptyString()",
+            "MaxLength": 64,
+            "IsRequired": true,
+            "IsPrimaryKey": false,
+            "FieldType": "Text"
+        },
+        {
+            "Name": "SegmentName",
+            "DefaultValue": "EmptyString()",
+            "MaxLength": 128,
+            "IsRequired": true,
+            "IsPrimaryKey": false,
+            "FieldType": "Text"
+        },
+        {
+            "Name": "Priority",
+            "DefaultValue": "",
+            "IsRequired": true,
+            "IsPrimaryKey": false,
+            "FieldType": "Number"
+        },
+        {
+            "Name": "SegmentID",
+            "DefaultValue": "",
+            "IsRequired": true,
+            "IsPrimaryKey": false,
+            "FieldType": "Text"
+        },
+        {
+            "Name": "SplitID",
+            "DefaultValue": "",
+            "IsRequired": true,
+            "IsPrimaryKey": false,
+            "FieldType": "Text"
+        },
+        {
+            "Name": "SplitName",
+            "DefaultValue": "EmptyString()",
+            "MaxLength": 128,
+            "IsRequired": true,
+            "IsPrimaryKey": false,
+            "FieldType": "Text"
+        },
+        {
+            "Name": "SplitCode",
+            "DefaultValue": "EmptyString()",
+            "MaxLength": 64,
+            "IsRequired": true,
+            "IsPrimaryKey": false,
+            "FieldType": "Text"
+        },
+        {
+            "Name": "SendGroupID",
+            "DefaultValue": "",
+            "IsRequired": true,
+            "IsPrimaryKey": true,
+            "FieldType": "Text"
+        }
+    ],
+    "r__folder_ContentType": "dataextension",
+    "r__folder_Path": "Data Extensions/Audiences",
+    "r__dataExtensionTemplate_Name": "AudienceBuilderResult"
+}

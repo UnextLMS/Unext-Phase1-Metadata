@@ -1,0 +1,11 @@
+{
+    "name": "Update quiz report published query to true for group",
+    "key": "7f28f2f0-6c39-4f56-b15f-c7f666dfe3e9",
+    "description": "",
+    "targetKey": "B3771E2E-6EF8-468E-8F12-BCC0AF40ECA3",
+    "createdDate": "2022-06-27T06:55:27.477",
+    "modifiedDate": "2022-07-05T00:45:31.02",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Quiz"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "QAGetFacultyDetailsFromSF",
+    "key": "15237594-2e5f-49b5-8bac-cda8dee55172",
+    "description": "",
+    "targetKey": "4E4D9BAA-AC8A-45C1-A2CE-835B91A4AE9C",
+    "createdDate": "2022-05-31T06:07:47.207",
+    "modifiedDate": "2022-06-20T06:26:06.343",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

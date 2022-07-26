@@ -1,0 +1,41 @@
+{
+    "customerKey": "bcef0b98-b729-4150-814e-cae17062de32",
+    "assetType": {
+        "name": "htmlblock",
+        "displayName": "HTML Block"
+    },
+    "fileProperties": {
+        "fileName": "New Email Footer1"
+    },
+    "name": "New Email Footer1",
+    "owner": {
+        "email": "mohamed.askar@aethereus.com",
+        "name": "Mohamed Askar"
+    },
+    "createdDate": "2022-07-16T06:21:35.787-06:00",
+    "createdBy": {
+        "email": "mohamed.askar@aethereus.com",
+        "name": "Mohamed Askar"
+    },
+    "modifiedDate": "2022-07-16T06:33:56.643-06:00",
+    "modifiedBy": {
+        "email": "mohamed.askar@aethereus.com",
+        "name": "Mohamed Askar"
+    },
+    "memberId": 534002955,
+    "status": {
+        "name": "Draft"
+    },
+    "design": "",
+    "meta": {
+        "wrapperStyles": {
+            "mobile": {
+                "visible": true
+            },
+            "styling": {}
+        }
+    },
+    "availableViews": [],
+    "modelVersion": 2,
+    "r__folder_Path": "Content Builder/Images/Img"
+}

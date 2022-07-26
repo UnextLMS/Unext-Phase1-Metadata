@@ -1,0 +1,11 @@
+{
+    "name": "Task Creation for Case Awaiting Student Input",
+    "key": "57b5d928-3f5c-42fe-a83c-8a644be95312",
+    "description": "",
+    "targetKey": "C03D571A-666A-4E1B-8E5B-21C4E345D379",
+    "createdDate": "2022-06-13T09:21:29.19",
+    "modifiedDate": "2022-07-04T07:52:30.71",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

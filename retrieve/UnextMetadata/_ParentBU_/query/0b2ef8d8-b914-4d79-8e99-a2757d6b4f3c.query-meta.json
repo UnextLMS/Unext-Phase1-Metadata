@@ -1,0 +1,11 @@
+{
+    "name": "Get Group Of Students when Discussion Forum Is Published",
+    "key": "0b2ef8d8-b914-4d79-8e99-a2757d6b4f3c",
+    "description": "",
+    "targetKey": "A457502D-AFB0-46B5-A704-0B902B033CBA",
+    "createdDate": "2022-05-11T00:31:55.627",
+    "modifiedDate": "2022-07-15T04:03:04.387",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Discussion Forum"
+}

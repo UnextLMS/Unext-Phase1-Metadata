@@ -1,0 +1,180 @@
+{
+    "customerKey": "56df7724-8285-4c7d-bbe4-e42ae6f11230",
+    "contentType": "text/html",
+    "assetType": {
+        "name": "webpage",
+        "displayName": "Web Page"
+    },
+    "version": 1,
+    "name": "Survey Thank You Response",
+    "owner": {
+        "email": "mohamed.askar@aethereus.com",
+        "name": "mohamed"
+    },
+    "createdDate": "2022-03-12T08:25:03.457-06:00",
+    "createdBy": {
+        "email": "mohamed.askar@aethereus.com",
+        "name": "mohamed"
+    },
+    "modifiedDate": "2022-03-12T08:48:34.14-06:00",
+    "modifiedBy": {
+        "email": "mohamed.askar@aethereus.com",
+        "name": "Mohamed Askar"
+    },
+    "memberId": 534002955,
+    "status": {
+        "name": "Draft"
+    },
+    "meta": {
+        "globalStyles": {
+            "isLocked": false,
+            "body": {
+                "max-width": "1280px"
+            }
+        }
+    },
+    "views": {
+        "html": {
+            "thumbnail": {},
+            "meta": {},
+            "slots": {
+                "header": {
+                    "content": "",
+                    "design": "<p style=\"font-family:arial;color:#ccc;font-size:11px;text-align:center;vertical-align:middle;font-weight:bold;padding:10px;margin:0;border:#ccc dashed 1px;\">Drop blocks or content here</p>",
+                    "blocks": {},
+                    "modelVersion": 2
+                },
+                "col1": {
+                    "content": "<div data-type=\"block\" data-key=\"embeddedicblock\" data-original-key=\"none\"></div>",
+                    "design": "<p style=\"font-family: arial; color: #CCCCCC; font-size: 12px; font-weight: bold; text-align: center; display: flex; flex-direction: column; justify-content: center; height: 150px; padding: 10px; margin: 0; border: 1px dashed #CCCCCC;\">Drop blocks or content here</p>",
+                    "blocks": {
+                        "embeddedicblock": {
+                            "assetType": {
+                                "id": 233,
+                                "name": "iccloudpageblock"
+                            },
+                            "design": "",
+                            "superContent": "<div data-marker=\"wrapper\" style=\"\" class=\"stylingblock-content-wrapper\"><table cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" role=\"presentation\" style=\"min-width: 100%; \" class=\"stylingblock-content-wrapper\"><tr><td class=\"stylingblock-content-wrapper camarker-inner\"><div style=\"text-align: center;\">\n\t<span style=\"font-size:20px;\"><b>Thank you for your Rating!!</b></span></div></td></tr></table></div>",
+                            "meta": {
+                                "wrapperStyles": {
+                                    "mobile": {
+                                        "visible": true
+                                    },
+                                    "styling": {}
+                                },
+                                "options": {
+                                    "customBlockData": {
+                                        "previewForms": {
+                                            "asset": null
+                                        },
+                                        "confirmationMessage": {
+                                            "type": "CONTENT_BUILDER",
+                                            "asset": {
+                                                "id": 65,
+                                                "customerKey": "a9c100bc-96d2-451a-830b-64dbaf3e03bc",
+                                                "objectID": "7f044c62-1e6e-4831-a9d1-f8dc9e7a0154",
+                                                "assetType": {
+                                                    "id": 196,
+                                                    "name": "textblock",
+                                                    "displayName": "Text Block"
+                                                },
+                                                "fileProperties": {
+                                                    "fileName": "Survey Thank you block"
+                                                },
+                                                "name": "Survey Thank you block",
+                                                "owner": {
+                                                    "id": 735133312,
+                                                    "email": "mohamed.askar@aethereus.com",
+                                                    "name": "mohamed",
+                                                    "userId": "735133312"
+                                                },
+                                                "createdDate": "2022-03-12T08:13:09-06:00",
+                                                "createdBy": {
+                                                    "id": 735133312,
+                                                    "email": "mohamed.askar@aethereus.com",
+                                                    "name": "mohamed",
+                                                    "userId": "735133312"
+                                                },
+                                                "modifiedDate": "2022-03-12T08:13:53-06:00",
+                                                "modifiedBy": {
+                                                    "id": 735133312,
+                                                    "email": "mohamed.askar@aethereus.com",
+                                                    "name": "mohamed",
+                                                    "userId": "735133312"
+                                                },
+                                                "enterpriseId": 534002955,
+                                                "memberId": 534002955,
+                                                "status": {
+                                                    "id": 1,
+                                                    "name": "Draft"
+                                                },
+                                                "thumbnail": {
+                                                    "thumbnailUrl": "/v1/assets/65/thumbnail"
+                                                },
+                                                "category": {
+                                                    "id": 8498,
+                                                    "name": "Content Builder",
+                                                    "parentId": 0
+                                                },
+                                                "content": "<table cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" role=\"presentation\" style=\"min-width: 100%; \" class=\"stylingblock-content-wrapper\"><tr><td class=\"stylingblock-content-wrapper camarker-inner\"><div style=\"text-align: center;\">\n\t<span style=\"font-size:20px;\"><b>Thank you for your Rating!!</b></span></div></td></tr></table>",
+                                                "design": "",
+                                                "meta": {
+                                                    "wrapperStyles": {
+                                                        "mobile": {
+                                                            "visible": true
+                                                        },
+                                                        "styling": {}
+                                                    }
+                                                },
+                                                "availableViews": [],
+                                                "modelVersion": 2,
+                                                "model": {
+                                                    "id": 196,
+                                                    "fileExtension": "",
+                                                    "name": "Text Block",
+                                                    "key": "textblock",
+                                                    "parentAssetTypeID": 3,
+                                                    "createdDate": "2015-07-08T03:16:11-06:00",
+                                                    "modifiedDate": "2016-05-23T00:16:16-06:00",
+                                                    "definitionData": {
+                                                        "filters": {
+                                                            "types": [
+                                                                "Text",
+                                                                "Content Block"
+                                                            ]
+                                                        },
+                                                        "listingType": "Text Block",
+                                                        "allowLocalSharing": false
+                                                    },
+                                                    "isCDNPublishable": false
+                                                },
+                                                "slots": {},
+                                                "blocks": {}
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "modelVersion": 2
+                        }
+                    },
+                    "maxBlocks": 1,
+                    "allowedBlocks": [
+                        "iccloudpageblock"
+                    ],
+                    "modelVersion": 2
+                },
+                "footer": {
+                    "design": "<p style=\"font-family:arial;color:#ccc;font-size:11px;text-align:center;vertical-align:middle;font-weight:bold;padding:10px;margin:0;border:#ccc dashed 1px;\">Drop blocks or content here</p>",
+                    "modelVersion": 2
+                }
+            },
+            "modelVersion": 2
+        }
+    },
+    "availableViews": [
+        "html"
+    ],
+    "modelVersion": 2,
+    "r__folder_Path": "Content Builder"
+}

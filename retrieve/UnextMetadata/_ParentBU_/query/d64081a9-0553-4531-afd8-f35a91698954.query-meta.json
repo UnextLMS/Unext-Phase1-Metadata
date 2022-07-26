@@ -1,0 +1,11 @@
+{
+    "name": "Get Individual Students when discussion forum is published",
+    "key": "d64081a9-0553-4531-afd8-f35a91698954",
+    "description": "",
+    "targetKey": "A457502D-AFB0-46B5-A704-0B902B033CBA",
+    "createdDate": "2022-05-11T00:29:03.933",
+    "modifiedDate": "2022-07-15T04:01:38.983",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Discussion Forum"
+}

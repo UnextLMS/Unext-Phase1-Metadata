@@ -1,0 +1,62 @@
+{
+    "name": "Live Classroom Rem",
+    "description": "",
+    "key": "db152ee2-74c0-118d-3c59-dfb6f0283077",
+    "type": "scheduled",
+    "status": "Scheduled",
+    "schedule": {
+        "typeId": 3,
+        "startDate": "2022-07-20T18:44:00",
+        "endDate": "2079-06-06T00:00:00",
+        "icalRecur": "FREQ=DAILY;UNTIL=20790606;INTERVAL=1",
+        "timezoneName": "Central Standard Time (no DST)"
+    },
+    "steps": [
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "LC Get Faculty Details From SF",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Update Program Name to LC Faculty",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Update Program Type for Faculty LC",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "LC Rem Update Query To True",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Faculty Live Classroom",
+                    "r__type": "fireEvent"
+                }
+            ]
+        }
+    ],
+    "r__folder_Path": "my automations/Live Classroom"
+}

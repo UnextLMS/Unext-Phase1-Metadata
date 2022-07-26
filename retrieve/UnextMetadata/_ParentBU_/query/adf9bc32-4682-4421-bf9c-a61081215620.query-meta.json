@@ -1,0 +1,11 @@
+{
+    "name": "Delete Assignment Temp Remainder Assignment",
+    "key": "adf9bc32-4682-4421-bf9c-a61081215620",
+    "description": "",
+    "targetKey": "EA3E43F8-2BFC-43C4-A9C2-C0B5B6FE3227",
+    "createdDate": "2022-06-15T23:59:42.217",
+    "modifiedDate": "2022-07-11T05:58:40.047",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "All Course Enrollments",
+    "key": "3c51453c-5551-42fa-b89d-56479569e60f",
+    "description": "",
+    "targetKey": "21A4E2F3-8A3F-4B61-BFF4-1959183103F7",
+    "createdDate": "2022-07-12T04:48:56.183",
+    "modifiedDate": "2022-07-12T05:11:39.737",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

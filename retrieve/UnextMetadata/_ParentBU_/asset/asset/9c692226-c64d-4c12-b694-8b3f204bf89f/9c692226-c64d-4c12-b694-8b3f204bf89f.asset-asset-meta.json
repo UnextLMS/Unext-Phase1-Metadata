@@ -1,0 +1,228 @@
+{
+    "customerKey": "9c692226-c64d-4c12-b694-8b3f204bf89f",
+    "contentType": "text/html",
+    "assetType": {
+        "name": "webpage",
+        "displayName": "Web Page"
+    },
+    "version": 1,
+    "name": "Survey",
+    "owner": {
+        "email": "tejas.panchani@aethereus.com",
+        "name": "Tejas"
+    },
+    "createdDate": "2022-03-11T01:01:52.18-06:00",
+    "createdBy": {
+        "email": "tejas.panchani@aethereus.com",
+        "name": "Tejas"
+    },
+    "modifiedDate": "2022-03-12T08:16:24.67-06:00",
+    "modifiedBy": {
+        "email": "mohamed.askar@aethereus.com",
+        "name": "mohamed"
+    },
+    "memberId": 534002955,
+    "status": {
+        "name": "Draft"
+    },
+    "meta": {
+        "globalStyles": {
+            "isLocked": false,
+            "body": {
+                "max-width": "1280px"
+            }
+        }
+    },
+    "views": {
+        "html": {
+            "thumbnail": {},
+            "meta": {},
+            "slots": {
+                "header": {
+                    "content": "<div data-type=\"block\" data-key=\"0tbq8faybd5q\"></div>",
+                    "design": "<p style=\"font-family:arial;color:#ccc;font-size:11px;text-align:center;vertical-align:middle;font-weight:bold;padding:10px;margin:0;border:#ccc dashed 1px;\">Drop blocks or content here</p>",
+                    "blocks": {
+                        "0tbq8faybd5q": {
+                            "id": 49,
+                            "customerKey": "e2a9fb2b-e4da-48de-b2d7-6913ba0a8a8e",
+                            "objectID": "cafbe5b4-e56e-4cb8-baf4-6a9c54f6c269",
+                            "assetType": {
+                                "id": 196,
+                                "name": "textblock",
+                                "displayName": "Text Block"
+                            },
+                            "fileProperties": {
+                                "fileName": "Thanks for You Rating !!"
+                            },
+                            "name": "Thanks for You Rating !!",
+                            "owner": {
+                                "id": 735132980,
+                                "email": "tejas.panchani@aethereus.com",
+                                "name": "Tejas",
+                                "userId": "735132980"
+                            },
+                            "createdDate": "2022-03-11T01:04:22-06:00",
+                            "createdBy": {
+                                "id": 735132980,
+                                "email": "tejas.panchani@aethereus.com",
+                                "name": "Tejas",
+                                "userId": "735132980"
+                            },
+                            "modifiedDate": "2022-03-11T01:04:29-06:00",
+                            "modifiedBy": {
+                                "id": 735132980,
+                                "email": "tejas.panchani@aethereus.com",
+                                "name": "Tejas",
+                                "userId": "735132980"
+                            },
+                            "enterpriseId": 534002955,
+                            "memberId": 534002955,
+                            "status": {
+                                "id": 1,
+                                "name": "Draft"
+                            },
+                            "thumbnail": {
+                                "thumbnailUrl": "/v1/assets/49/thumbnail"
+                            },
+                            "category": {
+                                "id": 8498,
+                                "name": "Content Builder",
+                                "parentId": 0
+                            },
+                            "design": "<table cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" role=\"presentation\" style=\"min-width: 100%; \" class=\"stylingblock-content-wrapper\"><tr><td class=\"stylingblock-content-wrapper camarker-inner\"><div class=\"default-design\" style=\"height:150px; overflow:hidden;\"><p class=\"textblock\" style=\"margin:0; padding:0; overflow:hidden; display:block;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vestibulum nunc feugiat porta consectetur. Sed vehicula vel ante suscipit sagittis. Ut metus metus, feugiat ut laoreet blandit, viverra non mi. Phasellus convallis, mauris ac vehicula posuere, ligula magna mattis ipsum, in sollicitudin nibh lacus eget sapien. Mauris ultricies laoreet ex, a viverra leo ornare eu. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris commodo scelerisque arcu, id semper sem pharetra vel. Sed ut erat auctor lectus pretium blandit gravida vitae enim. Nullam eget ex et enim molestie porttitor. Duis vitae est fringilla, placerat nisi condimentum, tristique purus. Fusce lobortis mauris quis iaculis ultrices. In tempor ligula ac ex tempor rutrum. Pellentesque quis convallis mi.<br><br>Duis mattis, ex a hendrerit ullamcorper, eros massa consectetur elit, vel lobortis justo arcu ac mi magna, blandit sit amet eros id, dapibus cursus justo. Suspendisse mauris odio, aliquet ut ligula in, porta mollis risus. Ut ultrices lectus dolor, sed euismod nulla ultrices ac. Phasellus laoreet ultricies facilisis. Fusce imperdiet maximus ipsum vitae rutrum. Maecenas faucibus vestibulum lorem sit amet varius. Vivamus et ultricies ligula. Mauris semper scelerisque ante id fermentum. Curabitur non odio pellentesque, consectetur odio eu, commodo risus. Mauris egestas elit vel ipsum sagittis fermentum. Cras varius quam ac enim eleifend, eu porttitor odio finibus. Aenean quis finibus dolor. Nunc bibendum aliquam auctor.</p></div></td></tr></table>",
+                            "meta": {
+                                "wrapperStyles": {
+                                    "mobile": {
+                                        "visible": true
+                                    },
+                                    "styling": {}
+                                }
+                            },
+                            "availableViews": [],
+                            "modelVersion": 2
+                        }
+                    },
+                    "modelVersion": 2
+                },
+                "col1": {
+                    "content": "",
+                    "design": "<p style=\"font-family: arial; color: #CCCCCC; font-size: 12px; font-weight: bold; text-align: center; display: flex; flex-direction: column; justify-content: center; height: 150px; padding: 10px; margin: 0; border: 1px dashed #CCCCCC;\">Drop blocks or content here</p>",
+                    "blocks": {},
+                    "maxBlocks": 1,
+                    "allowedBlocks": [
+                        "iccloudpageblock"
+                    ],
+                    "modelVersion": 2
+                },
+                "footer": {
+                    "content": "<div data-type=\"block\" data-key=\"embeddedicblock\"></div>",
+                    "design": "<p style=\"font-family:arial;color:#ccc;font-size:11px;text-align:center;vertical-align:middle;font-weight:bold;padding:10px;margin:0;border:#ccc dashed 1px;\">Drop blocks or content here</p>",
+                    "blocks": {
+                        "embeddedicblock": {
+                            "assetType": {
+                                "id": 233,
+                                "name": "iccloudpageblock"
+                            },
+                            "design": "<table cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" role=\"presentation\" style=\"background-color: #FFFFFF; border: 1px solid #000000; min-width: 100%; \" class=\"stylingblock-content-wrapper\"><tr><td style=\"padding: 0px; \" class=\"stylingblock-content-wrapper camarker-inner\"></td></tr></table>",
+                            "superContent": "<div data-marker=\"wrapper\" style=\"background-color: #FFFFFF; margin: 0px; padding: 0px; border: 1px solid #000000; \" class=\"stylingblock-content-wrapper\"><table cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" role=\"presentation\" style=\"min-width: 100%; \" class=\"stylingblock-content-wrapper\"><tr><td class=\"stylingblock-content-wrapper camarker-inner\"><div style=\"text-align: center;\">\n\t<span style=\"font-size:20px;\"><b>Thank you for your Rating!!</b></span></div></td></tr></table></div>",
+                            "meta": {
+                                "wrapperStyles": {
+                                    "mobile": {
+                                        "visible": true,
+                                        "columnOrder": "ltr"
+                                    },
+                                    "styling": {
+                                        "background-color": "#FFFFFF",
+                                        "margin": "0px",
+                                        "padding": "0px",
+                                        "border": "1px solid #000000"
+                                    }
+                                },
+                                "options": {
+                                    "customBlockData": {
+                                        "previewForms": {
+                                            "asset": null
+                                        },
+                                        "confirmationMessage": {
+                                            "type": "CONTENT_BUILDER",
+                                            "asset": {
+                                                "id": 65,
+                                                "customerKey": "a9c100bc-96d2-451a-830b-64dbaf3e03bc",
+                                                "objectID": "7f044c62-1e6e-4831-a9d1-f8dc9e7a0154",
+                                                "assetType": {
+                                                    "id": 196,
+                                                    "name": "textblock",
+                                                    "displayName": "Text Block"
+                                                },
+                                                "fileProperties": {
+                                                    "fileName": "Survey Thank you block"
+                                                },
+                                                "name": "Survey Thank you block",
+                                                "owner": {
+                                                    "id": 735133312,
+                                                    "email": "mohamed.askar@aethereus.com",
+                                                    "name": "mohamed",
+                                                    "userId": "735133312"
+                                                },
+                                                "createdDate": "2022-03-12T08:13:09-06:00",
+                                                "createdBy": {
+                                                    "id": 735133312,
+                                                    "email": "mohamed.askar@aethereus.com",
+                                                    "name": "mohamed",
+                                                    "userId": "735133312"
+                                                },
+                                                "modifiedDate": "2022-03-12T08:13:53-06:00",
+                                                "modifiedBy": {
+                                                    "id": 735133312,
+                                                    "email": "mohamed.askar@aethereus.com",
+                                                    "name": "mohamed",
+                                                    "userId": "735133312"
+                                                },
+                                                "enterpriseId": 534002955,
+                                                "memberId": 534002955,
+                                                "status": {
+                                                    "id": 1,
+                                                    "name": "Draft"
+                                                },
+                                                "thumbnail": {
+                                                    "thumbnailUrl": "/v1/assets/65/thumbnail"
+                                                },
+                                                "category": {
+                                                    "id": 8498,
+                                                    "name": "Content Builder",
+                                                    "parentId": 0
+                                                },
+                                                "content": "<table cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" role=\"presentation\" style=\"min-width: 100%; \" class=\"stylingblock-content-wrapper\"><tr><td class=\"stylingblock-content-wrapper camarker-inner\"><div style=\"text-align: center;\">\n\t<span style=\"font-size:20px;\"><b>Thank you for your Rating!!</b></span></div></td></tr></table>",
+                                                "design": "",
+                                                "meta": {
+                                                    "wrapperStyles": {
+                                                        "mobile": {
+                                                            "visible": true
+                                                        },
+                                                        "styling": {}
+                                                    }
+                                                },
+                                                "availableViews": [],
+                                                "modelVersion": 2,
+                                                "slots": {},
+                                                "blocks": {}
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "modelVersion": 2
+                        }
+                    },
+                    "modelVersion": 2
+                }
+            },
+            "modelVersion": 2
+        }
+    },
+    "availableViews": [
+        "html"
+    ],
+    "modelVersion": 2,
+    "r__folder_Path": "Content Builder"
+}

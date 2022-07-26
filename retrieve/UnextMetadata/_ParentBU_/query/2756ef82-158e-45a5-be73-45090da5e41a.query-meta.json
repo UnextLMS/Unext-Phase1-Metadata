@@ -1,0 +1,11 @@
+{
+    "name": "LearnerClassroomInvalidIndividualContacts",
+    "key": "2756ef82-158e-45a5-be73-45090da5e41a",
+    "description": "",
+    "targetKey": "55321E71-95E8-4B1F-8CC9-CD6270C50055",
+    "createdDate": "2022-05-18T03:48:54.523",
+    "modifiedDate": "2022-05-18T03:48:54.523",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

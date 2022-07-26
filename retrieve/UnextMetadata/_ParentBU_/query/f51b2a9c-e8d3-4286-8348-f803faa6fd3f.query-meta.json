@@ -1,0 +1,11 @@
+{
+    "name": "Task for New Case Creation",
+    "key": "f51b2a9c-e8d3-4286-8348-f803faa6fd3f",
+    "description": "",
+    "targetKey": "C03D571A-666A-4E1B-8E5B-21C4E345D379",
+    "createdDate": "2022-06-13T08:47:01.923",
+    "modifiedDate": "2022-07-23T09:27:16.473",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

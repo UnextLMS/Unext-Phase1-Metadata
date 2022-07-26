@@ -1,0 +1,11 @@
+{
+    "name": "Add Calender Events to Group Of Students",
+    "key": "eb618b67-8a74-4dbb-857c-1333d18dc372",
+    "description": "",
+    "targetKey": "A457502D-AFB0-46B5-A704-0B902B033CBA",
+    "createdDate": "2022-05-21T08:43:06.867",
+    "modifiedDate": "2022-07-15T03:59:39.477",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Discussion Forum"
+}

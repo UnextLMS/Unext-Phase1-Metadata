@@ -1,0 +1,11 @@
+{
+    "name": "LC Store Details Into Master DE",
+    "key": "988e5845-dcf2-4e03-90e6-7dd2dd105d7e",
+    "description": "",
+    "targetKey": "4AF0D407-CAC0-475E-A1F2-B46CD3084CAD",
+    "createdDate": "2022-05-24T22:42:23.967",
+    "modifiedDate": "2022-07-06T09:11:42.35",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Live Classroom"
+}

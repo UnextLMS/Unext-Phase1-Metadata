@@ -1,0 +1,11 @@
+{
+    "name": "Calculate StartDate and Enddate for event",
+    "key": "c987ad59-6aa5-4b88-9a99-f61625c7ca9b",
+    "description": "",
+    "targetKey": "20F8788D-5EB8-4339-AF9B-39A138E23A0D",
+    "createdDate": "2022-05-10T05:13:57.92",
+    "modifiedDate": "2022-05-10T23:04:42.65",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

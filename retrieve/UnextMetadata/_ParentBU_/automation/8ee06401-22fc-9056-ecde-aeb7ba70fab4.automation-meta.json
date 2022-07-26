@@ -1,0 +1,44 @@
+{
+    "name": "SF Case Awaiting Student Input Remainder",
+    "description": "",
+    "key": "8ee06401-22fc-9056-ecde-aeb7ba70fab4",
+    "type": "scheduled",
+    "status": "PausedSchedule",
+    "schedule": {
+        "typeId": 3,
+        "startDate": "2022-07-20T13:30:00",
+        "endDate": "2079-06-06T00:00:00",
+        "icalRecur": "FREQ=DAILY;UNTIL=20790606T113000;INTERVAL=1",
+        "timezoneName": "India Standard Time"
+    },
+    "steps": [
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Case Status Awaiting Student Input Remainder",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "SF Case Awaiting student input",
+                    "r__type": "importFile"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Case Awaiting Student Input Remainder",
+                    "r__type": "fireEvent"
+                }
+            ]
+        }
+    ],
+    "r__folder_Path": "my automations/SF"
+}

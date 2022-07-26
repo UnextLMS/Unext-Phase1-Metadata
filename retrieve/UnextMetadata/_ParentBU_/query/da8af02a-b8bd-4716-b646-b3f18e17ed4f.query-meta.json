@@ -1,0 +1,11 @@
+{
+    "name": "Update query for assignment report published",
+    "key": "da8af02a-b8bd-4716-b646-b3f18e17ed4f",
+    "description": "",
+    "targetKey": "B3771E2E-6EF8-468E-8F12-BCC0AF40ECA3",
+    "createdDate": "2022-06-27T04:12:53.27",
+    "modifiedDate": "2022-07-06T00:09:09.723",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Assignment"
+}

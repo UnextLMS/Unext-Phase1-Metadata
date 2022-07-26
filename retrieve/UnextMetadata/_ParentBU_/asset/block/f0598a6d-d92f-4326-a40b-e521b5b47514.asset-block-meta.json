@@ -1,0 +1,41 @@
+{
+    "customerKey": "f0598a6d-d92f-4326-a40b-e521b5b47514",
+    "assetType": {
+        "name": "htmlblock",
+        "displayName": "HTML Block"
+    },
+    "fileProperties": {
+        "fileName": "fo block"
+    },
+    "name": "hide default footer cb",
+    "owner": {
+        "email": "ashwini.surwase@aethereus.com",
+        "name": "Ashwini Surwase"
+    },
+    "createdDate": "2022-05-27T00:36:53.7-06:00",
+    "createdBy": {
+        "email": "ashwini.surwase@aethereus.com",
+        "name": "Ashwini Surwase"
+    },
+    "modifiedDate": "2022-06-02T05:45:20.617-06:00",
+    "modifiedBy": {
+        "email": "ashwini.surwase@aethereus.com",
+        "name": "Ashwini Surwase"
+    },
+    "memberId": 534002955,
+    "status": {
+        "name": "Draft"
+    },
+    "design": "",
+    "meta": {
+        "wrapperStyles": {
+            "mobile": {
+                "visible": true
+            },
+            "styling": {}
+        }
+    },
+    "availableViews": [],
+    "modelVersion": 2,
+    "r__folder_Path": "Content Builder/Content Blocks"
+}

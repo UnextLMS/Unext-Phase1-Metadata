@@ -1,0 +1,11 @@
+{
+    "name": "Get Faculty Details from SF",
+    "key": "914f4fc7-a88c-41b2-88f9-36eeaca1f4ff",
+    "description": "",
+    "targetKey": "90776A26-B63E-4BF2-BACE-102A20AF7F45",
+    "createdDate": "2022-05-20T08:10:31.857",
+    "modifiedDate": "2022-07-11T08:37:59.393",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Discussion Forum"
+}

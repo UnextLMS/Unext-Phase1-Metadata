@@ -1,0 +1,11 @@
+{
+    "name": "update signature",
+    "key": "cff89ce8-1a60-4774-8ddd-ea831db5a311",
+    "description": "",
+    "targetKey": "8E470639-B197-418E-A9C8-B00E8435C8FF",
+    "createdDate": "2022-06-14T04:37:00.01",
+    "modifiedDate": "2022-06-14T04:37:00.01",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

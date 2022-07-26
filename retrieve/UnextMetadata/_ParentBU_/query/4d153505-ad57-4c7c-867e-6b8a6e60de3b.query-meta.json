@@ -1,0 +1,11 @@
+{
+    "name": "Update Program Name to Students Under a Group for Assignment Rem",
+    "key": "4d153505-ad57-4c7c-867e-6b8a6e60de3b",
+    "description": "",
+    "targetKey": "67CB7BA3-C943-4DCC-BB1E-2C361BCEBCA3",
+    "createdDate": "2022-06-14T08:16:53.29",
+    "modifiedDate": "2022-07-11T05:57:58.803",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

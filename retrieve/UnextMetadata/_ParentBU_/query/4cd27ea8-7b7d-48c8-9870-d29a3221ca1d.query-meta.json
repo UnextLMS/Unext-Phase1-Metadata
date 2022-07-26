@@ -1,0 +1,11 @@
+{
+    "name": "Assignment Get Faculty Details From SF",
+    "key": "4cd27ea8-7b7d-48c8-9870-d29a3221ca1d",
+    "description": "",
+    "targetKey": "92FD609B-632A-4F61-83F5-8E4E42BE55B4",
+    "createdDate": "2022-05-23T07:25:12.66",
+    "modifiedDate": "2022-07-25T05:27:38.687",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Assignment"
+}

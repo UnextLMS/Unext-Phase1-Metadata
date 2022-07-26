@@ -1,0 +1,98 @@
+{
+    "name": "Discussion Forum Remainder ",
+    "description": "",
+    "key": "bee41e65-188b-e326-8368-77a0a5d1f81e",
+    "type": "scheduled",
+    "status": "PausedSchedule",
+    "schedule": {
+        "typeId": 3,
+        "startDate": "2022-05-16T09:00:00",
+        "endDate": "2079-06-06T00:00:00",
+        "icalRecur": "FREQ=DAILY;UNTIL=20790606T113000;INTERVAL=1",
+        "timezoneName": "India Standard Time"
+    },
+    "steps": [
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Discussion Forum Remainder for Individual Students",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Discussion Forum Remainder for Target All Students",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Discussion Forum Remainder for Group of Students",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Add Remainder Data To Sendable",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Update Program Name to Students Under a Group for DF Remainder",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Update Program Type for Remainder DF",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Discussion Forum Optin Whatsapp",
+                    "r__type": "importFile"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Discussion Forum Sendable",
+                    "r__type": "fireEvent"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Delete Temp Remainder DE Records",
+                    "r__type": "query"
+                }
+            ]
+        }
+    ],
+    "r__folder_Path": "my automations/Discussion Forum"
+}

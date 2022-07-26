@@ -1,0 +1,111 @@
+{
+    "name": "SMS and Whatsapp Task Creation",
+    "description": "",
+    "key": "f011e140-320e-6c16-b2bd-de11fe681e4c",
+    "type": "scheduled",
+    "status": "Scheduled",
+    "schedule": {
+        "typeId": 2,
+        "startDate": "2022-07-26T12:30:00",
+        "endDate": "2079-06-06T00:00:00",
+        "icalRecur": "FREQ=HOURLY;UNTIL=20790606T113000;INTERVAL=1",
+        "timezoneName": "India Standard Time"
+    },
+    "steps": [
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Task for New Case Creation",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Task Creation for Case Resolution",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Task Creation for Case Reopen",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Task Creation for Case Awaiting Student Input",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Task Creation For New User Enrollment",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Task Creation for quiz",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Task Creation For Assignment",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Check sms message is delivered or not for status is sent",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Task Creation to update status",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Update SMS SendLog",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Task Creation in SF",
+                    "r__type": "fireEvent"
+                }
+            ]
+        }
+    ],
+    "r__folder_Path": "my automations"
+}

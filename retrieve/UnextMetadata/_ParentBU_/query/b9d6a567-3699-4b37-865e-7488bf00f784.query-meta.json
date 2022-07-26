@@ -1,0 +1,11 @@
+{
+    "name": "LearnerAssignmentInvalidTargetAllMembers",
+    "key": "b9d6a567-3699-4b37-865e-7488bf00f784",
+    "description": "",
+    "targetKey": "14F4131E-D6DD-4D49-8930-7399446FA914",
+    "createdDate": "2022-05-17T00:09:47.007",
+    "modifiedDate": "2022-05-17T00:09:47.007",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

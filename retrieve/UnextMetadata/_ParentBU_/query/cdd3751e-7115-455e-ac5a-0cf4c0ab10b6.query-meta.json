@@ -1,0 +1,11 @@
+{
+    "name": "Assignment Get Individual Student Details From SF",
+    "key": "cdd3751e-7115-455e-ac5a-0cf4c0ab10b6",
+    "description": "",
+    "targetKey": "67CB7BA3-C943-4DCC-BB1E-2C361BCEBCA3",
+    "createdDate": "2022-04-12T07:43:04.423",
+    "modifiedDate": "2022-07-15T05:45:15.133",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Assignment"
+}

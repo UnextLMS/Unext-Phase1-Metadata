@@ -1,0 +1,11 @@
+{
+    "name": "Retrieve OnHold Students under term",
+    "key": "0f6d9cac-689d-419b-b22c-7b270c390112",
+    "description": "",
+    "targetKey": "76EC9CBF-3FF3-4B5C-926A-78E723BA3ABF",
+    "createdDate": "2022-04-19T04:14:16.927",
+    "modifiedDate": "2022-04-24T03:56:18.4",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

@@ -1,0 +1,11 @@
+{
+    "CreatedDate": "2022-04-08T23:36:43.107",
+    "ModifiedDate": "2022-04-08T23:36:43.107",
+    "ID": 571,
+    "CustomerKey": "Suppress Bounce - 8469",
+    "ListName": "Suppress Bounce",
+    "Type": "Public",
+    "Description": "",
+    "ListClassification": "SuppressionList",
+    "r__folder_Path": "Suppression Lists"
+}

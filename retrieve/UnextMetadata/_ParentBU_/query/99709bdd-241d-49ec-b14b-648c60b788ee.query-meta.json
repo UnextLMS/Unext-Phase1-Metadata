@@ -1,0 +1,11 @@
+{
+    "name": "Assignment Get Updated StartDate And EndDate",
+    "key": "99709bdd-241d-49ec-b14b-648c60b788ee",
+    "description": "",
+    "targetKey": "0F24355A-E98E-43E8-8D67-CD6DA4C8FFF7",
+    "createdDate": "2022-05-16T07:33:55.707",
+    "modifiedDate": "2022-07-05T23:48:39.883",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Assignment"
+}

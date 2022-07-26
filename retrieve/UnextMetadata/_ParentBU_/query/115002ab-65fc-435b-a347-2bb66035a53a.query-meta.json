@@ -1,0 +1,11 @@
+{
+    "name": "Assignment Add Calender Events To Group Of Students",
+    "key": "115002ab-65fc-435b-a347-2bb66035a53a",
+    "description": "",
+    "targetKey": "67CB7BA3-C943-4DCC-BB1E-2C361BCEBCA3",
+    "createdDate": "2022-05-23T08:40:11.11",
+    "modifiedDate": "2022-07-20T07:53:23.727",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Assignment"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "test invalid and added",
+    "key": "2e934e41-d588-4d70-aaab-d1a3731e58c9",
+    "description": "",
+    "targetKey": "CDCA4E5A-BE59-4D68-BBE7-699871E7A3C0",
+    "createdDate": "2022-07-08T04:49:39.177",
+    "modifiedDate": "2022-07-08T09:32:09.4",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

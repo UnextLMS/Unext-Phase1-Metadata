@@ -1,0 +1,11 @@
+{
+    "name": "Retrieve Program enrollment Details",
+    "key": "68ce2eac-7c35-4b21-bb5c-bd5106d57ec8",
+    "description": "",
+    "targetKey": "4C7084FE-8DAF-44DD-9080-171CD88E7EC6",
+    "createdDate": "2022-04-17T03:34:18.153",
+    "modifiedDate": "2022-04-19T04:12:06.647",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

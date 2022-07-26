@@ -1,0 +1,11 @@
+{
+    "name": "Assignment Reminder For Individual Students",
+    "key": "37f18bc9-a866-41da-8558-df58334ee0fb",
+    "description": "",
+    "targetKey": "EA3E43F8-2BFC-43C4-A9C2-C0B5B6FE3227",
+    "createdDate": "2022-05-24T00:29:45.963",
+    "modifiedDate": "2022-07-18T23:41:06.487",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

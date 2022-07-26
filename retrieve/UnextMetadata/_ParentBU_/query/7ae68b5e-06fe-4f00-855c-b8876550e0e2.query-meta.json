@@ -1,0 +1,11 @@
+{
+    "name": "Update Program Name to Assignment Faculty",
+    "key": "7ae68b5e-06fe-4f00-855c-b8876550e0e2",
+    "description": "",
+    "targetKey": "92FD609B-632A-4F61-83F5-8E4E42BE55B4",
+    "createdDate": "2022-06-14T22:52:39.957",
+    "modifiedDate": "2022-07-11T05:50:46.95",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Assignment"
+}

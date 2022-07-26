@@ -1,0 +1,11 @@
+{
+    "name": "Invalid Group Of Contacts",
+    "key": "852272ec-d8ca-438d-b66c-75896bfd16ce",
+    "description": "",
+    "targetKey": "053B0A52-1FB8-4765-863D-6099420AF25E",
+    "createdDate": "2022-05-05T23:41:34.05",
+    "modifiedDate": "2022-05-11T07:52:11.993",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

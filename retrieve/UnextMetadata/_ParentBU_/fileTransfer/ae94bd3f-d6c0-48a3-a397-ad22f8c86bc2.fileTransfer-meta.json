@@ -1,0 +1,16 @@
+{
+    "name": "Mobile Push",
+    "customerKey": "ae94bd3f-d6c0-48a3-a397-ad22f8c86bc2",
+    "createdDate": "2022-04-06T03:44:34.51",
+    "modifiedDate": "2022-06-13T06:50:48.11",
+    "fileSpec": "mobilepushextr.csv",
+    "isEncrypted": false,
+    "isCompressed": false,
+    "maxFileAge": 0,
+    "maxFileAgeScheduleOffset": 0,
+    "maxImportFrequency": 0,
+    "isUpload": true,
+    "isPgp": false,
+    "isFileSpecLocalized": false,
+    "r__ftpLocation_name": "ExactTarget Enhanced FTP"
+}

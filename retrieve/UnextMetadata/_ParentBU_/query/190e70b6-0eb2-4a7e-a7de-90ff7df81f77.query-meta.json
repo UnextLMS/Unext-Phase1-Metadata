@@ -1,0 +1,11 @@
+{
+    "name": "Retrieev User Group with Mentors Allotted",
+    "key": "190e70b6-0eb2-4a7e-a7de-90ff7df81f77",
+    "description": "",
+    "targetKey": "3A4B8C32-2148-416B-8A55-049610362B28",
+    "createdDate": "2022-04-11T08:40:16.15",
+    "modifiedDate": "2022-04-12T02:33:54.137",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

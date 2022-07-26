@@ -1,0 +1,11 @@
+{
+    "name": "Retrieve Unique Task Records",
+    "key": "49790a2d-bfb7-4310-8e92-533f137f8618",
+    "description": "",
+    "targetKey": "C03D571A-666A-4E1B-8E5B-21C4E345D379",
+    "createdDate": "2022-07-01T08:11:32.73",
+    "modifiedDate": "2022-07-01T08:11:32.73",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

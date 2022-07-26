@@ -1,0 +1,11 @@
+{
+    "name": "LC Update Query To True",
+    "key": "402e8416-7932-4382-923f-0bfc0670e2a5",
+    "description": "",
+    "targetKey": "B3771E2E-6EF8-468E-8F12-BCC0AF40ECA3",
+    "createdDate": "2022-04-18T23:38:02.6",
+    "modifiedDate": "2022-06-20T05:17:28.077",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

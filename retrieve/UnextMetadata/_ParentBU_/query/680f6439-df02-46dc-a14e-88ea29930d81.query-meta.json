@@ -1,0 +1,11 @@
+{
+    "name": "Update query to true for faculty",
+    "key": "680f6439-df02-46dc-a14e-88ea29930d81",
+    "description": "",
+    "targetKey": "B3771E2E-6EF8-468E-8F12-BCC0AF40ECA3",
+    "createdDate": "2022-06-22T09:30:06.33",
+    "modifiedDate": "2022-07-08T03:19:05.417",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Discussion Forum"
+}

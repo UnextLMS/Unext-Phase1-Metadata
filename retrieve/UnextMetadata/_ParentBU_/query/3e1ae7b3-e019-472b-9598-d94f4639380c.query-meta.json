@@ -1,0 +1,11 @@
+{
+    "name": "Quiz Get SF Details with Target equals All",
+    "key": "3e1ae7b3-e019-472b-9598-d94f4639380c",
+    "description": "",
+    "targetKey": "8E470639-B197-418E-A9C8-B00E8435C8FF",
+    "createdDate": "2022-04-14T07:24:31.74",
+    "modifiedDate": "2022-07-15T09:08:51.88",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Quiz"
+}

@@ -1,0 +1,46 @@
+{
+    "name": "Mobile Push",
+    "key": "3EBA4F1D-C649-488E-9EE7-B5A84CC5E962",
+    "fileSpec": "mobilepush",
+    "createdDate": "2022-04-06T03:37:46.053",
+    "modifiedDate": "2022-04-06T03:53:05.777",
+    "createdBy": 735133312,
+    "modifiedBy": 735133312,
+    "intervalType": 0,
+    "description": "",
+    "startDate": "Apr  5 2022 12:00AM",
+    "endDate": "Apr  6 2022 12:00AM",
+    "dataFields": [
+        {
+            "name": "ApplyTimeZone",
+            "type": "bool",
+            "value": "False"
+        },
+        {
+            "name": "AppName",
+            "type": "string",
+            "value": ""
+        },
+        {
+            "name": "Campaign",
+            "type": "string",
+            "value": ""
+        },
+        {
+            "name": "MessageName",
+            "type": "string",
+            "value": ""
+        },
+        {
+            "name": "Platform",
+            "type": "string",
+            "value": ""
+        },
+        {
+            "name": "Timezone",
+            "type": "integer",
+            "value": "1"
+        }
+    ],
+    "r__dataExtractType_name": "Mobile Push Detail Extract Report"
+}

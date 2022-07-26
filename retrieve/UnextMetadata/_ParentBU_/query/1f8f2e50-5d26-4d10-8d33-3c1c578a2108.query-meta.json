@@ -1,0 +1,11 @@
+{
+    "name": "Update Latest Assignment Records To False",
+    "key": "1f8f2e50-5d26-4d10-8d33-3c1c578a2108",
+    "description": "",
+    "targetKey": "B3771E2E-6EF8-468E-8F12-BCC0AF40ECA3",
+    "createdDate": "2022-06-27T02:26:47.83",
+    "modifiedDate": "2022-07-05T23:47:33.377",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Assignment"
+}

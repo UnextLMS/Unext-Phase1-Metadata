@@ -1,0 +1,35 @@
+<table
+    cellpadding="0"
+    cellspacing="0"
+    width="100%"
+    role="presentation"
+    style="background-color: #ffffff; border: 1px solid #000000; min-width: 100%"
+    class="stylingblock-content-wrapper"
+>
+    <tr>
+        <td style="padding: 0px" class="stylingblock-content-wrapper camarker-inner">
+            <!-- 236.1.2/1647094544334 -->
+            <script runat="server" language="ampscript">
+                VAR @SuccessContent, @dataRedirectUrl
+                SET @SuccessContent = ContentBlockById(65)
+                SET @dataRedirectUrl = ""
+            </script>
+            <script runat="server">
+                Platform.Load('Core', '1');
+                try {
+                    var getContent = HTTP.Get('https://ssjs.mc-content.com/ic-ssjs.html');
+                    var contentForPage = TreatAsContent(getContent.Content);
+                    Write(contentForPage);
+                } catch (e) {
+                    Write(
+                        '<scr' +
+                            "ipt>console.log('There was an issue: " +
+                            Stringify(e) +
+                            "');</sc" +
+                            'ript>'
+                    );
+                }
+            </script>
+        </td>
+    </tr>
+</table>

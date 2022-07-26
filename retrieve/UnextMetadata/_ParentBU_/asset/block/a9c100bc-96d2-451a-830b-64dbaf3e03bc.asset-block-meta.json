@@ -1,0 +1,41 @@
+{
+    "customerKey": "a9c100bc-96d2-451a-830b-64dbaf3e03bc",
+    "assetType": {
+        "name": "textblock",
+        "displayName": "Text Block"
+    },
+    "fileProperties": {
+        "fileName": "Survey Thank you block"
+    },
+    "name": "Survey Thank you block",
+    "owner": {
+        "email": "mohamed.askar@aethereus.com",
+        "name": "mohamed"
+    },
+    "createdDate": "2022-03-12T08:13:09.283-06:00",
+    "createdBy": {
+        "email": "mohamed.askar@aethereus.com",
+        "name": "mohamed"
+    },
+    "modifiedDate": "2022-03-12T08:13:53.013-06:00",
+    "modifiedBy": {
+        "email": "mohamed.askar@aethereus.com",
+        "name": "mohamed"
+    },
+    "memberId": 534002955,
+    "status": {
+        "name": "Draft"
+    },
+    "design": "",
+    "meta": {
+        "wrapperStyles": {
+            "mobile": {
+                "visible": true
+            },
+            "styling": {}
+        }
+    },
+    "availableViews": [],
+    "modelVersion": 2,
+    "r__folder_Path": "Content Builder"
+}

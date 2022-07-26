@@ -1,0 +1,11 @@
+{
+    "name": "Get latest Students enrolled into Jigsaw program",
+    "key": "1c0d97aa-22bc-4753-9840-e9962013e799",
+    "description": "",
+    "targetKey": "1C9C544D-B9E7-4DB4-B661-4FCAE0283852",
+    "createdDate": "2022-05-19T05:42:22.28",
+    "modifiedDate": "2022-07-15T05:13:26.173",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

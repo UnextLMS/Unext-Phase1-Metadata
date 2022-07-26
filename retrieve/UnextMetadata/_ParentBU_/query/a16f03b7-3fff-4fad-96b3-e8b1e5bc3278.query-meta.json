@@ -1,0 +1,11 @@
+{
+    "name": "Assignment Reminder For Target All Students",
+    "key": "a16f03b7-3fff-4fad-96b3-e8b1e5bc3278",
+    "description": "",
+    "targetKey": "EA3E43F8-2BFC-43C4-A9C2-C0B5B6FE3227",
+    "createdDate": "2022-05-24T00:50:57.537",
+    "modifiedDate": "2022-07-18T23:44:14.893",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

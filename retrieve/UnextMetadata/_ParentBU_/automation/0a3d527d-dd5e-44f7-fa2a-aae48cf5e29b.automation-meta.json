@@ -1,0 +1,116 @@
+{
+    "name": "SF Case Resolution",
+    "description": "",
+    "key": "0a3d527d-dd5e-44f7-fa2a-aae48cf5e29b",
+    "type": "scheduled",
+    "status": "Scheduled",
+    "schedule": {
+        "typeId": 2,
+        "startDate": "2022-07-20T18:40:00",
+        "endDate": "2079-06-06T00:00:00",
+        "icalRecur": "FREQ=HOURLY;UNTIL=20790606T113000;INTERVAL=1",
+        "timezoneName": "India Standard Time"
+    },
+    "steps": [
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Fetch Resolved Case",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "SF Case Resolution",
+                    "r__type": "fireEvent"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "15 Minutes",
+                    "r__type": "wait"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Fetch Resolved Case",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "SF Case Resolution",
+                    "r__type": "fireEvent"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "15 Minutes",
+                    "r__type": "wait"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Fetch Resolved Case",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "SF Case Resolution",
+                    "r__type": "fireEvent"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "15 Minutes",
+                    "r__type": "wait"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Fetch Resolved Case",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "SF Case Resolution",
+                    "r__type": "fireEvent"
+                }
+            ]
+        }
+    ],
+    "r__folder_Path": "my automations/SF"
+}

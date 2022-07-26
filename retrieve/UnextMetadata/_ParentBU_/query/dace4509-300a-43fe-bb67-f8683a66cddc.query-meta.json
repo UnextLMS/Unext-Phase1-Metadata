@@ -1,0 +1,11 @@
+{
+    "name": "Assignment Get SF Details with Target equals All",
+    "key": "dace4509-300a-43fe-bb67-f8683a66cddc",
+    "description": "",
+    "targetKey": "67CB7BA3-C943-4DCC-BB1E-2C361BCEBCA3",
+    "createdDate": "2022-04-12T07:03:34.457",
+    "modifiedDate": "2022-07-15T05:43:52.86",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Assignment"
+}

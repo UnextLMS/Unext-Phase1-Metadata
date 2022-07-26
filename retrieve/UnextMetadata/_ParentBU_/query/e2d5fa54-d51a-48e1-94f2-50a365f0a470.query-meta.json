@@ -1,0 +1,11 @@
+{
+    "name": "Update Query to true for new student for assignment",
+    "key": "e2d5fa54-d51a-48e1-94f2-50a365f0a470",
+    "description": "",
+    "targetKey": "277E2226-1D8C-4962-B7A5-9D99A13E803A",
+    "createdDate": "2022-07-12T00:28:55.113",
+    "modifiedDate": "2022-07-12T00:28:55.113",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

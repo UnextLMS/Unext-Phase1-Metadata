@@ -1,0 +1,25 @@
+<script runat="server">
+Platform.Load("Core","1.1.1");
+try{
+</script>
+
+%%[
+set @mobile = AttributeValue("Case:Contact:MobilePhone")
+set @lookupdata = LookupRows('Case Awaiting Student Input','phoneNumber',MOBILE_NUMBER)
+set @rowcount = rowcount(@lookupdata)
+if @rowcount > 0 then
+for @i = 1 to @rowCount do
+set @row = row(@lookupdata, @i) 
+set @Name = field(@row,'Name')
+]%%
+%%[ next @i ]%%
+%%[endif]%%
+
+
+<script runat="server">
+  }catch (e) {
+          Write("<b>Error Message:</b> " + Stringify(e.message) + "<br><br><b>Description:</b> " + Stringify(e.description));
+  }
+</script>
+%%=v(@rowcount)=%%
+Hi %%=v(@Name)=%%, 

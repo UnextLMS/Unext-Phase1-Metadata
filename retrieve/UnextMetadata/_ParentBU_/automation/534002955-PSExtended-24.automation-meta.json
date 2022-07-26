@@ -1,0 +1,27 @@
+{
+    "name": "534002955-PSExtended-24",
+    "description": "This automation sends CURRENT data to the Data Scientists for scoring and is an important componentof the Einstein Engagement Scoring application.",
+    "key": "534002955-PSExtended-24",
+    "type": "scheduled",
+    "status": "Scheduled",
+    "schedule": {
+        "typeId": 2,
+        "startDate": "2022-03-07T14:28:48.647",
+        "endDate": "2052-03-05T14:28:48",
+        "icalRecur": "FREQ=HOURLY;COUNT=10957;INTERVAL=24",
+        "timezoneName": "Central Standard Time (no DST)"
+    },
+    "steps": [
+        {
+            "name": "Automation Task for DFU ELT Activities",
+            "description": "Auto generated step task",
+            "activities": [
+                {
+                    "name": "Extract-Upload C534002955.Einstein_MC_Predictive_Scores into S3",
+                    "r__type": "dataFactoryUtility"
+                }
+            ]
+        }
+    ],
+    "r__folder_Path": "my automations/Data Factory Utility Automations"
+}

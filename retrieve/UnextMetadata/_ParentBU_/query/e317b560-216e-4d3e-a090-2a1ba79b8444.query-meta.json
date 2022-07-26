@@ -1,0 +1,11 @@
+{
+    "name": "Update Query to True for faculty assignment",
+    "key": "e317b560-216e-4d3e-a090-2a1ba79b8444",
+    "description": "",
+    "targetKey": "B3771E2E-6EF8-468E-8F12-BCC0AF40ECA3",
+    "createdDate": "2022-06-27T01:13:50.427",
+    "modifiedDate": "2022-07-08T08:50:00.61",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Assignment"
+}

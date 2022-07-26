@@ -1,0 +1,11 @@
+{
+    "name": "Update Assignment Edited Query To True",
+    "key": "33621581-3043-4a08-9b07-a4b56bc46f9c",
+    "description": "",
+    "targetKey": "B3771E2E-6EF8-468E-8F12-BCC0AF40ECA3",
+    "createdDate": "2022-06-27T04:04:24.603",
+    "modifiedDate": "2022-07-11T09:38:43.32",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Assignment"
+}

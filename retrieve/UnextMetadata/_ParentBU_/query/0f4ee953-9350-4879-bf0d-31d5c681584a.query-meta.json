@@ -1,0 +1,11 @@
+{
+    "name": "update New Records into All Program Enrollments",
+    "key": "0f4ee953-9350-4879-bf0d-31d5c681584a",
+    "description": "",
+    "targetKey": "E5C3D680-C676-4040-80D7-110224F2272F",
+    "createdDate": "2022-06-16T22:13:17.73",
+    "modifiedDate": "2022-06-16T22:13:17.73",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

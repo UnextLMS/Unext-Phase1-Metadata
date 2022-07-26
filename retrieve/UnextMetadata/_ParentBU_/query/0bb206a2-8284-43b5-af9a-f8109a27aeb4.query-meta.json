@@ -1,0 +1,11 @@
+{
+    "name": "Retrieve Term Details with semester",
+    "key": "0bb206a2-8284-43b5-af9a-f8109a27aeb4",
+    "description": "",
+    "targetKey": "1A85AAB2-726F-4D1E-9292-F192364FE475",
+    "createdDate": "2022-04-15T08:52:48.49",
+    "modifiedDate": "2022-04-24T03:53:52.767",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

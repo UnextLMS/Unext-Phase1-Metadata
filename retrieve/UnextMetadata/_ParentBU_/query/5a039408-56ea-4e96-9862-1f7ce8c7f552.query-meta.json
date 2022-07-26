@@ -1,0 +1,11 @@
+{
+    "name": "LearnerAssignmentInvalidIndividualContacts",
+    "key": "5a039408-56ea-4e96-9862-1f7ce8c7f552",
+    "description": "",
+    "targetKey": "03287BF6-3ADA-49BD-8926-00C0017EB89A",
+    "createdDate": "2022-05-16T05:04:39.557",
+    "modifiedDate": "2022-05-16T05:04:39.557",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Update quiz query to true for individual",
+    "key": "824c9f6b-0d66-412c-a440-cbe7b56ff0cc",
+    "description": "",
+    "targetKey": "B3771E2E-6EF8-468E-8F12-BCC0AF40ECA3",
+    "createdDate": "2022-06-27T05:24:24.41",
+    "modifiedDate": "2022-07-06T02:58:37.15",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Quiz"
+}

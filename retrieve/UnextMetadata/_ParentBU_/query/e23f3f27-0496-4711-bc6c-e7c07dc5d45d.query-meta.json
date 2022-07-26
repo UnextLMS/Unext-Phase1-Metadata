@@ -1,0 +1,11 @@
+{
+    "name": "RemTimeAct",
+    "key": "e23f3f27-0496-4711-bc6c-e7c07dc5d45d",
+    "description": "",
+    "targetKey": "4E367E50-1654-4CA7-BFAC-CBAF42315281",
+    "createdDate": "2022-04-11T23:30:24.84",
+    "modifiedDate": "2022-04-11T23:30:24.84",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

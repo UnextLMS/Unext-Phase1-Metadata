@@ -1,0 +1,11 @@
+{
+    "name": "Update Query to true for DF for Published and Added",
+    "key": "8cb8cf04-1325-484c-90b1-cf7e5fb28fd2",
+    "description": "",
+    "targetKey": "B3771E2E-6EF8-468E-8F12-BCC0AF40ECA3",
+    "createdDate": "2022-06-22T08:55:21.58",
+    "modifiedDate": "2022-07-12T01:17:26.647",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Discussion Forum"
+}

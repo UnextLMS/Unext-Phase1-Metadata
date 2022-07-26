@@ -1,0 +1,17 @@
+{
+    "createdDate": "2022-04-05T05:01:07.337Z",
+    "lastUpdated": "2022-04-05T05:01:07.433Z",
+    "code": {
+        "code": "447860092983"
+    },
+    "keyword": "MUJ",
+    "startDate": "2022-04-05T05:01:07.277Z",
+    "endDate": "2042-04-05T05:01:07.277Z",
+    "status": "Active",
+    "createdBy": {
+        "name": "Ashwini Surwase"
+    },
+    "restriction": "NONE",
+    "keywordType": "NORMAL",
+    "isInherited": false
+}

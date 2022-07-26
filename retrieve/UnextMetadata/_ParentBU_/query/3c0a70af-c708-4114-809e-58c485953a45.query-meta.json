@@ -1,0 +1,11 @@
+{
+    "name": "Assignment Update Unpublished",
+    "key": "3c0a70af-c708-4114-809e-58c485953a45",
+    "description": "",
+    "targetKey": "0F24355A-E98E-43E8-8D67-CD6DA4C8FFF7",
+    "createdDate": "2022-05-23T07:38:07.423",
+    "modifiedDate": "2022-07-11T23:38:54.05",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Assignment"
+}

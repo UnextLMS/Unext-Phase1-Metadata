@@ -1,0 +1,11 @@
+{
+    "name": "Get Group Of Students When LC Is Published",
+    "key": "0761d103-7525-40bd-ac2c-f80ed76ec52f",
+    "description": "",
+    "targetKey": "B060B082-CA20-4D50-AC04-FD5C09D920A4",
+    "createdDate": "2022-05-18T05:17:22.503",
+    "modifiedDate": "2022-07-15T08:32:51.027",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Live Classroom"
+}

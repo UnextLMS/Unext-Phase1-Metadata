@@ -1,0 +1,11 @@
+{
+    "name": "Semester Term Fee Remainder",
+    "key": "eb1d2987-2784-4a07-acfa-f46a2c0bf8f0",
+    "description": "",
+    "targetKey": "EDE5C258-6AC3-4AF1-B000-C4FCDCE693E5",
+    "createdDate": "2022-04-24T23:29:48.957",
+    "modifiedDate": "2022-04-25T00:27:57.667",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

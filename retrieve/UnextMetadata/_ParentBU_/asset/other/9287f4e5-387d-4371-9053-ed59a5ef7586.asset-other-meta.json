@@ -1,0 +1,32 @@
+{
+    "customerKey": "9287f4e5-387d-4371-9053-ed59a5ef7586",
+    "assetType": {
+        "name": "codesnippetblock",
+        "displayName": "Code Snippet Block"
+    },
+    "fileProperties": {
+        "fileName": "Ampscript"
+    },
+    "name": "Ampscript",
+    "owner": {
+        "email": "mohamed.askar@aethereus.com",
+        "name": "Mohamed Askar"
+    },
+    "createdDate": "2022-04-26T08:26:46.073-06:00",
+    "createdBy": {
+        "email": "mohamed.askar@aethereus.com",
+        "name": "Mohamed Askar"
+    },
+    "modifiedDate": "2022-04-26T08:26:46.073-06:00",
+    "modifiedBy": {
+        "email": "mohamed.askar@aethereus.com",
+        "name": "Mohamed Askar"
+    },
+    "memberId": 534002955,
+    "status": {
+        "name": "Draft"
+    },
+    "availableViews": [],
+    "modelVersion": 2,
+    "r__folder_Path": "Content Builder"
+}

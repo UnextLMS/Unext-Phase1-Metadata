@@ -1,0 +1,44 @@
+{
+    "name": "WhatsApp Data Extract",
+    "key": "D497D665-79F6-4F45-90D8-0A8C1716E0C4",
+    "fileSpec": "WA.zip",
+    "createdDate": "2022-06-13T08:07:30.453",
+    "modifiedDate": "2022-06-13T08:07:30.453",
+    "createdBy": 735133311,
+    "modifiedBy": 735133311,
+    "intervalType": 2,
+    "description": "",
+    "dataFields": [
+        {
+            "name": "ApplyTimeZone",
+            "type": "bool",
+            "value": "False"
+        },
+        {
+            "name": "AppName",
+            "type": "string",
+            "value": "UNext Student Support"
+        },
+        {
+            "name": "Campaign",
+            "type": "string",
+            "value": ""
+        },
+        {
+            "name": "MessageName",
+            "type": "string",
+            "value": "fc_when_assignment_is_not_attempted_yet_reminder_eminder_3_on_last_date__1_day_to_be_sent_if_not_acted_upon"
+        },
+        {
+            "name": "Platform",
+            "type": "string",
+            "value": ""
+        },
+        {
+            "name": "Timezone",
+            "type": "integer",
+            "value": "34"
+        }
+    ],
+    "r__dataExtractType_name": "Mobile Push Detail Extract Report"
+}

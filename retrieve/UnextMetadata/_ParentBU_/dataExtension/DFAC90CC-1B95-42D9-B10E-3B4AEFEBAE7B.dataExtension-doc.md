@@ -1,0 +1,31 @@
+## DFAC90CC-1B95-42D9-B10E-3B4AEFEBAE7B
+
+**Name** (not equal to External Key)**:** Sample28
+
+**Description:** n/a
+
+**Folder:** Data Extensions/Audiences/
+
+**Fields in table:** 13
+
+**Sendable:** Yes (`SubscriberKey` to `Subscriber Key`)
+
+**Testable:** No
+
+**Template:** AudienceBuilderResult
+
+| Name | FieldType | MaxLength | IsPrimaryKey | IsNullable | DefaultValue |
+| --- | --- | --- | --- | --- | --- |
+| SubscriberKey | Text | 254 | + | - |  |
+| CustomerKey | Text | 256 | - | - |  |
+| AudienceId | Text |  | - | - |  |
+| TrackingCode | Text | 256 | - | - |  |
+| AudienceCode | Text | 64 | - | - |  |
+| SegmentCode | Text | 64 | - | - | EmptyString() |
+| SegmentName | Text | 128 | - | - | EmptyString() |
+| Priority | Number |  | - | - |  |
+| SegmentID | Text |  | - | - |  |
+| SplitID | Text |  | - | - |  |
+| SplitName | Text | 128 | - | - | EmptyString() |
+| SplitCode | Text | 64 | - | - | EmptyString() |
+| SendGroupID | Text |  | + | - |  |

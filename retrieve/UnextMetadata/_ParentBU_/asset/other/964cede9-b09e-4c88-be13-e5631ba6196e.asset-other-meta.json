@@ -1,0 +1,32 @@
+{
+    "customerKey": "964cede9-b09e-4c88-be13-e5631ba6196e",
+    "assetType": {
+        "name": "codesnippetblock",
+        "displayName": "Code Snippet Block"
+    },
+    "fileProperties": {
+        "fileName": "mobile push html testing"
+    },
+    "name": "mobile push html testing",
+    "owner": {
+        "email": "mohamed.askar@aethereus.com",
+        "name": "Mohamed Askar"
+    },
+    "createdDate": "2022-06-30T04:13:28.133-06:00",
+    "createdBy": {
+        "email": "mohamed.askar@aethereus.com",
+        "name": "Mohamed Askar"
+    },
+    "modifiedDate": "2022-06-30T04:13:51.72-06:00",
+    "modifiedBy": {
+        "email": "mohamed.askar@aethereus.com",
+        "name": "Mohamed Askar"
+    },
+    "memberId": 534002955,
+    "status": {
+        "name": "Draft"
+    },
+    "availableViews": [],
+    "modelVersion": 2,
+    "r__folder_Path": "Content Builder"
+}

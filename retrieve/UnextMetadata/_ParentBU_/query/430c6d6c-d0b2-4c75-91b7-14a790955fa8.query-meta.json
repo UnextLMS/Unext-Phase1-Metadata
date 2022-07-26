@@ -1,0 +1,11 @@
+{
+    "name": "Update Events when DF is UnPublished,Deleted,Edited",
+    "key": "430c6d6c-d0b2-4c75-91b7-14a790955fa8",
+    "description": "",
+    "targetKey": "A457502D-AFB0-46B5-A704-0B902B033CBA",
+    "createdDate": "2022-06-06T23:24:29.747",
+    "modifiedDate": "2022-07-14T04:16:05.12",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Discussion Forum"
+}

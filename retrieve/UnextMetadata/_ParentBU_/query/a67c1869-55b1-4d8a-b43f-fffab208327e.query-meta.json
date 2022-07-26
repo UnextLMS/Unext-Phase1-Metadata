@@ -1,0 +1,11 @@
+{
+    "name": "LC Add Calender Event To All Students",
+    "key": "a67c1869-55b1-4d8a-b43f-fffab208327e",
+    "description": "",
+    "targetKey": "B060B082-CA20-4D50-AC04-FD5C09D920A4",
+    "createdDate": "2022-05-25T03:14:59.403",
+    "modifiedDate": "2022-07-06T00:47:29.633",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Live Classroom"
+}

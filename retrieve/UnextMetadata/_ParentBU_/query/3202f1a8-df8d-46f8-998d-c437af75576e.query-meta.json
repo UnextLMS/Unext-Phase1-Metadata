@@ -1,0 +1,11 @@
+{
+    "name": "Quiz Track Newly Added Student",
+    "key": "3202f1a8-df8d-46f8-998d-c437af75576e",
+    "description": "",
+    "targetKey": "973EE042-5CF4-4C36-8928-0CF7CA15E9C2",
+    "createdDate": "2022-06-16T04:07:54.05",
+    "modifiedDate": "2022-07-06T03:18:56.937",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Quiz"
+}

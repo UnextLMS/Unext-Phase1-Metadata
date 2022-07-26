@@ -1,0 +1,11 @@
+{
+    "name": "Quiz Get Updated StartDate And EndDate",
+    "key": "ebdbdc58-92e5-472e-8a9c-9c769bb6a6a7",
+    "description": "",
+    "targetKey": "DC95F7E3-1286-4B2D-8EE1-062520872884",
+    "createdDate": "2022-05-17T08:34:37.283",
+    "modifiedDate": "2022-06-27T07:49:08.74",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Quiz"
+}

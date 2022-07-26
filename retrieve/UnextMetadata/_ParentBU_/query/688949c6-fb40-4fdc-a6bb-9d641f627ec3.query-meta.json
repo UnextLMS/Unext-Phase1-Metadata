@@ -1,0 +1,11 @@
+{
+    "name": "Update query for report published for group",
+    "key": "688949c6-fb40-4fdc-a6bb-9d641f627ec3",
+    "description": "",
+    "targetKey": "B3771E2E-6EF8-468E-8F12-BCC0AF40ECA3",
+    "createdDate": "2022-06-27T04:14:51.44",
+    "modifiedDate": "2022-07-11T09:43:24.71",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Assignment"
+}

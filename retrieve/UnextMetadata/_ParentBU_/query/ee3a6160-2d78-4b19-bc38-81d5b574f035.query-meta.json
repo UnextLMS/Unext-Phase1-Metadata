@@ -1,0 +1,11 @@
+{
+    "name": "Check sms message is delivered or not for status is sent",
+    "key": "ee3a6160-2d78-4b19-bc38-81d5b574f035",
+    "description": "",
+    "targetKey": "B9FBBE62-8519-4098-9578-723936944F16",
+    "createdDate": "2022-06-14T06:40:17.847",
+    "modifiedDate": "2022-07-03T10:26:05.207",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

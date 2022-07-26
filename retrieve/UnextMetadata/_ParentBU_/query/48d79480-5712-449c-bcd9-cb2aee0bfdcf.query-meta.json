@@ -1,0 +1,11 @@
+{
+    "name": "Get Student Details Based On Group from SF",
+    "key": "48d79480-5712-449c-bcd9-cb2aee0bfdcf",
+    "description": "",
+    "targetKey": "A457502D-AFB0-46B5-A704-0B902B033CBA",
+    "createdDate": "2022-04-29T03:40:00.617",
+    "modifiedDate": "2022-07-15T04:06:34.49",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Discussion Forum"
+}

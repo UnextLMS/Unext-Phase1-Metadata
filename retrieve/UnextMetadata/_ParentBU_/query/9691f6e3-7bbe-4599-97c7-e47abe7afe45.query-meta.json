@@ -1,0 +1,11 @@
+{
+    "name": "Exclude Already Published Students",
+    "key": "9691f6e3-7bbe-4599-97c7-e47abe7afe45",
+    "description": "",
+    "targetKey": "FB50A939-8D63-4774-89FC-1526455A04BE",
+    "createdDate": "2022-05-13T08:57:37.587",
+    "modifiedDate": "2022-06-27T03:16:19.26",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Discussion Forum"
+}

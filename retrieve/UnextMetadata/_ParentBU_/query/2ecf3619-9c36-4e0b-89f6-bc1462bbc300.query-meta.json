@@ -1,0 +1,11 @@
+{
+    "name": "New Semester Term Fee Paid to Sendable",
+    "key": "2ecf3619-9c36-4e0b-89f6-bc1462bbc300",
+    "description": "",
+    "targetKey": "76EC9CBF-3FF3-4B5C-926A-78E723BA3ABF",
+    "createdDate": "2022-04-25T00:29:12.56",
+    "modifiedDate": "2022-04-25T00:36:32.1",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

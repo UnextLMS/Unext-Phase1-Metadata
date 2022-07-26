@@ -1,0 +1,11 @@
+{
+    "name": "Delete Temp Remainder DE Records",
+    "key": "e837f9ac-7108-4cae-a4f6-63dba42667d1",
+    "description": "",
+    "targetKey": "9D4EE744-3973-481C-A3C8-C6ED94B581A0",
+    "createdDate": "2022-06-13T05:21:41.53",
+    "modifiedDate": "2022-06-13T05:21:41.53",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

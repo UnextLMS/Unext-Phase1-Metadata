@@ -1,0 +1,11 @@
+{
+    "name": "Live Classroom Update Program Type",
+    "key": "3bb7ffb0-8135-4a6c-845b-96a1db194117",
+    "description": "",
+    "targetKey": "B060B082-CA20-4D50-AC04-FD5C09D920A4",
+    "createdDate": "2022-06-09T02:29:20.02",
+    "modifiedDate": "2022-07-15T08:35:08.517",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Live Classroom"
+}

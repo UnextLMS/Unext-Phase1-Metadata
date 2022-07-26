@@ -1,0 +1,11 @@
+{
+    "name": "Quiz Retrieve NewUser Enrolled Into A Course",
+    "key": "9c99b37a-af7e-45f8-a573-bf65d9543cb5",
+    "description": "",
+    "targetKey": "15C802FB-E125-44C2-A2E5-57A79AF13BDB",
+    "createdDate": "2022-05-17T09:33:05.603",
+    "modifiedDate": "2022-06-06T02:20:08.957",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

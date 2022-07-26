@@ -1,0 +1,11 @@
+{
+    "name": "LC Update Invalid To True For Group",
+    "key": "b8711135-92de-408b-830b-ad9183c688e4",
+    "description": "",
+    "targetKey": "B3771E2E-6EF8-468E-8F12-BCC0AF40ECA3",
+    "createdDate": "2022-06-13T01:54:07.573",
+    "modifiedDate": "2022-07-11T23:45:07.253",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Live Classroom"
+}

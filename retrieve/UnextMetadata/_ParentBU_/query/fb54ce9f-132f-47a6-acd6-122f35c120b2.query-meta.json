@@ -1,0 +1,11 @@
+{
+    "name": "Get Individual Students When Assignment Is Published",
+    "key": "fb54ce9f-132f-47a6-acd6-122f35c120b2",
+    "description": "",
+    "targetKey": "67CB7BA3-C943-4DCC-BB1E-2C361BCEBCA3",
+    "createdDate": "2022-05-16T08:36:35.153",
+    "modifiedDate": "2022-07-15T05:25:48.717",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Assignment"
+}

@@ -1,0 +1,1740 @@
+{
+    "name": "Assignment LMS",
+    "description": "",
+    "key": "dfe9471b-a113-a256-f774-063e69e8d4fd",
+    "type": "scheduled",
+    "status": "Scheduled",
+    "schedule": {
+        "typeId": 2,
+        "startDate": "2022-07-25T17:02:00",
+        "endDate": "2079-06-06T00:00:00",
+        "icalRecur": "FREQ=HOURLY;UNTIL=20790606T113000;INTERVAL=1",
+        "timezoneName": "India Standard Time"
+    },
+    "steps": [
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Get Faculty Details From SF",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Update Query to True for faculty assignment",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Retrieve All Assignments",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Create Event for new Students",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Retrieve All Assignment under a group",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Create Event for New Student Enrolled Into a Group",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Store Details Into Master DE",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Update Unpublished",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Update Events when Assignment Is Unpublished, Deleted, Edited",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Update query to true for Assignment Unpublished",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Update Invalid To True To All Students",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Assignment Add Calender Event To All Students",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Update Invalid To True To Individual Students",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Assignment Add Calender Event To Individual Student",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Update Invalid To True For Group",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Assignment Add Calender Events To Group Of Students",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Update Query For Invalid Assignment",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Get Updated StartDate And EndDate",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Update Assignment Edited Query To True",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Exclude Already Published Students",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Get All Students When Assignment Is Published",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Get Individual Students When Assignment Is Published",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Get Group Of Students When Assignment Is Published",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Update Query For Assignment Published for Published and Added",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Get SF Details with Target equals All",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Get Individual Student Details From SF",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Get Student Details Based On Group",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Update query for report published for group",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Update Program Name to Students Under a Group",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Update Program Name to Assignment Faculty",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Update Program Type",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Update Program Type for Faculty Assignment",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Retrieve Assignment data from sendable to mobile push",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Sendable",
+                    "r__type": "fireEvent"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Sendable - Mobile Push",
+                    "r__type": "fireEvent"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Faculty Assignment",
+                    "r__type": "fireEvent"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "10 Minutes",
+                    "r__type": "wait"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Get Faculty Details From SF",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Update Query to True for faculty assignment",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Retrieve All Assignments",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Create Event for new Students",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Retrieve All Assignment under a group",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Create Event for New Student Enrolled Into a Group",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Store Details Into Master DE",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Update Unpublished",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Update Events when Assignment Is Unpublished, Deleted, Edited",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Update query to true for Assignment Unpublished",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Update Invalid To True To All Students",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Assignment Add Calender Event To All Students",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Update Invalid To True To Individual Students",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Assignment Add Calender Event To Individual Student",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Update Invalid To True For Group",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Assignment Add Calender Events To Group Of Students",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Update Latest Assignment Records To False",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Update Query For Invalid Assignment",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Get Updated StartDate And EndDate",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Update Assignment Edited Query To True",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Exclude Already Published Students",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Get All Students When Assignment Is Published",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Get Individual Students When Assignment Is Published",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Get Group Of Students When Assignment Is Published",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Update Query For Assignment Published for Published and Added",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Get SF Details with Target equals All",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Get Individual Student Details From SF",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Get Student Details Based On Group",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Update query for report published for group",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Update Program Name to Students Under a Group",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Update Program Name to Assignment Faculty",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Update Program Type",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Update Program Type for Faculty Assignment",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Retrieve Assignment data from sendable to mobile push",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Sendable",
+                    "r__type": "fireEvent"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Sendable - Mobile Push",
+                    "r__type": "fireEvent"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Faculty Assignment",
+                    "r__type": "fireEvent"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "10 Minutes",
+                    "r__type": "wait"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Get Faculty Details From SF",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Update Query to True for faculty assignment",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Retrieve All Assignments",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Create Event for new Students",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Retrieve All Assignment under a group",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Create Event for New Student Enrolled Into a Group",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Store Details Into Master DE",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Update Unpublished",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Update Events when Assignment Is Unpublished, Deleted, Edited",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Update query to true for Assignment Unpublished",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Update Invalid To True To All Students",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Assignment Add Calender Event To All Students",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Update Invalid To True To Individual Students",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Assignment Add Calender Event To Individual Student",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Update Invalid To True For Group",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Assignment Add Calender Events To Group Of Students",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Update Query For Invalid Assignment",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Get Updated StartDate And EndDate",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Update Assignment Edited Query To True",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Exclude Already Published Students",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Get All Students When Assignment Is Published",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Get Individual Students When Assignment Is Published",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Get Group Of Students When Assignment Is Published",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Update Query For Assignment Published for Published and Added",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Get SF Details with Target equals All",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Get Individual Student Details From SF",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Get Student Details Based On Group",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Update query for report published for group",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Update Program Name to Students Under a Group",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Update Program Name to Assignment Faculty",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Update Program Type",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Update Program Type for Faculty Assignment",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Retrieve Assignment data from sendable to mobile push",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Sendable",
+                    "r__type": "fireEvent"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Sendable - Mobile Push",
+                    "r__type": "fireEvent"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Faculty Assignment",
+                    "r__type": "fireEvent"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "10 Minutes",
+                    "r__type": "wait"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Get Faculty Details From SF",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Update Query to True for faculty assignment",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Retrieve All Assignments",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Create Event for new Students",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Retrieve All Assignment under a group",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Create Event for New Student Enrolled Into a Group",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Store Details Into Master DE",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Update Unpublished",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Update Events when Assignment Is Unpublished, Deleted, Edited",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Update query to true for Assignment Unpublished",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Update Invalid To True To All Students",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Assignment Add Calender Event To All Students",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Update Invalid To True To Individual Students",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Assignment Add Calender Event To Individual Student",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Update Invalid To True For Group",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Assignment Add Calender Events To Group Of Students",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Update Query For Invalid Assignment",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Get Updated StartDate And EndDate",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Update Assignment Edited Query To True",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Exclude Already Published Students",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Get All Students When Assignment Is Published",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Get Individual Students When Assignment Is Published",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Get Group Of Students When Assignment Is Published",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Update Query For Assignment Published for Published and Added",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Get SF Details with Target equals All",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Get Individual Student Details From SF",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Get Student Details Based On Group",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Update query for report published for group",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Update Program Name to Students Under a Group",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Update Program Name to Assignment Faculty",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Update Program Type",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Update Program Type for Faculty Assignment",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Retrieve Assignment data from sendable to mobile push",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Sendable",
+                    "r__type": "fireEvent"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Sendable - Mobile Push",
+                    "r__type": "fireEvent"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Faculty Assignment",
+                    "r__type": "fireEvent"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "10 Minutes",
+                    "r__type": "wait"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Get Faculty Details From SF",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Update Query to True for faculty assignment",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Retrieve All Assignments",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Create Event for new Students",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Retrieve All Assignment under a group",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Create Event for New Student Enrolled Into a Group",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Store Details Into Master DE",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Update Unpublished",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Update Events when Assignment Is Unpublished, Deleted, Edited",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Update query to true for Assignment Unpublished",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Update Invalid To True To All Students",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Assignment Add Calender Event To All Students",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Update Invalid To True To Individual Students",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Assignment Add Calender Event To Individual Student",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Update Invalid To True For Group",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Assignment Add Calender Events To Group Of Students",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Update Query For Invalid Assignment",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Get Updated StartDate And EndDate",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Update Assignment Edited Query To True",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Exclude Already Published Students",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Get All Students When Assignment Is Published",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Get Individual Students When Assignment Is Published",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Get Group Of Students When Assignment Is Published",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Update Query For Assignment Published for Published and Added",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Get SF Details with Target equals All",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Get Individual Student Details From SF",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Get Student Details Based On Group",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Update query for report published for group",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Update Program Name to Students Under a Group",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Update Program Name to Assignment Faculty",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Update Program Type",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Update Program Type for Faculty Assignment",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Retrieve Assignment data from sendable to mobile push",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Sendable",
+                    "r__type": "fireEvent"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Sendable - Mobile Push",
+                    "r__type": "fireEvent"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Faculty Assignment",
+                    "r__type": "fireEvent"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "10 Minutes",
+                    "r__type": "wait"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Get Faculty Details From SF",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Update Query to True for faculty assignment",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Retrieve All Assignments",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Create Event for new Students",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Retrieve All Assignment under a group",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Create Event for New Student Enrolled Into a Group",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Store Details Into Master DE",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Update Unpublished",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Update Events when Assignment Is Unpublished, Deleted, Edited",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Update query to true for Assignment Unpublished",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Update Invalid To True To All Students",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Assignment Add Calender Event To All Students",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Update Invalid To True To Individual Students",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Assignment Add Calender Event To Individual Student",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Update Invalid To True For Group",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Assignment Add Calender Events To Group Of Students",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Update Query For Invalid Assignment",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Get Updated StartDate And EndDate",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Update Assignment Edited Query To True",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Exclude Already Published Students",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Get All Students When Assignment Is Published",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Get Individual Students When Assignment Is Published",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Get Group Of Students When Assignment Is Published",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Update Query For Assignment Published for Published and Added",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Get SF Details with Target equals All",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Get Individual Student Details From SF",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Get Student Details Based On Group",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Update query for report published for group",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Update Program Name to Students Under a Group",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Update Program Name to Assignment Faculty",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Update Program Type",
+                    "r__type": "query"
+                },
+                {
+                    "name": "Update Program Type for Faculty Assignment",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Retrieve Assignment data from sendable to mobile push",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Sendable",
+                    "r__type": "fireEvent"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Sendable - Mobile Push",
+                    "r__type": "fireEvent"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Faculty Assignment",
+                    "r__type": "fireEvent"
+                }
+            ]
+        }
+    ],
+    "r__folder_Path": "my automations/Assignment"
+}

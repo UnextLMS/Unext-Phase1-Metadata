@@ -1,0 +1,11 @@
+{
+    "name": "Semester Remainder",
+    "key": "938af60d-4afe-4995-83df-b1086012e2f3",
+    "description": "",
+    "targetKey": "EDE5C258-6AC3-4AF1-B000-C4FCDCE693E5",
+    "createdDate": "2022-04-24T04:59:49.33",
+    "modifiedDate": "2022-04-24T05:00:41.14",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

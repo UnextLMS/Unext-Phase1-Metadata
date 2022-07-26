@@ -1,0 +1,11 @@
+{
+    "name": "Update Program Type for Faculty Discussion Forum",
+    "key": "dc97c7c7-1eda-46ad-9a12-37f2005bdb8f",
+    "description": "",
+    "targetKey": "90776A26-B63E-4BF2-BACE-102A20AF7F45",
+    "createdDate": "2022-06-14T08:58:54.767",
+    "modifiedDate": "2022-07-15T04:07:40.13",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Discussion Forum"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Get Group Of Students When Assignment Is Published",
+    "key": "320d59fa-432d-43c8-b2b5-fb3ceb3945e9",
+    "description": "",
+    "targetKey": "67CB7BA3-C943-4DCC-BB1E-2C361BCEBCA3",
+    "createdDate": "2022-05-16T08:59:44.583",
+    "modifiedDate": "2022-07-15T05:27:28.063",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Assignment"
+}

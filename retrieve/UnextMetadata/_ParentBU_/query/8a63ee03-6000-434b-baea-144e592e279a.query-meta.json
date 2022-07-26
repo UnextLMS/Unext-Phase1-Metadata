@@ -1,0 +1,11 @@
+{
+    "name": "Invalid All Contacts",
+    "key": "8a63ee03-6000-434b-baea-144e592e279a",
+    "description": "",
+    "targetKey": "20F8788D-5EB8-4339-AF9B-39A138E23A0D",
+    "createdDate": "2022-05-15T06:23:02.593",
+    "modifiedDate": "2022-05-15T22:56:07.087",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

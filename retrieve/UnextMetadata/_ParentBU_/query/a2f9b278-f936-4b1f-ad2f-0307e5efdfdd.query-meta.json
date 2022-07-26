@@ -1,0 +1,11 @@
+{
+    "name": "Retrieve Last Login to Portal Before 8 days",
+    "key": "a2f9b278-f936-4b1f-ad2f-0307e5efdfdd",
+    "description": "",
+    "targetKey": "EB92C8B0-914F-4E22-89BA-0531CE9B2779",
+    "createdDate": "2022-04-23T04:08:38.113",
+    "modifiedDate": "2022-04-26T02:05:03.183",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

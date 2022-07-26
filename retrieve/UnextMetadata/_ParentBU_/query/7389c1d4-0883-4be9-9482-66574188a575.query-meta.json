@@ -1,0 +1,11 @@
+{
+    "name": "test123",
+    "key": "7389c1d4-0883-4be9-9482-66574188a575",
+    "description": "",
+    "targetKey": "C03D571A-666A-4E1B-8E5B-21C4E345D379",
+    "createdDate": "2022-07-01T08:36:32.063",
+    "modifiedDate": "2022-07-01T09:01:11.603",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

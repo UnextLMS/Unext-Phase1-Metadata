@@ -1,0 +1,11 @@
+{
+    "name": "Quiz Reminder For Group Of Students",
+    "key": "320fd356-16eb-4b68-9006-d737211f9db5",
+    "description": "",
+    "targetKey": "67A77AD6-4E14-474E-B47E-891F75221D58",
+    "createdDate": "2022-05-24T00:00:04.493",
+    "modifiedDate": "2022-07-23T09:20:10.41",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Get SF Details for specific contacts",
+    "key": "ee6d4457-6afb-4309-8549-b69313a05813",
+    "description": "",
+    "targetKey": "20F8788D-5EB8-4339-AF9B-39A138E23A0D",
+    "createdDate": "2022-04-06T00:25:16.077",
+    "modifiedDate": "2022-04-20T01:11:42.803",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

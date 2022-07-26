@@ -1,0 +1,11 @@
+{
+    "name": "All Program Enrollments",
+    "key": "da1c83c6-b8ac-496d-a09b-a799d2776ba2",
+    "description": "",
+    "targetKey": "E5C3D680-C676-4040-80D7-110224F2272F",
+    "createdDate": "2022-06-02T06:30:00.707",
+    "modifiedDate": "2022-06-02T06:30:00.707",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

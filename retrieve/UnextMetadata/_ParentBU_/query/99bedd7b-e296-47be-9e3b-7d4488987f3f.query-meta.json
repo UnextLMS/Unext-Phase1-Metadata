@@ -1,0 +1,11 @@
+{
+    "name": "Assignment Update Program Type",
+    "key": "99bedd7b-e296-47be-9e3b-7d4488987f3f",
+    "description": "",
+    "targetKey": "67CB7BA3-C943-4DCC-BB1E-2C361BCEBCA3",
+    "createdDate": "2022-06-09T02:28:04",
+    "modifiedDate": "2022-07-15T05:46:52.82",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Assignment"
+}

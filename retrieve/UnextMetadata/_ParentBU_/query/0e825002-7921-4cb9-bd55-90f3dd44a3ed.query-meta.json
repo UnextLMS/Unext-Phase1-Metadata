@@ -1,0 +1,11 @@
+{
+    "name": "Contact Deletion",
+    "key": "0e825002-7921-4cb9-bd55-90f3dd44a3ed",
+    "description": "",
+    "targetKey": "34B94426-54F3-4E0D-BC26-99BA84716259",
+    "createdDate": "2022-07-17T00:42:55.853",
+    "modifiedDate": "2022-07-17T00:42:55.853",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

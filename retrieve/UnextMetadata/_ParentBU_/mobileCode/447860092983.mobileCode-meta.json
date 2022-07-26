@@ -1,0 +1,15 @@
+{
+    "code": "447860092983",
+    "countryCode": "GB",
+    "codeType": "SHARED",
+    "isGsmCharacterSetOnly": false,
+    "isMms": false,
+    "sendableCountries": [
+        {
+            "countryCode": "IN",
+            "vendor": "CLX",
+            "fromNameSupported": true
+        }
+    ],
+    "supportsConcatenation": true
+}

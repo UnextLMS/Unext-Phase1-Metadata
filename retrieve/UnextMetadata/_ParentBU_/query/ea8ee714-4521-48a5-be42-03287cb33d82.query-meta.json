@@ -1,0 +1,11 @@
+{
+    "name": "LC Rem Update Query To True",
+    "key": "ea8ee714-4521-48a5-be42-03287cb33d82",
+    "description": "",
+    "targetKey": "4AF0D407-CAC0-475E-A1F2-B46CD3084CAD",
+    "createdDate": "2022-06-05T11:26:31.307",
+    "modifiedDate": "2022-07-20T01:01:51.563",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

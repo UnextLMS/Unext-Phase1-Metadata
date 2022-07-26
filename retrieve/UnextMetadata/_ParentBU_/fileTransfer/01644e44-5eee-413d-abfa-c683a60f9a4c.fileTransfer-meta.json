@@ -1,0 +1,16 @@
+{
+    "name": "Whatsapp Report",
+    "customerKey": "01644e44-5eee-413d-abfa-c683a60f9a4c",
+    "createdDate": "2022-06-01T00:28:24.497",
+    "modifiedDate": "2022-06-01T00:31:04.693",
+    "fileSpec": "Whatsapp sent report",
+    "isEncrypted": false,
+    "isCompressed": false,
+    "maxFileAge": 0,
+    "maxFileAgeScheduleOffset": 0,
+    "maxImportFrequency": 0,
+    "isUpload": true,
+    "isPgp": false,
+    "isFileSpecLocalized": false,
+    "r__ftpLocation_name": "ExactTarget Enhanced FTP"
+}

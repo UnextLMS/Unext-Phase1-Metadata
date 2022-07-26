@@ -1,0 +1,11 @@
+{
+    "name": "storeQADetailsIntoMasterDE",
+    "key": "4ad31618-e787-47e1-a751-8d65158a0832",
+    "description": "",
+    "targetKey": "CE2218EC-9906-4E88-841D-3B9EEB4962D0",
+    "createdDate": "2022-05-25T06:15:24.973",
+    "modifiedDate": "2022-05-25T06:15:24.973",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

@@ -1,0 +1,41 @@
+{
+    "name": "WA Data Extract Activity",
+    "key": "61EA9E85-FC1A-4BAF-B44C-BAE28C70A854",
+    "fileSpec": "WA.zip",
+    "createdDate": "2022-06-13T08:13:23.31",
+    "modifiedDate": "2022-06-13T23:44:02.547",
+    "createdBy": 735133311,
+    "modifiedBy": 735133311,
+    "intervalType": 0,
+    "description": "",
+    "startDate": "Jun 12 2022 12:00AM",
+    "endDate": "Jun 15 2022 12:00AM",
+    "dataFields": [
+        {
+            "name": "ChannelId",
+            "type": "string",
+            "value": "UNext Student Support"
+        },
+        {
+            "name": "ChannelType",
+            "type": "string",
+            "value": "WHATSAPP"
+        },
+        {
+            "name": "ContactTrackingDetail",
+            "type": "bool",
+            "value": "True"
+        },
+        {
+            "name": "InboundMessageLogs",
+            "type": "bool",
+            "value": "True"
+        },
+        {
+            "name": "PotentialChannelUnsubscribes",
+            "type": "bool",
+            "value": "True"
+        }
+    ],
+    "r__dataExtractType_name": "ChatMessagingDetailExtract"
+}

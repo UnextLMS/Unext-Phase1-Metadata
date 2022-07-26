@@ -1,0 +1,11 @@
+{
+    "name": "Update faculty quiz query to true",
+    "key": "6d987dbc-73c3-4ed4-96d1-b5f26dbee4d8",
+    "description": "",
+    "targetKey": "B3771E2E-6EF8-468E-8F12-BCC0AF40ECA3",
+    "createdDate": "2022-06-26T08:15:02.54",
+    "modifiedDate": "2022-07-11T09:14:13.27",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Quiz"
+}

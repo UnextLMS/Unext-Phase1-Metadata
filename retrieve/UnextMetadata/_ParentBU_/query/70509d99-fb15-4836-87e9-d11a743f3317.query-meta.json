@@ -1,0 +1,11 @@
+{
+    "name": "Update Program Name to Students Under a Group for DF Remainder",
+    "key": "70509d99-fb15-4836-87e9-d11a743f3317",
+    "description": "",
+    "targetKey": "A457502D-AFB0-46B5-A704-0B902B033CBA",
+    "createdDate": "2022-06-14T00:22:28.717",
+    "modifiedDate": "2022-06-14T00:22:28.717",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

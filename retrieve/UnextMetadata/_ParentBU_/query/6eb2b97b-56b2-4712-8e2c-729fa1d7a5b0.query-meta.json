@@ -1,0 +1,11 @@
+{
+    "name": "LC Get Updated StartDate And EndDate",
+    "key": "6eb2b97b-56b2-4712-8e2c-729fa1d7a5b0",
+    "description": "",
+    "targetKey": "4AF0D407-CAC0-475E-A1F2-B46CD3084CAD",
+    "createdDate": "2022-05-18T04:31:44.233",
+    "modifiedDate": "2022-07-11T05:11:04.707",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Live Classroom"
+}

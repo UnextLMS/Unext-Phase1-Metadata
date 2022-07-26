@@ -1,0 +1,11 @@
+{
+    "name": "Add Calender event to all students",
+    "key": "f00b017b-57d4-4f07-b06d-f4cd8d1c7b31",
+    "description": "",
+    "targetKey": "A457502D-AFB0-46B5-A704-0B902B033CBA",
+    "createdDate": "2022-05-21T08:33:33.967",
+    "modifiedDate": "2022-06-27T03:13:13.083",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Discussion Forum"
+}

@@ -1,0 +1,74 @@
+{
+    "name": "SF Case Awaiting Student Input",
+    "description": "",
+    "key": "c5237b22-5a41-058b-108e-f3a037dd4dc0",
+    "type": "scheduled",
+    "status": "Ready",
+    "schedule": {},
+    "steps": [
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Retrieve case status equals awaiting student input",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "SF Case Awaiting student input",
+                    "r__type": "importFile"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Case Awaiting Student Input",
+                    "r__type": "fireEvent"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "10 Minutes",
+                    "r__type": "wait"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Retrieve case status equals awaiting student input",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "SF Case Awaiting student input",
+                    "r__type": "importFile"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Case Awaiting Student Input",
+                    "r__type": "fireEvent"
+                }
+            ]
+        }
+    ],
+    "r__folder_Path": "my automations"
+}

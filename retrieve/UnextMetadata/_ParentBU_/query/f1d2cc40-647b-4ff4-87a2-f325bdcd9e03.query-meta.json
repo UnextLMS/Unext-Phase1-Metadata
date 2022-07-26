@@ -1,0 +1,11 @@
+{
+    "name": "Quiz Exclude Already Published Students",
+    "key": "f1d2cc40-647b-4ff4-87a2-f325bdcd9e03",
+    "description": "",
+    "targetKey": "046D27EE-17CB-4B98-864D-4B5BA6FEF2E8",
+    "createdDate": "2022-05-17T08:29:21.46",
+    "modifiedDate": "2022-06-27T07:49:41.85",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Quiz"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Update Program Name to LC Faculty",
+    "key": "e3f38eae-60f5-433c-9fc1-dd0df86e0152",
+    "description": "",
+    "targetKey": "4D9E720C-840D-4C62-8A59-484C3D6F6DF5",
+    "createdDate": "2022-06-14T23:05:41.117",
+    "modifiedDate": "2022-07-20T01:00:39.66",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

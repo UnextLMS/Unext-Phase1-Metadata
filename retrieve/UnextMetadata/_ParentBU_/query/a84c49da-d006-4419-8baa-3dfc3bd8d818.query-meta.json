@@ -1,0 +1,11 @@
+{
+    "name": "Update Unpublished to true for live classroom",
+    "key": "a84c49da-d006-4419-8baa-3dfc3bd8d818",
+    "description": "",
+    "targetKey": "B3771E2E-6EF8-468E-8F12-BCC0AF40ECA3",
+    "createdDate": "2022-06-27T07:49:56.9",
+    "modifiedDate": "2022-07-11T23:41:11.893",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Live Classroom"
+}

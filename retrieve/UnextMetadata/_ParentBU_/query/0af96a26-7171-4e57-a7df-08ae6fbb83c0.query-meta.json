@@ -1,0 +1,11 @@
+{
+    "name": "Store DiscussionForum Details into Master DE",
+    "key": "0af96a26-7171-4e57-a7df-08ae6fbb83c0",
+    "description": "",
+    "targetKey": "5DA00AB2-B9AD-4F5F-93D1-0B45E3AC46D6",
+    "createdDate": "2022-05-18T01:53:47.093",
+    "modifiedDate": "2022-07-26T00:25:49.42",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Discussion Forum"
+}

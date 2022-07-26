@@ -1,0 +1,11 @@
+{
+    "name": "Not Login To Portal Since User Creation",
+    "key": "cb217ac0-d95f-413d-99f3-891b4b221dd6",
+    "description": "",
+    "targetKey": "EB92C8B0-914F-4E22-89BA-0531CE9B2779",
+    "createdDate": "2022-04-25T01:13:38.51",
+    "modifiedDate": "2022-04-25T01:41:28.007",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

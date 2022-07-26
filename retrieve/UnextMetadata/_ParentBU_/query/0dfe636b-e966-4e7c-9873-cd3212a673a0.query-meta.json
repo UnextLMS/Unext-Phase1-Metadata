@@ -1,0 +1,11 @@
+{
+    "name": "Test Update Query",
+    "key": "0dfe636b-e966-4e7c-9873-cd3212a673a0",
+    "description": "",
+    "targetKey": "B3771E2E-6EF8-468E-8F12-BCC0AF40ECA3",
+    "createdDate": "2022-07-07T04:05:22.847",
+    "modifiedDate": "2022-07-07T04:05:22.847",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

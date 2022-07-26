@@ -1,0 +1,11 @@
+{
+    "name": "Case Status Awaiting Student Input Remainder",
+    "key": "50987b2d-4e81-4699-8296-0d40014f9a6c",
+    "description": "",
+    "targetKey": "63567374-6BDD-4B97-BAE9-9A5DE9E40422",
+    "createdDate": "2022-05-22T23:19:07.537",
+    "modifiedDate": "2022-07-17T06:43:31.383",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

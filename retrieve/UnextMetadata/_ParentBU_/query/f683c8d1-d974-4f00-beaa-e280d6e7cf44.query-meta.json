@@ -1,0 +1,11 @@
+{
+    "name": "Get User Object Data",
+    "key": "f683c8d1-d974-4f00-beaa-e280d6e7cf44",
+    "description": "",
+    "targetKey": "261369E8-D769-4FF9-8661-69D3C23FAF4E",
+    "createdDate": "2022-03-29T01:27:06.513",
+    "modifiedDate": "2022-03-29T02:14:59.56",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

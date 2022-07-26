@@ -1,0 +1,11 @@
+{
+    "name": "Update query for report published for individual",
+    "key": "847e5ccb-6ee4-42ed-ba9c-cf056dab2b73",
+    "description": "",
+    "targetKey": "B3771E2E-6EF8-468E-8F12-BCC0AF40ECA3",
+    "createdDate": "2022-06-27T04:14:01.847",
+    "modifiedDate": "2022-07-06T00:10:41.637",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Assignment"
+}

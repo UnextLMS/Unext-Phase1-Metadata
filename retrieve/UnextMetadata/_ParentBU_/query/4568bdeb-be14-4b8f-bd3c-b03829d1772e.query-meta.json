@@ -1,0 +1,11 @@
+{
+    "name": "Update Events when Quiz is Unpublished, Deleted, Edited",
+    "key": "4568bdeb-be14-4b8f-bd3c-b03829d1772e",
+    "description": "",
+    "targetKey": "8E470639-B197-418E-A9C8-B00E8435C8FF",
+    "createdDate": "2022-06-07T04:54:55.26",
+    "modifiedDate": "2022-07-15T09:46:06.06",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Quiz"
+}

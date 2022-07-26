@@ -1,0 +1,10 @@
+Error Log
+Parser: babel
+Unsyntactic break. (179:13)
+  177 |
+  178 |         if(records.length === 0) {
+> 179 |             break;
+      |             ^
+  180 |         }
+  181 |
+  182 |         return records;

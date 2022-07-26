@@ -1,0 +1,11 @@
+{
+    "name": "LC Create Event For New Students",
+    "key": "b66fdc42-6ac8-40a9-84f9-5f387fac630e",
+    "description": "",
+    "targetKey": "B060B082-CA20-4D50-AC04-FD5C09D920A4",
+    "createdDate": "2022-06-06T11:17:22.743",
+    "modifiedDate": "2022-07-06T00:44:26.537",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Live Classroom"
+}

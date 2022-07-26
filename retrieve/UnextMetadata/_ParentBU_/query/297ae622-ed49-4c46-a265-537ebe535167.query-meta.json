@@ -1,0 +1,11 @@
+{
+    "name": "Assignment Update Invalid To True To Individual Students",
+    "key": "297ae622-ed49-4c46-a265-537ebe535167",
+    "description": "",
+    "targetKey": "B3771E2E-6EF8-468E-8F12-BCC0AF40ECA3",
+    "createdDate": "2022-06-13T01:44:42.28",
+    "modifiedDate": "2022-07-11T09:25:56.967",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Assignment"
+}

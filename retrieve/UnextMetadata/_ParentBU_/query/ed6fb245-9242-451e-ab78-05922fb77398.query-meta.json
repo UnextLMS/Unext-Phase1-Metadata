@@ -1,0 +1,11 @@
+{
+    "name": "Assignment Create Event for new Students",
+    "key": "ed6fb245-9242-451e-ab78-05922fb77398",
+    "description": "",
+    "targetKey": "67CB7BA3-C943-4DCC-BB1E-2C361BCEBCA3",
+    "createdDate": "2022-06-06T11:13:52.837",
+    "modifiedDate": "2022-07-05T23:14:38.51",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Assignment"
+}

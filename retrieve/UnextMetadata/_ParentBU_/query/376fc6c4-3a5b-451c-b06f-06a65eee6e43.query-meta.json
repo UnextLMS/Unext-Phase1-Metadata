@@ -1,0 +1,11 @@
+{
+    "name": "Quiz Reminder For Individual Students",
+    "key": "376fc6c4-3a5b-451c-b06f-06a65eee6e43",
+    "description": "",
+    "targetKey": "67A77AD6-4E14-474E-B47E-891F75221D58",
+    "createdDate": "2022-05-23T23:28:33.96",
+    "modifiedDate": "2022-07-23T09:16:22.117",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

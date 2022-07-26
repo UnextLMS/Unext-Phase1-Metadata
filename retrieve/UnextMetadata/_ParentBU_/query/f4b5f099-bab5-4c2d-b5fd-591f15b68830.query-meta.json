@@ -1,0 +1,11 @@
+{
+    "name": "Discussion Forum Remainder for Target All Students",
+    "key": "f4b5f099-bab5-4c2d-b5fd-591f15b68830",
+    "description": "",
+    "targetKey": "9D4EE744-3973-481C-A3C8-C6ED94B581A0",
+    "createdDate": "2022-05-21T09:38:19.303",
+    "modifiedDate": "2022-07-06T00:29:03.65",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

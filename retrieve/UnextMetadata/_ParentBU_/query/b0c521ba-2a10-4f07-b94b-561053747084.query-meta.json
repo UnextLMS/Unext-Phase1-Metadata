@@ -1,0 +1,11 @@
+{
+    "name": "Update Invalid query to true for quiz",
+    "key": "b0c521ba-2a10-4f07-b94b-561053747084",
+    "description": "",
+    "targetKey": "B3771E2E-6EF8-468E-8F12-BCC0AF40ECA3",
+    "createdDate": "2022-06-27T05:11:18.503",
+    "modifiedDate": "2022-07-11T09:27:51.537",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Quiz"
+}

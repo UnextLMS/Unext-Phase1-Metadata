@@ -1,0 +1,367 @@
+{
+    "name": "New User Enrollment with WSO2",
+    "description": "",
+    "key": "8c97e5bf-a7ff-cee9-1fba-8cf283ad9da9",
+    "type": "scheduled",
+    "status": "Scheduled",
+    "schedule": {
+        "typeId": 2,
+        "startDate": "2022-07-25T16:24:00",
+        "endDate": "2079-06-06T00:00:00",
+        "icalRecur": "FREQ=HOURLY;UNTIL=20790606T113000;INTERVAL=1",
+        "timezoneName": "India Standard Time"
+    },
+    "steps": [
+        {
+            "name": "",
+            "description": "",
+            "activities": [
+                {
+                    "name": "Get latest Students enrolled into Jigsaw program",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "activities": [
+                {
+                    "name": "Get New Students Enrolled Into University Program",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "activities": [
+                {
+                    "name": "Update Program Name Into New User Enrollment",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "activities": [
+                {
+                    "name": "update New Records into All Program Enrollments",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "activities": [
+                {
+                    "name": "Retrieve all the data to send mobile push",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "activities": [
+                {
+                    "name": "New User Enrollment Whatsapp Optin",
+                    "r__type": "importFile"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "activities": [
+                {
+                    "name": "New User Enrollment SFDC",
+                    "r__type": "fireEvent"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "activities": [
+                {
+                    "name": "New User Enrollment Mobile Push",
+                    "r__type": "fireEvent"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "activities": [
+                {
+                    "name": "15 Minutes",
+                    "r__type": "wait"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "activities": [
+                {
+                    "name": "Get latest Students enrolled into Jigsaw program",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "activities": [
+                {
+                    "name": "Get New Students Enrolled Into University Program",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "activities": [
+                {
+                    "name": "Update Program Name Into New User Enrollment",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "activities": [
+                {
+                    "name": "update New Records into All Program Enrollments",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "activities": [
+                {
+                    "name": "Retrieve all the data to send mobile push",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "activities": [
+                {
+                    "name": "New User Enrollment Whatsapp Optin",
+                    "r__type": "importFile"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "activities": [
+                {
+                    "name": "New User Enrollment SFDC",
+                    "r__type": "fireEvent"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "activities": [
+                {
+                    "name": "New User Enrollment Mobile Push",
+                    "r__type": "fireEvent"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "activities": [
+                {
+                    "name": "15 Minutes",
+                    "r__type": "wait"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "activities": [
+                {
+                    "name": "Get latest Students enrolled into Jigsaw program",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "activities": [
+                {
+                    "name": "Get New Students Enrolled Into University Program",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "activities": [
+                {
+                    "name": "Update Program Name Into New User Enrollment",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "activities": [
+                {
+                    "name": "update New Records into All Program Enrollments",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "activities": [
+                {
+                    "name": "Retrieve all the data to send mobile push",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "activities": [
+                {
+                    "name": "New User Enrollment Whatsapp Optin",
+                    "r__type": "importFile"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "activities": [
+                {
+                    "name": "New User Enrollment SFDC",
+                    "r__type": "fireEvent"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "activities": [
+                {
+                    "name": "New User Enrollment Mobile Push",
+                    "r__type": "fireEvent"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "activities": [
+                {
+                    "name": "15 Minutes",
+                    "r__type": "wait"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "activities": [
+                {
+                    "name": "Get latest Students enrolled into Jigsaw program",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "activities": [
+                {
+                    "name": "Get New Students Enrolled Into University Program",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "activities": [
+                {
+                    "name": "Update Program Name Into New User Enrollment",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "activities": [
+                {
+                    "name": "update New Records into All Program Enrollments",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "activities": [
+                {
+                    "name": "Retrieve all the data to send mobile push",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "activities": [
+                {
+                    "name": "New User Enrollment Whatsapp Optin",
+                    "r__type": "importFile"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "activities": [
+                {
+                    "name": "New User Enrollment SFDC",
+                    "r__type": "fireEvent"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "activities": [
+                {
+                    "name": "New User Enrollment Mobile Push",
+                    "r__type": "fireEvent"
+                }
+            ]
+        }
+    ],
+    "r__folder_Path": "my automations"
+}

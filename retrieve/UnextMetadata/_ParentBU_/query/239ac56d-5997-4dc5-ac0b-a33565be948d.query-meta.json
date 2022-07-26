@@ -1,0 +1,11 @@
+{
+    "name": "LearnerAssignmentRetrieveNewUserEnrolledIntoACourse",
+    "key": "239ac56d-5997-4dc5-ac0b-a33565be948d",
+    "description": "",
+    "targetKey": "48C7B740-28DB-45BF-97CB-16B857534F1A",
+    "createdDate": "2022-05-17T07:46:11.517",
+    "modifiedDate": "2022-05-23T08:56:10.433",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

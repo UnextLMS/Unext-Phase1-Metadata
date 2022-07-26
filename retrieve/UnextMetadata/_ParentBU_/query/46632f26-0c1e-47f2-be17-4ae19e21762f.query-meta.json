@@ -1,0 +1,11 @@
+{
+    "name": "Update LC Query to true",
+    "key": "46632f26-0c1e-47f2-be17-4ae19e21762f",
+    "description": "",
+    "targetKey": "B3771E2E-6EF8-468E-8F12-BCC0AF40ECA3",
+    "createdDate": "2022-06-27T08:13:48.297",
+    "modifiedDate": "2022-07-11T23:50:00.903",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Live Classroom"
+}

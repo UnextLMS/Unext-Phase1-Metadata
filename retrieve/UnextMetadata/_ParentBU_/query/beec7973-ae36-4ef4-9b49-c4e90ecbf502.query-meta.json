@@ -1,0 +1,11 @@
+{
+    "name": "Quiz Update Program Name to Students Under a Group",
+    "key": "beec7973-ae36-4ef4-9b49-c4e90ecbf502",
+    "description": "",
+    "targetKey": "8E470639-B197-418E-A9C8-B00E8435C8FF",
+    "createdDate": "2022-06-06T02:26:25.77",
+    "modifiedDate": "2022-06-27T07:55:18.57",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Quiz"
+}

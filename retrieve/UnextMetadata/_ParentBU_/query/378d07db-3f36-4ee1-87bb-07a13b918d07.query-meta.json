@@ -1,0 +1,11 @@
+{
+    "name": "Retrieve Cases where status is awaiting student input",
+    "key": "378d07db-3f36-4ee1-87bb-07a13b918d07",
+    "description": "",
+    "targetKey": "63567374-6BDD-4B97-BAE9-9A5DE9E40422",
+    "createdDate": "2022-07-17T07:17:11.14",
+    "modifiedDate": "2022-07-17T07:17:11.14",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

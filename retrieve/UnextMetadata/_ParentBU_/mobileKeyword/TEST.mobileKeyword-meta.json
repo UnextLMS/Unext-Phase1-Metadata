@@ -1,0 +1,17 @@
+{
+    "createdDate": "2022-04-29T10:53:37.717Z",
+    "lastUpdated": "2022-04-29T10:53:37.8Z",
+    "code": {
+        "code": "447860092983"
+    },
+    "keyword": "TEST",
+    "startDate": "2022-04-29T10:53:37.663Z",
+    "endDate": "2042-04-29T10:53:37.663Z",
+    "status": "Active",
+    "createdBy": {
+        "name": "Mohamed Askar"
+    },
+    "restriction": "NONE",
+    "keywordType": "NORMAL",
+    "isInherited": false
+}

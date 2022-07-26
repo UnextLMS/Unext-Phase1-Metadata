@@ -1,0 +1,11 @@
+{
+    "name": "Update Events when Assignment Is Unpublished, Deleted, Edited",
+    "key": "22aa8465-d2cb-4f1c-8bf1-99ba93d4267f",
+    "description": "",
+    "targetKey": "67CB7BA3-C943-4DCC-BB1E-2C361BCEBCA3",
+    "createdDate": "2022-06-07T04:58:41.637",
+    "modifiedDate": "2022-07-14T06:57:11.843",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Assignment"
+}

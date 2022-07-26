@@ -1,0 +1,11 @@
+{
+    "name": "Retrieve new students enrolled",
+    "key": "3971ff8d-fdd5-4bdc-91ad-663458d6aa20",
+    "description": "",
+    "targetKey": "277E2226-1D8C-4962-B7A5-9D99A13E803A",
+    "createdDate": "2022-05-27T09:00:43.983",
+    "modifiedDate": "2022-07-15T06:42:42.417",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

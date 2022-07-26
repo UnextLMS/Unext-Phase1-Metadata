@@ -1,0 +1,11 @@
+{
+    "name": "LC Get Individual Student Details From SF",
+    "key": "5ecf2560-90a4-413a-bb02-8c706d57c23f",
+    "description": "",
+    "targetKey": "B060B082-CA20-4D50-AC04-FD5C09D920A4",
+    "createdDate": "2022-04-14T05:31:04.117",
+    "modifiedDate": "2022-06-20T05:11:02.28",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

@@ -1,0 +1,47 @@
+{
+    "name": "All Program Enrollments",
+    "description": "",
+    "key": "b671a0b3-c342-5c23-83cc-712744836dea",
+    "type": "scheduled",
+    "status": "Ready",
+    "schedule": {},
+    "steps": [
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Retrieve All Program Enrollments",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "All Course Enrollments",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "All user group members",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Contact Deletion",
+                    "r__type": "query"
+                }
+            ]
+        }
+    ],
+    "r__folder_Path": "my automations"
+}

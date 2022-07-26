@@ -1,0 +1,11 @@
+{
+    "name": "LCRetrieveNewUserEnrolledIntoACourse",
+    "key": "26a9f065-4ce2-474f-929e-64ad288f82e4",
+    "description": "",
+    "targetKey": "917A6A1B-4B22-425C-8DAB-6DEB763CD725",
+    "createdDate": "2022-05-18T06:39:17.413",
+    "modifiedDate": "2022-05-25T04:57:07.173",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

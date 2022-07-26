@@ -1,0 +1,11 @@
+{
+    "name": "GetGroupOfStudentsWhenQuizPublished",
+    "key": "8323fa21-1827-4477-857d-b9910c7e1305",
+    "description": "",
+    "targetKey": "171BCC0D-B00D-4506-AAB0-A100AA12E272",
+    "createdDate": "2022-05-11T08:24:39.71",
+    "modifiedDate": "2022-05-11T08:24:39.71",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

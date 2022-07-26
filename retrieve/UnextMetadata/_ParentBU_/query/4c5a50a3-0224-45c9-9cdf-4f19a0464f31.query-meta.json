@@ -1,0 +1,11 @@
+{
+    "name": "LC Exclude Already Published Students",
+    "key": "4c5a50a3-0224-45c9-9cdf-4f19a0464f31",
+    "description": "",
+    "targetKey": "484F090B-457D-4D09-9265-B72DF2B19DFC",
+    "createdDate": "2022-05-18T04:24:56.033",
+    "modifiedDate": "2022-07-11T05:10:50.413",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Live Classroom"
+}

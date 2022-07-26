@@ -1,0 +1,98 @@
+{
+    "name": "Assignment Reminders",
+    "description": "",
+    "key": "d5c707f3-44b0-1a3c-6193-2387b9e1964e",
+    "type": "scheduled",
+    "status": "Scheduled",
+    "schedule": {
+        "typeId": 3,
+        "startDate": "2022-07-26T13:40:00",
+        "endDate": "2079-06-06T00:00:00",
+        "icalRecur": "FREQ=DAILY;UNTIL=20790606T113000;INTERVAL=1",
+        "timezoneName": "India Standard Time"
+    },
+    "steps": [
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Reminder For Individual Students",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Reminder For Target All Students",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Reminder For Group Of Students",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Add Assignment Remainder Data to Sendable",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Update Program Name to Students Under a Group for Assignment Rem",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Update Program Type for Remainder Assignment",
+                    "r__type": "query"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Sendable WA Import Def",
+                    "r__type": "importFile"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Assignment Sendable",
+                    "r__type": "fireEvent"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "activities": [
+                {
+                    "name": "Delete Assignment Temp Remainder Assignment",
+                    "r__type": "query"
+                }
+            ]
+        }
+    ],
+    "r__folder_Path": "my automations/Assignment"
+}

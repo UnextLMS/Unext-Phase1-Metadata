@@ -1,0 +1,11 @@
+{
+    "name": "Retrieve Active Students under Term",
+    "key": "2e7d20d5-c0ee-4b4b-9f59-bef90e0f80f6",
+    "description": "",
+    "targetKey": "76EC9CBF-3FF3-4B5C-926A-78E723BA3ABF",
+    "createdDate": "2022-04-17T03:48:19.933",
+    "modifiedDate": "2022-04-24T03:56:01.76",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Update latest LC Records to false",
+    "key": "f3a8862f-8e55-4f10-8af2-43200c53a000",
+    "description": "",
+    "targetKey": "B3771E2E-6EF8-468E-8F12-BCC0AF40ECA3",
+    "createdDate": "2022-06-27T08:12:48.36",
+    "modifiedDate": "2022-07-06T00:50:15.73",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Live Classroom"
+}

@@ -1,0 +1,24 @@
+[
+    {
+        "PartnerKey": "",
+        "ID": 534002955,
+        "ObjectID": "",
+        "AccountType": "None",
+        "ParentID": 0,
+        "Name": "UNext Learning Private Limited (Part of Manipal Gr",
+        "IsActive": 1,
+        "ParentName": "",
+        "Subscription": ""
+    },
+    {
+        "PartnerKey": "",
+        "ID": 534005135,
+        "ObjectID": "",
+        "AccountType": "None",
+        "ParentID": 534002955,
+        "Name": "ULCM",
+        "IsActive": 1,
+        "ParentName": "UNext Learning Private Limited (Part of Manipal Gr",
+        "Subscription": ""
+    }
+]

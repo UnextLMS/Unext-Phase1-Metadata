@@ -1,0 +1,11 @@
+{
+    "name": "Retrieve All the Programs from SF",
+    "key": "40bcc01a-ef51-45cb-89f8-b1d0b0dca63f",
+    "description": "",
+    "targetKey": "B502159B-4B7F-4812-87B0-3884697DC27B",
+    "createdDate": "2022-05-19T03:57:18.263",
+    "modifiedDate": "2022-05-19T03:57:18.263",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

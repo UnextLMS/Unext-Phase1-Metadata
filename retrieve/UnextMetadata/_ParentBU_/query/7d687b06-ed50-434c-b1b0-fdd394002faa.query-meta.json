@@ -1,0 +1,11 @@
+{
+    "name": "Update Latest Added Record To False",
+    "key": "7d687b06-ed50-434c-b1b0-fdd394002faa",
+    "description": "",
+    "targetKey": "B3771E2E-6EF8-468E-8F12-BCC0AF40ECA3",
+    "createdDate": "2022-06-27T00:07:51.083",
+    "modifiedDate": "2022-06-27T03:14:48.247",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Discussion Forum"
+}

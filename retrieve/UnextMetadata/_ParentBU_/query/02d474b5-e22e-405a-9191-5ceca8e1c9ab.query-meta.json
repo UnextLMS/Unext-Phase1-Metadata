@@ -1,0 +1,11 @@
+{
+    "name": "Retrieve All Assignment under a group",
+    "key": "02d474b5-e22e-405a-9191-5ceca8e1c9ab",
+    "description": "",
+    "targetKey": "67CB7BA3-C943-4DCC-BB1E-2C361BCEBCA3",
+    "createdDate": "2022-05-30T05:23:07.657",
+    "modifiedDate": "2022-07-15T05:11:37.643",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Assignment"
+}

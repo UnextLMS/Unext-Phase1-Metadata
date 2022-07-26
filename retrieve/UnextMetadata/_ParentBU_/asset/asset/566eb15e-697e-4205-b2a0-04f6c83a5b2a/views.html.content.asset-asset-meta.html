@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"
+        />
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <style class="main_style">
+            .layout-canvas-b {
+                background-color: #fff;
+                border: none;
+                -webkit-box-sizing: border-box;
+                -moz-box-sizing: border-box;
+                box-sizing: border-box;
+                padding: 0;
+                width: 100%;
+            }
+            .layout-canvas-b > .header,
+            .layout-canvas-b > .section,
+            .layout-canvas-b > .footer {
+                position: relative;
+                overflow: hidden;
+                width: 100%;
+                word-wrap: break-word;
+            }
+            .layout-canvas-b > .section {
+                margin: 10px 0;
+            }
+            .layout-canvas-b > .section > .columns {
+                -webkit-box-sizing: border-box;
+                -moz-box-sizing: border-box;
+                box-sizing: border-box;
+                word-wrap: break-word;
+            }
+            body {
+                color: #000;
+                font-family: Arial;
+                font-size: 12px;
+                margin: 0 auto;
+                max-width: 1280px;
+            }
+            @media only screen and (max-width: 480px) {
+                .mobile-hidden {
+                    display: none !important;
+                }
+                .responsive-td {
+                    width: 100% !important;
+                    display: block !important;
+                    padding: 0 !important;
+                }
+            }
+            @media (min-width: 480px) {
+                .layout-canvas-b > .section {
+                    display: table;
+                    table-layout: fixed;
+                }
+            }
+            @media (min-width: 480px) {
+                .layout-canvas-b > .section > .columns {
+                    display: table-cell;
+                    padding: 0 5px;
+                    vertical-align: top;
+                    width: 50%;
+                }
+                .layout-canvas-b > .section > .columns:first-child {
+                    padding-left: 0;
+                }
+                .layout-canvas-b > .section > .columns:last-child {
+                    padding-right: 0;
+                }
+                .layout-canvas-b > .section > .columns.col1 {
+                    *float: left;
+                }
+                .layout-canvas-b > .section > .columns.col2 {
+                    *float: right;
+                    *padding-right: 0;
+                }
+            }
+            @media (max-width: 480px) {
+                .layout-canvas-b > .section > .columns {
+                    width: 100%;
+                    margin-bottom: 10px;
+                }
+                .layout-canvas-b > .section > .columns:last-child {
+                    margin-bottom: 0;
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <div class="layout layout-canvas-b">
+            <div class="header">
+                <div data-type="slot" data-key="header"></div>
+            </div>
+            <div class="section">
+                <div class="columns col1">
+                    <div data-type="slot" data-key="col1"></div>
+                </div>
+                <div class="columns col2">
+                    <div data-type="slot" data-key="col2"></div>
+                </div>
+            </div>
+            <div class="footer">
+                <div data-type="slot" data-key="footer"></div>
+            </div>
+        </div>
+    </body>
+</html>

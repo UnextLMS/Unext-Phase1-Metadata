@@ -1,0 +1,16 @@
+{
+    "name": "File Transfer",
+    "customerKey": "639f3056-3530-4c4d-a35d-84eadd10353d",
+    "createdDate": "2022-04-01T00:09:28.847",
+    "modifiedDate": "2022-04-01T03:55:56.69",
+    "fileSpec": "Api Details",
+    "isEncrypted": false,
+    "isCompressed": false,
+    "maxFileAge": 0,
+    "maxFileAgeScheduleOffset": 0,
+    "maxImportFrequency": 0,
+    "isUpload": true,
+    "isPgp": false,
+    "isFileSpecLocalized": false,
+    "r__ftpLocation_name": "ExactTarget Enhanced FTP"
+}

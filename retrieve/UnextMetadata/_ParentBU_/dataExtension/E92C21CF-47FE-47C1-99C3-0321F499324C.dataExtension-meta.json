@@ -1,0 +1,54 @@
+{
+    "CustomerKey": "E92C21CF-47FE-47C1-99C3-0321F499324C",
+    "Name": "_MobileAddressApplication",
+    "Description": "",
+    "IsSendable": false,
+    "IsTestable": false,
+    "Template": {
+        "CustomerKey": "D82F9E01-ADE0-4CB3-A7FA-943F032C057E"
+    },
+    "RowBasedRetention": false,
+    "ResetRetentionPeriodOnImport": false,
+    "DeleteAtEndOfRetentionPeriod": false,
+    "RetainUntil": "",
+    "Fields": [
+        {
+            "Name": "_ContactID",
+            "DefaultValue": "",
+            "IsRequired": true,
+            "IsPrimaryKey": true,
+            "FieldType": "Text"
+        },
+        {
+            "Name": "_MobileNumber",
+            "DefaultValue": "",
+            "MaxLength": 15,
+            "IsRequired": true,
+            "IsPrimaryKey": true,
+            "FieldType": "Text"
+        },
+        {
+            "Name": "_MobileApplicationID",
+            "DefaultValue": "",
+            "IsRequired": true,
+            "IsPrimaryKey": true,
+            "FieldType": "Text"
+        },
+        {
+            "Name": "_CreatedDate",
+            "DefaultValue": "GETDATE()",
+            "IsRequired": true,
+            "IsPrimaryKey": false,
+            "FieldType": "Date"
+        },
+        {
+            "Name": "_CreatedBy",
+            "DefaultValue": "",
+            "IsRequired": false,
+            "IsPrimaryKey": false,
+            "FieldType": "Text"
+        }
+    ],
+    "r__folder_ContentType": "dataextension",
+    "r__folder_Path": "Data Extensions"
+}

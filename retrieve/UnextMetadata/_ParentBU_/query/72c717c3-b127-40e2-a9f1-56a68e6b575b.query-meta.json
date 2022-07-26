@@ -1,0 +1,11 @@
+{
+    "name": "New Semester Term Fee Paid",
+    "key": "72c717c3-b127-40e2-a9f1-56a68e6b575b",
+    "description": "",
+    "targetKey": "EDE5C258-6AC3-4AF1-B000-C4FCDCE693E5",
+    "createdDate": "2022-04-25T00:27:15.963",
+    "modifiedDate": "2022-04-25T00:36:00.617",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "LC Update Unpublished",
+    "key": "cc8ed611-bf83-4e60-a883-deedbc5168ee",
+    "description": "",
+    "targetKey": "4AF0D407-CAC0-475E-A1F2-B46CD3084CAD",
+    "createdDate": "2022-05-24T22:56:15.487",
+    "modifiedDate": "2022-07-11T23:39:31.033",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Live Classroom"
+}

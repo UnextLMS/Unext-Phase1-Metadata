@@ -1,0 +1,116 @@
+{
+    "customerKey": "5c592b9d-a9dd-4e81-a69e-708e9e95b0d6",
+    "contentType": "text/html",
+    "assetType": {
+        "name": "webpage",
+        "displayName": "Web Page"
+    },
+    "version": 1,
+    "name": "thankyou",
+    "owner": {
+        "email": "mohamed.askar@aethereus.com",
+        "name": "Mohamed Askar"
+    },
+    "createdDate": "2022-06-07T10:02:11.623-06:00",
+    "createdBy": {
+        "email": "mohamed.askar@aethereus.com",
+        "name": "Mohamed Askar"
+    },
+    "modifiedDate": "2022-06-07T10:03:40.703-06:00",
+    "modifiedBy": {
+        "email": "mohamed.askar@aethereus.com",
+        "name": "Mohamed Askar"
+    },
+    "memberId": 534002955,
+    "status": {
+        "name": "Draft"
+    },
+    "meta": {
+        "globalStyles": {
+            "isLocked": false,
+            "body": {
+                "max-width": "1280px",
+                "color": "#000000",
+                "font-family": "Arial",
+                "font-size": "12px",
+                "margin": "0px auto"
+            },
+            "template": {
+                "background-color": "#FFFFFF",
+                "border": "none",
+                "box-sizing": "border-box",
+                "padding": "0px",
+                "width": "100%"
+            },
+            "buttons": {},
+            "h1": {},
+            "h2": {},
+            "h3": {},
+            "links": {}
+        }
+    },
+    "views": {
+        "html": {
+            "thumbnail": {},
+            "meta": {},
+            "slots": {
+                "header": {
+                    "design": "<p style=\"font-family:arial;color:#ccc;font-size:11px;text-align:center;vertical-align:middle;font-weight:bold;padding:10px;margin:0;border:#ccc dashed 1px;\">Drop blocks or content here</p>",
+                    "modelVersion": 2
+                },
+                "col1": {
+                    "content": "<div data-type=\"block\" data-key=\"embeddedicblock\" data-original-key=\"none\"></div>",
+                    "design": "<p style=\"font-family: arial; color: #CCCCCC; font-size: 12px; font-weight: bold; text-align: center; display: flex; flex-direction: column; justify-content: center; height: 150px; padding: 10px; margin: 0; border: 1px dashed #CCCCCC;\">Drop blocks or content here</p>",
+                    "blocks": {
+                        "embeddedicblock": {
+                            "assetType": {
+                                "id": 233,
+                                "name": "iccloudpageblock"
+                            },
+                            "design": "",
+                            "meta": {
+                                "wrapperStyles": {
+                                    "mobile": {
+                                        "visible": true
+                                    },
+                                    "styling": {}
+                                },
+                                "options": {
+                                    "customBlockData": {
+                                        "previewForms": {
+                                            "asset": null
+                                        },
+                                        "confirmationMessage": {
+                                            "type": "URL",
+                                            "asset": {
+                                                "url": "https://www.google.com",
+                                                "slots": {},
+                                                "blocks": {}
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "modelVersion": 2
+                        }
+                    },
+                    "maxBlocks": 1,
+                    "allowedBlocks": [
+                        "iccloudpageblock"
+                    ],
+                    "modelVersion": 2
+                },
+                "footer": {
+                    "design": "<p style=\"font-family:arial;color:#ccc;font-size:11px;text-align:center;vertical-align:middle;font-weight:bold;padding:10px;margin:0;border:#ccc dashed 1px;\">Drop blocks or content here</p>",
+                    "modelVersion": 2
+                }
+            },
+            "modelVersion": 2
+        }
+    },
+    "availableViews": [
+        "html"
+    ],
+    "modelVersion": 2,
+    "r__folder_Path": "Content Builder"
+}

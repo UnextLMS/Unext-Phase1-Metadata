@@ -1,0 +1,11 @@
+{
+    "name": "df test query",
+    "key": "cd19fa18-cdde-4b48-8f73-3717f2b85ab3",
+    "description": "",
+    "targetKey": "27A800BC-2F30-4746-9F49-F2922AB6787C",
+    "createdDate": "2022-06-08T23:33:10.457",
+    "modifiedDate": "2022-06-09T00:28:38.58",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

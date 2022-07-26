@@ -1,0 +1,11 @@
+{
+    "name": "Quiz Get Faculty Details From SF",
+    "key": "7364c5b4-9bc8-4a84-b9ef-f9c887116821",
+    "description": "",
+    "targetKey": "4E4D9BAA-AC8A-45C1-A2CE-835B91A4AE9C",
+    "createdDate": "2022-05-23T02:10:49.95",
+    "modifiedDate": "2022-07-11T06:57:26.437",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Quiz"
+}

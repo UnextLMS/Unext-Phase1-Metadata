@@ -1,0 +1,11 @@
+{
+    "name": "Retrieve DF Details for Mobile Push",
+    "key": "48809ee7-5d44-4169-a21a-40cf3f5f2e41",
+    "description": "",
+    "targetKey": "15245C08-9F45-4FAC-8C5B-D82BFF06D3AC",
+    "createdDate": "2022-07-19T08:01:19.297",
+    "modifiedDate": "2022-07-19T08:01:19.297",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

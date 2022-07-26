@@ -1,0 +1,11 @@
+{
+    "name": "LC Update Invalid To True To All Students",
+    "key": "733e7dd7-3059-4338-8bfd-aa75f0bca540",
+    "description": "",
+    "targetKey": "B3771E2E-6EF8-468E-8F12-BCC0AF40ECA3",
+    "createdDate": "2022-05-24T22:46:58.937",
+    "modifiedDate": "2022-07-11T23:43:40.043",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Live Classroom"
+}

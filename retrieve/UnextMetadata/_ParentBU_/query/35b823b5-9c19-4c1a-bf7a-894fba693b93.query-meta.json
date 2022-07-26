@@ -1,0 +1,11 @@
+{
+    "name": "LearnerCalenderSpecificToContact",
+    "key": "35b823b5-9c19-4c1a-bf7a-894fba693b93",
+    "description": "",
+    "targetKey": "DAD850AF-0951-44D8-93A2-AAD28ADAD899",
+    "createdDate": "2022-04-13T05:46:52.627",
+    "modifiedDate": "2022-04-19T00:08:44.817",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

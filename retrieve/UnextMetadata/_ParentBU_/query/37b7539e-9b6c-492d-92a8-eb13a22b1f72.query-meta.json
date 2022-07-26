@@ -1,0 +1,11 @@
+{
+    "name": "LC Add Calender Events To Individual Student",
+    "key": "37b7539e-9b6c-492d-92a8-eb13a22b1f72",
+    "description": "",
+    "targetKey": "B060B082-CA20-4D50-AC04-FD5C09D920A4",
+    "createdDate": "2022-05-25T03:25:10.467",
+    "modifiedDate": "2022-07-06T00:48:06.707",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Live Classroom"
+}

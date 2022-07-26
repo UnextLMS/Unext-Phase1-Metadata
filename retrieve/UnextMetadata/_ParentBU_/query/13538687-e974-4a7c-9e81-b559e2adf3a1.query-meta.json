@@ -1,0 +1,11 @@
+{
+    "name": "Assignment Exclude Already Published Students",
+    "key": "13538687-e974-4a7c-9e81-b559e2adf3a1",
+    "description": "",
+    "targetKey": "6A295B76-7A67-4FD3-887D-FDEAB7D086AB",
+    "createdDate": "2022-05-17T00:18:27.253",
+    "modifiedDate": "2022-07-05T23:49:46.5",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Assignment"
+}

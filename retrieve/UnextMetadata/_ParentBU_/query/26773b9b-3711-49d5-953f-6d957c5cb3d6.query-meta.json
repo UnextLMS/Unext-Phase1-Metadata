@@ -1,0 +1,11 @@
+{
+    "name": "LC Get SF Details with Target equals All",
+    "key": "26773b9b-3711-49d5-953f-6d957c5cb3d6",
+    "description": "",
+    "targetKey": "B060B082-CA20-4D50-AC04-FD5C09D920A4",
+    "createdDate": "2022-05-18T05:44:31.62",
+    "modifiedDate": "2022-06-20T05:10:05.347",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

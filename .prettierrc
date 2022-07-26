@@ -1,0 +1,24 @@
+{
+    "useTabs": false,
+    "tabWidth": 4,
+    "printWidth": 100,
+    "singleQuote": true,
+    "trailingComma": "none",
+    "overrides": [
+        {
+            "files": "*.ssjs",
+            "options": {
+                "parser": "babel",
+                "trailingComma": "none"
+            }
+        },
+        {
+            "files": "*.sql",
+            "options": {
+                "formatter": "sql-formatter",
+                "language": "tsql",
+                "uppercase": true
+            }
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Calculate Last Sent Email is before 8 days",
+    "key": "f399bbb9-fc72-43cd-878c-eac45f998ca6",
+    "description": "",
+    "targetKey": "DEB6B502-E02B-4D66-8FD1-9D987E743D06",
+    "createdDate": "2022-04-25T01:54:31.543",
+    "modifiedDate": "2022-04-26T02:41:18.49",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

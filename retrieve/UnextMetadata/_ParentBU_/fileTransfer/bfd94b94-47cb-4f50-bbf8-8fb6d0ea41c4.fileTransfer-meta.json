@@ -1,0 +1,16 @@
+{
+    "name": "WA File Transfer Activity",
+    "customerKey": "bfd94b94-47cb-4f50-bbf8-8fb6d0ea41c4",
+    "createdDate": "2022-06-13T08:08:03.463",
+    "modifiedDate": "2022-06-27T09:04:09.793",
+    "fileSpec": "Whatsapp Report Extract 3- %%Year%%%%Month%%%%Day%%.zip",
+    "isEncrypted": false,
+    "isCompressed": false,
+    "maxFileAge": 0,
+    "maxFileAgeScheduleOffset": 0,
+    "maxImportFrequency": 0,
+    "isUpload": true,
+    "isPgp": false,
+    "isFileSpecLocalized": false,
+    "r__ftpLocation_name": "ExactTarget Enhanced FTP"
+}

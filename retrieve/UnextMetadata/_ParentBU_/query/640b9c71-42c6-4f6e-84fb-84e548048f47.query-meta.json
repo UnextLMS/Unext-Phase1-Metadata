@@ -1,0 +1,11 @@
+{
+    "name": "Retrieve All Quiz Under A Group",
+    "key": "640b9c71-42c6-4f6e-84fb-84e548048f47",
+    "description": "",
+    "targetKey": "8E470639-B197-418E-A9C8-B00E8435C8FF",
+    "createdDate": "2022-05-30T05:14:25.323",
+    "modifiedDate": "2022-07-15T09:49:24.973",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Quiz"
+}

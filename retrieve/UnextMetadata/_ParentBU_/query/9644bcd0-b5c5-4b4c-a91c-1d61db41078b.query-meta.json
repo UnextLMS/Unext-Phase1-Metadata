@@ -1,0 +1,11 @@
+{
+    "name": "Create Event for New Student Enrolled Into a Course",
+    "key": "9644bcd0-b5c5-4b4c-a91c-1d61db41078b",
+    "description": "",
+    "targetKey": "A457502D-AFB0-46B5-A704-0B902B033CBA",
+    "createdDate": "2022-06-06T04:44:53.96",
+    "modifiedDate": "2022-06-27T03:10:09.893",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Discussion Forum"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Update Query to True",
+    "key": "66aecab3-7c0c-4ad7-8b9a-b975113f20f0",
+    "description": "",
+    "targetKey": "B3771E2E-6EF8-468E-8F12-BCC0AF40ECA3",
+    "createdDate": "2022-04-06T00:33:40.31",
+    "modifiedDate": "2022-06-22T08:45:51.213",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

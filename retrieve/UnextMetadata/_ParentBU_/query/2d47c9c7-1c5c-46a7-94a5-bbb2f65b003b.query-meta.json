@@ -1,0 +1,11 @@
+{
+    "name": "All Contacts",
+    "key": "2d47c9c7-1c5c-46a7-94a5-bbb2f65b003b",
+    "description": "",
+    "targetKey": "E370A4C2-AB46-407B-91EB-9FDB98291A7A",
+    "createdDate": "2022-06-02T06:29:09.477",
+    "modifiedDate": "2022-06-08T02:24:42.28",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

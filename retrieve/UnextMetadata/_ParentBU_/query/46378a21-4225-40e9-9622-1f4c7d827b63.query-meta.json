@@ -1,0 +1,11 @@
+{
+    "name": "LC Track New Students",
+    "key": "46378a21-4225-40e9-9622-1f4c7d827b63",
+    "description": "",
+    "targetKey": "D2791325-5A28-4E6D-9BFC-60A9CC9B9744",
+    "createdDate": "2022-06-22T06:54:26.753",
+    "modifiedDate": "2022-07-06T00:46:56.8",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Live Classroom"
+}

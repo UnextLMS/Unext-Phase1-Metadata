@@ -1,0 +1,11 @@
+{
+    "name": "Get SF Details with Target equals All",
+    "key": "b285b100-c5cb-45f4-a089-453370345bbe",
+    "description": "",
+    "targetKey": "A457502D-AFB0-46B5-A704-0B902B033CBA",
+    "createdDate": "2022-03-17T05:40:29.08",
+    "modifiedDate": "2022-07-15T04:04:25.95",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Discussion Forum"
+}

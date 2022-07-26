@@ -1,0 +1,11 @@
+{
+    "name": "Assignment Update Invalid To True For Group",
+    "key": "f083570c-dd2f-4904-9437-1bb34a6ca28b",
+    "description": "",
+    "targetKey": "B3771E2E-6EF8-468E-8F12-BCC0AF40ECA3",
+    "createdDate": "2022-06-13T01:52:14.553",
+    "modifiedDate": "2022-07-11T09:25:33.553",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Assignment"
+}

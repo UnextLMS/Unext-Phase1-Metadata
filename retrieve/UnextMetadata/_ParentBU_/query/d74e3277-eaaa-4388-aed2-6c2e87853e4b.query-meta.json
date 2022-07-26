@@ -1,0 +1,11 @@
+{
+    "name": "Add Assignment Remainder Data to Sendable",
+    "key": "d74e3277-eaaa-4388-aed2-6c2e87853e4b",
+    "description": "",
+    "targetKey": "67CB7BA3-C943-4DCC-BB1E-2C361BCEBCA3",
+    "createdDate": "2022-06-14T08:28:59.12",
+    "modifiedDate": "2022-07-18T23:47:45.97",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

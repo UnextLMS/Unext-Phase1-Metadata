@@ -1,0 +1,11 @@
+{
+    "name": "LearnerCalenderRemTime",
+    "key": "ee02d0a3-bc65-4bc5-b1c5-c01565f679b5",
+    "description": "",
+    "targetKey": "CF612F86-DF02-43FD-B60B-0FF7EB586762",
+    "createdDate": "2022-04-13T05:38:08.58",
+    "modifiedDate": "2022-04-13T05:38:08.58",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

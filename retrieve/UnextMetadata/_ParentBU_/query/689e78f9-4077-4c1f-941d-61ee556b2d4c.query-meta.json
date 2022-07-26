@@ -1,0 +1,11 @@
+{
+    "name": "remainder data",
+    "key": "689e78f9-4077-4c1f-941d-61ee556b2d4c",
+    "description": "",
+    "targetKey": "2FEA9410-0A53-42F6-934D-22252C1547C7",
+    "createdDate": "2022-04-22T00:54:38.94",
+    "modifiedDate": "2022-04-22T00:54:38.94",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

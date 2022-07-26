@@ -1,0 +1,63 @@
+<script runat="server">
+    Platform.Load('Core', '1.1.1');
+
+    var host =
+        'https://api1.cloudagent.in/cloudAgentRestAPI/index.php/AddCampaignBulkData/addBulkData/format/json?';
+
+    var apikey = 'KKf7abddbf596ce407c4efc4757de5ba52';
+    var campaignname = 'Progressive_918068970546';
+    var username = 'unext_ulcm';
+
+    var de = DataExtension.Init('B060B082-CA20-4D50-AC04-FD5C09D920A4');
+    var complexfilter = {
+        LeftOperand: {
+            Property: 'action',
+            SimpleOperator: 'equals',
+            Value: 'Remainder'
+        },
+        LogicalOperator: 'AND',
+        RightOperand: {
+            Property: 'sentStatus',
+            SimpleOperator: 'equals',
+            Value: 'True'
+        }
+    };
+
+    var deArr = de.Rows.Retrieve(complexfilter);
+    for (i = 0; i < deArr.length; i++) {
+        var payload = {};
+        payload.PhoneNumber = deArr[i].phoneNumber;
+        Write(Stringify('PhoneNumber:' + payload.PhoneNumber + '<br><br>'));
+
+        var createUserResp = createUser(host, payload, apikey, campaignname, username);
+        Write(Stringify(createUserResp));
+    }
+
+    function createUser(host, payload, apikey, campaignname, username) {
+        var url =
+            host +
+            'api_key=' +
+            apikey +
+            '&campaign_name=' +
+            campaignname +
+            '&bulkData=' +
+            payload.PhoneNumber +
+            '&user_name=' +
+            username +
+            '&checkDuplicate=false';
+
+        var req = new Script.Util.HttpRequest(url);
+        req.emptyContentHandling = 0;
+        req.retries = 2;
+        req.continueOnError = true;
+        req.contentType = 'application/json';
+        req.method = 'POST';
+        req.postData = Stringify(payload);
+
+        var resp = req.send();
+        var resultStr = String(resp.content);
+        var resultJSON = Platform.Function.ParseJSON(String(resp.content));
+
+        return resultJSON;
+    }
+</script>

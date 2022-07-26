@@ -1,0 +1,11 @@
+{
+    "name": "Quiz Create Event For New Students",
+    "key": "06d46091-c1b3-42c1-bdc6-0e1e3f53d2f2",
+    "description": "",
+    "targetKey": "8E470639-B197-418E-A9C8-B00E8435C8FF",
+    "createdDate": "2022-06-06T10:57:17.01",
+    "modifiedDate": "2022-07-06T03:13:22.357",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Quiz"
+}

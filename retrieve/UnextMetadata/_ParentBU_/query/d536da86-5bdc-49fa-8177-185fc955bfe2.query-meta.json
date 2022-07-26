@@ -1,0 +1,11 @@
+{
+    "name": "GetAllStudentsWhenQuizPublished",
+    "key": "d536da86-5bdc-49fa-8177-185fc955bfe2",
+    "description": "",
+    "targetKey": "171BCC0D-B00D-4506-AAB0-A100AA12E272",
+    "createdDate": "2022-05-11T06:48:28.117",
+    "modifiedDate": "2022-05-11T07:54:00.593",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

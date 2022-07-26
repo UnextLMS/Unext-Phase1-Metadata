@@ -1,0 +1,11 @@
+{
+    "name": "Assignment Get Student Details Based On Group",
+    "key": "0131ac37-940e-4d97-a697-428ed7f9311f",
+    "description": "",
+    "targetKey": "67CB7BA3-C943-4DCC-BB1E-2C361BCEBCA3",
+    "createdDate": "2022-05-17T02:32:41.41",
+    "modifiedDate": "2022-07-15T05:46:22.17",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Assignment"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Invalid Target All Members",
+    "key": "0fda16e7-981c-4bfc-b17f-cf7a20f245eb",
+    "description": "",
+    "targetKey": "5F875D17-6FB1-4618-8670-6158D23EF700",
+    "createdDate": "2022-05-16T07:29:53.447",
+    "modifiedDate": "2022-05-18T04:18:24.387",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

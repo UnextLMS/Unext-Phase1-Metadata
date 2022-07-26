@@ -1,0 +1,11 @@
+{
+    "name": "Update Query For Assignment Published and Target=All",
+    "key": "44ee158e-77b6-47cb-b028-8ae9daa5b071",
+    "description": "",
+    "targetKey": "B3771E2E-6EF8-468E-8F12-BCC0AF40ECA3",
+    "createdDate": "2022-06-27T02:35:49.807",
+    "modifiedDate": "2022-07-07T08:09:15.033",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Assignment"
+}

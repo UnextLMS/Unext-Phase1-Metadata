@@ -1,0 +1,11 @@
+{
+    "name": "Update Program Type for Faculty LC",
+    "key": "f4fd8b11-1fa6-440d-84c1-a6bd4aa7fdf9",
+    "description": "",
+    "targetKey": "4D9E720C-840D-4C62-8A59-484C3D6F6DF5",
+    "createdDate": "2022-06-14T23:07:31.877",
+    "modifiedDate": "2022-07-20T01:01:33.34",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

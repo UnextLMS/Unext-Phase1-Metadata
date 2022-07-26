@@ -1,0 +1,11 @@
+{
+    "name": "LearnerQuizRemainder",
+    "key": "f4774ed5-04a0-43f6-a6d7-37a7e9c53d7f",
+    "description": "",
+    "targetKey": "171BCC0D-B00D-4506-AAB0-A100AA12E272",
+    "createdDate": "2022-05-11T23:46:55.533",
+    "modifiedDate": "2022-05-11T23:46:55.533",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Announcement - University",
+    "key": "d18d17a6-7cbf-4f9a-bcfc-54969f51c1cd",
+    "description": "",
+    "targetKey": "7B15AF1A-FC2E-492A-A50A-DCC7A474AD84",
+    "createdDate": "2022-04-25T22:58:52.783",
+    "modifiedDate": "2022-04-25T22:58:52.783",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

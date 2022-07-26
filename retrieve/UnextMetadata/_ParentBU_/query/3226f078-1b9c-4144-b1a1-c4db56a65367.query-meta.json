@@ -1,0 +1,11 @@
+{
+    "name": "Assignment Update Query To True",
+    "key": "3226f078-1b9c-4144-b1a1-c4db56a65367",
+    "description": "",
+    "targetKey": "B3771E2E-6EF8-468E-8F12-BCC0AF40ECA3",
+    "createdDate": "2022-04-18T23:54:02.093",
+    "modifiedDate": "2022-06-20T03:53:43.1",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

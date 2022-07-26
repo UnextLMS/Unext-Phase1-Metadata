@@ -1,0 +1,11 @@
+{
+    "name": "Update Program Type for Remainder Assignment",
+    "key": "9665c93b-8d2d-4931-8daf-d867561e6719",
+    "description": "",
+    "targetKey": "67CB7BA3-C943-4DCC-BB1E-2C361BCEBCA3",
+    "createdDate": "2022-06-14T08:18:26.383",
+    "modifiedDate": "2022-07-18T23:48:48.687",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

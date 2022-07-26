@@ -1,0 +1,39 @@
+{
+    "name": "DE Data Extract",
+    "key": "230E21FE-B741-41C5-9461-7ADC2653D450",
+    "fileSpec": "Suppress Bounce",
+    "createdDate": "2022-04-08T23:43:09.35",
+    "modifiedDate": "2022-04-08T23:43:09.35",
+    "createdBy": 735133312,
+    "modifiedBy": 735133312,
+    "intervalType": 0,
+    "description": "",
+    "dataFields": [
+        {
+            "name": "ColumnDelimiter",
+            "type": "string",
+            "value": ","
+        },
+        {
+            "name": "DECustomerKey",
+            "type": "string",
+            "value": "14F4131E-D6DD-4D49-8930-7399446FA914"
+        },
+        {
+            "name": "HasColumnHeaders",
+            "type": "bool",
+            "value": "True"
+        },
+        {
+            "name": "TextQualified",
+            "type": "bool",
+            "value": "False"
+        },
+        {
+            "name": "UsesLineFeed",
+            "type": "bool",
+            "value": "False"
+        }
+    ],
+    "r__dataExtractType_name": "Data Extension Extract"
+}

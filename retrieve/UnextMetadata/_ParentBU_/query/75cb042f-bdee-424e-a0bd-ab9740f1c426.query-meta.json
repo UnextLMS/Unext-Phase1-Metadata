@@ -1,0 +1,11 @@
+{
+    "name": "test",
+    "key": "75cb042f-bdee-424e-a0bd-ab9740f1c426",
+    "description": "",
+    "targetKey": "20F8788D-5EB8-4339-AF9B-39A138E23A0D",
+    "createdDate": "2022-05-13T06:28:16.3",
+    "modifiedDate": "2022-05-13T06:44:32.937",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

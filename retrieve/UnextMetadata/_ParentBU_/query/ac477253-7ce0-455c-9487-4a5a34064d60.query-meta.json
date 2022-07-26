@@ -1,0 +1,11 @@
+{
+    "name": "Quiz Store Quiz Details Into Master DE",
+    "key": "ac477253-7ce0-455c-9487-4a5a34064d60",
+    "description": "",
+    "targetKey": "DC95F7E3-1286-4B2D-8EE1-062520872884",
+    "createdDate": "2022-05-23T03:23:23.48",
+    "modifiedDate": "2022-07-23T02:44:39.52",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Quiz"
+}

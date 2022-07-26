@@ -1,0 +1,11 @@
+{
+    "name": "test query",
+    "key": "73bd5622-9d2b-439a-bfca-af2487b45c5f",
+    "description": "",
+    "targetKey": "311EA54D-2265-4127-A6F6-5F3A4286D098",
+    "createdDate": "2022-06-12T01:35:17.28",
+    "modifiedDate": "2022-06-12T01:35:17.28",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

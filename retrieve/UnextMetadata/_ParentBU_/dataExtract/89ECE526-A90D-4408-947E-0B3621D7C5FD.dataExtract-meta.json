@@ -1,0 +1,41 @@
+{
+    "name": "Whatsapp Report Extract",
+    "key": "89ECE526-A90D-4408-947E-0B3621D7C5FD",
+    "fileSpec": "Whatsapp Report Extract %%Year%%, %%Month%%, %%Day%%.zip",
+    "createdDate": "2022-06-10T03:45:32.703",
+    "modifiedDate": "2022-06-10T03:58:01.3",
+    "createdBy": 735133312,
+    "modifiedBy": 735133312,
+    "intervalType": 0,
+    "description": "",
+    "startDate": "Jun  9 2022 12:00AM",
+    "endDate": "Jun 11 2022 12:00AM",
+    "dataFields": [
+        {
+            "name": "ChannelId",
+            "type": "string",
+            "value": "UNext Student Support"
+        },
+        {
+            "name": "ChannelType",
+            "type": "string",
+            "value": "WHATSAPP"
+        },
+        {
+            "name": "ContactTrackingDetail",
+            "type": "bool",
+            "value": "True"
+        },
+        {
+            "name": "InboundMessageLogs",
+            "type": "bool",
+            "value": "True"
+        },
+        {
+            "name": "PotentialChannelUnsubscribes",
+            "type": "bool",
+            "value": "True"
+        }
+    ],
+    "r__dataExtractType_name": "ChatMessagingDetailExtract"
+}

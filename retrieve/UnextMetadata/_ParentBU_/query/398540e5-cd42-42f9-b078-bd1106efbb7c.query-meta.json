@@ -1,0 +1,11 @@
+{
+    "name": "Update Query For Invalid Assignment",
+    "key": "398540e5-cd42-42f9-b078-bd1106efbb7c",
+    "description": "",
+    "targetKey": "B3771E2E-6EF8-468E-8F12-BCC0AF40ECA3",
+    "createdDate": "2022-06-27T02:28:17.12",
+    "modifiedDate": "2022-07-11T09:38:22.62",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Assignment"
+}

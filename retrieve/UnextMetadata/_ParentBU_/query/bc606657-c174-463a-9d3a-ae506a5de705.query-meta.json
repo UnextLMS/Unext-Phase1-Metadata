@@ -1,0 +1,11 @@
+{
+    "name": "Retrieve New User Enrolled into a course",
+    "key": "bc606657-c174-463a-9d3a-ae506a5de705",
+    "description": "",
+    "targetKey": "94F041DB-C17C-4800-A31E-F7625D627695",
+    "createdDate": "2022-05-11T23:42:59.58",
+    "modifiedDate": "2022-05-25T02:26:14.847",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

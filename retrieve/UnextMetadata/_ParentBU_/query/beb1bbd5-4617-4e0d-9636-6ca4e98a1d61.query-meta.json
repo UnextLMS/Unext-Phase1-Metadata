@@ -1,0 +1,11 @@
+{
+    "name": "Update Events when LC Is Unpublished, Deleted, Edited",
+    "key": "beb1bbd5-4617-4e0d-9636-6ca4e98a1d61",
+    "description": "",
+    "targetKey": "B060B082-CA20-4D50-AC04-FD5C09D920A4",
+    "createdDate": "2022-06-07T05:01:41.337",
+    "modifiedDate": "2022-07-15T08:23:02.717",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Live Classroom"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "New Semester Term Fee Remainder",
+    "key": "c5d63454-3e8e-49d8-b3d0-80956677a377",
+    "description": "",
+    "targetKey": "76EC9CBF-3FF3-4B5C-926A-78E723BA3ABF",
+    "createdDate": "2022-04-25T00:25:55.977",
+    "modifiedDate": "2022-04-25T00:25:55.977",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

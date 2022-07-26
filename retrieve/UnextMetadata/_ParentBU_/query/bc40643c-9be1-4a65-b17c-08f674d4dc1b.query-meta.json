@@ -1,0 +1,11 @@
+{
+    "name": "Retrieve All Live Classroom",
+    "key": "bc40643c-9be1-4a65-b17c-08f674d4dc1b",
+    "description": "",
+    "targetKey": "B060B082-CA20-4D50-AC04-FD5C09D920A4",
+    "createdDate": "2022-05-30T05:25:35.653",
+    "modifiedDate": "2022-07-15T08:15:08.2",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Live Classroom"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Update Program Name to Students Under a Group",
+    "key": "af969099-e0ab-4c6e-a8cd-f794c6a91bc7",
+    "description": "",
+    "targetKey": "A457502D-AFB0-46B5-A704-0B902B033CBA",
+    "createdDate": "2022-05-26T01:18:09.9",
+    "modifiedDate": "2022-06-27T03:21:24.37",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Discussion Forum"
+}

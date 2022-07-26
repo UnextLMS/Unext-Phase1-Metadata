@@ -1,0 +1,11 @@
+{
+    "name": "Retrieve Tracking Data",
+    "key": "9c51f5e6-cc41-4de7-9d99-ed5b47da72a7",
+    "description": "",
+    "targetKey": "FBE74B4E-69EB-4286-BA06-5B744D835A94",
+    "createdDate": "2022-03-28T04:14:04.667",
+    "modifiedDate": "2022-04-01T08:35:19.453",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

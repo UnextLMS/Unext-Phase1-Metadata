@@ -1,0 +1,41 @@
+{
+    "name": "Whatsapp Report",
+    "key": "45752E4D-8C4C-4371-B01B-F050E3FFA26D",
+    "fileSpec": "Whatsapp Report Extract 3- %%Year%%%%Month%%%%Day%%.zip",
+    "createdDate": "2022-06-27T08:39:01.91",
+    "modifiedDate": "2022-06-27T09:03:53.917",
+    "createdBy": 735133312,
+    "modifiedBy": 735133312,
+    "intervalType": 0,
+    "description": "",
+    "startDate": "Jun  1 2022 12:00AM",
+    "endDate": "Jun 27 2022 12:00AM",
+    "dataFields": [
+        {
+            "name": "ChannelId",
+            "type": "string",
+            "value": "+919538416928"
+        },
+        {
+            "name": "ChannelType",
+            "type": "string",
+            "value": "WHATSAPP"
+        },
+        {
+            "name": "ContactTrackingDetail",
+            "type": "bool",
+            "value": "False"
+        },
+        {
+            "name": "InboundMessageLogs",
+            "type": "bool",
+            "value": "False"
+        },
+        {
+            "name": "PotentialChannelUnsubscribes",
+            "type": "bool",
+            "value": "False"
+        }
+    ],
+    "r__dataExtractType_name": "ChatMessagingDetailExtract"
+}

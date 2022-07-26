@@ -1,0 +1,11 @@
+{
+    "name": "Update Mobile",
+    "key": "3c4d8f68-41ad-4773-a55b-284579cee1c9",
+    "description": "",
+    "targetKey": "67CB7BA3-C943-4DCC-BB1E-2C361BCEBCA3",
+    "createdDate": "2022-06-23T23:29:36.807",
+    "modifiedDate": "2022-06-23T23:32:16.19",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

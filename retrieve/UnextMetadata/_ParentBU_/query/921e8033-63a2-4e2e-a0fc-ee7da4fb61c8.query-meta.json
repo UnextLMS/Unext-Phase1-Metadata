@@ -1,0 +1,11 @@
+{
+    "name": "LearnerQuizInvalidTargetAllMembers",
+    "key": "921e8033-63a2-4e2e-a0fc-ee7da4fb61c8",
+    "description": "",
+    "targetKey": "A6596844-8654-4B9C-9369-487AE7DDC8F8",
+    "createdDate": "2022-05-17T08:22:51.09",
+    "modifiedDate": "2022-05-17T08:22:51.09",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

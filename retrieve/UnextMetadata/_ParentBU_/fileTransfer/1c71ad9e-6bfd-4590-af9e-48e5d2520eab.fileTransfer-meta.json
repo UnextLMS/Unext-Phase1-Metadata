@@ -1,0 +1,16 @@
+{
+    "name": "pushFileAct",
+    "customerKey": "1c71ad9e-6bfd-4590-af9e-48e5d2520eab",
+    "createdDate": "2022-04-06T03:30:42.267",
+    "modifiedDate": "2022-04-06T03:30:42.267",
+    "fileSpec": "pushRecords.zip",
+    "isEncrypted": false,
+    "isCompressed": false,
+    "maxFileAge": 0,
+    "maxFileAgeScheduleOffset": 0,
+    "maxImportFrequency": 0,
+    "isUpload": true,
+    "isPgp": false,
+    "isFileSpecLocalized": false,
+    "r__ftpLocation_name": "ExactTarget Enhanced FTP"
+}

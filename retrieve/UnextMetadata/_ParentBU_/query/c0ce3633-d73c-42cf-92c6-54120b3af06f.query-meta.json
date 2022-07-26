@@ -1,0 +1,11 @@
+{
+    "name": "Assignment Add Calender Event To Individual Student",
+    "key": "c0ce3633-d73c-42cf-92c6-54120b3af06f",
+    "description": "",
+    "targetKey": "67CB7BA3-C943-4DCC-BB1E-2C361BCEBCA3",
+    "createdDate": "2022-05-23T08:35:47.08",
+    "modifiedDate": "2022-07-11T05:41:24.95",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Assignment"
+}

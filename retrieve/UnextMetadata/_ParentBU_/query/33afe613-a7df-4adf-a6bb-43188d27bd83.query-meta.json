@@ -1,0 +1,11 @@
+{
+    "name": "Delete Quiz Temp Remainder DE",
+    "key": "33afe613-a7df-4adf-a6bb-43188d27bd83",
+    "description": "",
+    "targetKey": "67A77AD6-4E14-474E-B47E-891F75221D58",
+    "createdDate": "2022-06-13T09:50:52.827",
+    "modifiedDate": "2022-07-12T01:20:47.383",
+    "targetUpdateTypeName": "Overwrite",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}

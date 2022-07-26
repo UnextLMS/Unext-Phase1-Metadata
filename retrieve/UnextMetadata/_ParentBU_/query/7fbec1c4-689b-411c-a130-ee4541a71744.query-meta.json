@@ -1,0 +1,11 @@
+{
+    "name": "Get Individual Student Details From SF",
+    "key": "7fbec1c4-689b-411c-a130-ee4541a71744",
+    "description": "",
+    "targetKey": "A457502D-AFB0-46B5-A704-0B902B033CBA",
+    "createdDate": "2022-04-29T00:58:15.453",
+    "modifiedDate": "2022-07-15T04:05:12.397",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Discussion Forum"
+}

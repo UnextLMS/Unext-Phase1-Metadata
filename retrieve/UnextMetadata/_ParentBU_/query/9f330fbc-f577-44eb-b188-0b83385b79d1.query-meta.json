@@ -1,0 +1,11 @@
+{
+    "name": "Retrieve All Discussion Forum",
+    "key": "9f330fbc-f577-44eb-b188-0b83385b79d1",
+    "description": "",
+    "targetKey": "A457502D-AFB0-46B5-A704-0B902B033CBA",
+    "createdDate": "2022-05-29T23:11:45.397",
+    "modifiedDate": "2022-07-15T05:18:31.897",
+    "targetUpdateTypeName": "Append",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Discussion Forum"
+}

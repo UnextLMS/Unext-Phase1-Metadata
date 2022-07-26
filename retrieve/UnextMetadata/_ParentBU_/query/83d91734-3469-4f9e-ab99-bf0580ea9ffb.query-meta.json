@@ -1,0 +1,11 @@
+{
+    "name": "Quiz Update Invalid To True To All Students",
+    "key": "83d91734-3469-4f9e-ab99-bf0580ea9ffb",
+    "description": "",
+    "targetKey": "B3771E2E-6EF8-468E-8F12-BCC0AF40ECA3",
+    "createdDate": "2022-05-23T03:33:45.617",
+    "modifiedDate": "2022-07-20T07:48:59.96",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query/Quiz"
+}

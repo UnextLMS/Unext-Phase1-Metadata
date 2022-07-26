@@ -1,0 +1,11 @@
+{
+    "name": "Invalid Individual Contact",
+    "key": "701be404-ff00-445d-a8db-841791f0bc6f",
+    "description": "",
+    "targetKey": "20F8788D-5EB8-4339-AF9B-39A138E23A0D",
+    "createdDate": "2022-04-30T03:13:18.01",
+    "modifiedDate": "2022-05-18T06:59:37.257",
+    "targetUpdateTypeName": "Update",
+    "isFrozen": false,
+    "r__folder_Path": "Query"
+}
